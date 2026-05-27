@@ -1,0 +1,27 @@
+name: Fetch TWSE Data
+
+on:
+  schedule:
+    - cron: "0 10 * * 1-5"   # 每天台灣時間 18:00 (UTC+8 → UTC 10)
+  workflow_dispatch:        # 手動觸發
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+      - name: Install dependencies
+        run: pip install requests
+      - name: Fetch TWSE Data
+        run: python fetch_twse.py
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Update TWSE data"
+          git push
