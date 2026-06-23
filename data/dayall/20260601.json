@@ -9,7 +9,7 @@
     "HighestPrice": "15.11",
     "LowestPrice": "14.85",
     "ClosingPrice": "14.95",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "8756"
   },
   {
@@ -22,7 +22,7 @@
     "HighestPrice": "13.89",
     "LowestPrice": "13.73",
     "ClosingPrice": "13.74",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "1141"
   },
   {
@@ -35,7 +35,7 @@
     "HighestPrice": "10.94",
     "LowestPrice": "10.73",
     "ClosingPrice": "10.82",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "91067"
   },
   {
@@ -48,7 +48,7 @@
     "HighestPrice": "106.70",
     "LowestPrice": "104.50",
     "ClosingPrice": "105.50",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "156361"
   },
   {
@@ -61,7 +61,7 @@
     "HighestPrice": "145.50",
     "LowestPrice": "142.40",
     "ClosingPrice": "145.00",
-    "Change": "3.10",
+    "Change": "+3.10",
     "Transaction": "918"
   },
   {
@@ -74,7 +74,7 @@
     "HighestPrice": "63.20",
     "LowestPrice": "62.00",
     "ClosingPrice": "62.05",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "22117"
   },
   {
@@ -87,7 +87,7 @@
     "HighestPrice": "246.15",
     "LowestPrice": "244.05",
     "ClosingPrice": "244.75",
-    "Change": "3.55",
+    "Change": "+3.55",
     "Transaction": "1748"
   },
   {
@@ -100,7 +100,7 @@
     "HighestPrice": "36.05",
     "LowestPrice": "34.98",
     "ClosingPrice": "35.90",
-    "Change": "0.81",
+    "Change": "+0.81",
     "Transaction": "613"
   },
   {
@@ -113,7 +113,7 @@
     "HighestPrice": "51.90",
     "LowestPrice": "50.50",
     "ClosingPrice": "51.90",
-    "Change": "1.70",
+    "Change": "+1.70",
     "Transaction": "33203"
   },
   {
@@ -126,7 +126,7 @@
     "HighestPrice": "314.00",
     "LowestPrice": "311.55",
     "ClosingPrice": "313.40",
-    "Change": "3.80",
+    "Change": "+3.80",
     "Transaction": "134"
   },
   {
@@ -152,7 +152,7 @@
     "HighestPrice": "192.40",
     "LowestPrice": "190.80",
     "ClosingPrice": "192.05",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "170"
   },
   {
@@ -165,7 +165,7 @@
     "HighestPrice": "228.45",
     "LowestPrice": "228.00",
     "ClosingPrice": "228.30",
-    "Change": "3.85",
+    "Change": "+3.85",
     "Transaction": "127"
   },
   {
@@ -217,13 +217,13 @@
     "HighestPrice": "247.00",
     "LowestPrice": "241.50",
     "ClosingPrice": "243.90",
-    "Change": "2.65",
+    "Change": "+2.65",
     "Transaction": "13575"
   },
   {
     "Date": "1150601",
     "Code": "00625K",
-    "Name": "富邦上証R",
+    "Name": "富邦上証+R",
     "TradeVolume": "0",
     "TradeValue": "0",
     "OpeningPrice": "0.00",
@@ -243,7 +243,7 @@
     "HighestPrice": "38.64",
     "LowestPrice": "37.17",
     "ClosingPrice": "37.78",
-    "Change": "0.84",
+    "Change": "+0.84",
     "Transaction": "70976"
   },
   {
@@ -282,7 +282,7 @@
     "HighestPrice": "3.05",
     "LowestPrice": "3.01",
     "ClosingPrice": "3.05",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "14"
   },
   {
@@ -295,7 +295,7 @@
     "HighestPrice": "47.35",
     "LowestPrice": "47.11",
     "ClosingPrice": "47.22",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "2469"
   },
   {
@@ -314,7 +314,7 @@
   {
     "Date": "1150601",
     "Code": "00636K",
-    "Name": "國泰中國A50U",
+    "Name": "國泰中國A50+U",
     "TradeVolume": "200",
     "TradeValue": "1842",
     "OpeningPrice": "9.21",
@@ -347,7 +347,7 @@
     "HighestPrice": "6.50",
     "LowestPrice": "6.41",
     "ClosingPrice": "6.45",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "30"
   },
   {
@@ -386,7 +386,7 @@
     "HighestPrice": "3.86",
     "LowestPrice": "3.81",
     "ClosingPrice": "3.86",
-    "Change": "0.06",
+    "Change": "+0.06",
     "Transaction": "57"
   },
   {
@@ -399,7 +399,7 @@
     "HighestPrice": "28.37",
     "LowestPrice": "28.11",
     "ClosingPrice": "28.24",
-    "Change": "0.56",
+    "Change": "+0.56",
     "Transaction": "1465"
   },
   {
@@ -418,7 +418,7 @@
   {
     "Date": "1150601",
     "Code": "00643K",
-    "Name": "群益深証中小R",
+    "Name": "群益深証中小+R",
     "TradeVolume": "1000",
     "TradeValue": "4330",
     "OpeningPrice": "4.33",
@@ -451,7 +451,7 @@
     "HighestPrice": "75.05",
     "LowestPrice": "74.75",
     "ClosingPrice": "74.95",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "4668"
   },
   {
@@ -464,7 +464,7 @@
     "HighestPrice": "137.60",
     "LowestPrice": "137.20",
     "ClosingPrice": "137.55",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "121"
   },
   {
@@ -490,7 +490,7 @@
     "HighestPrice": "16.90",
     "LowestPrice": "16.46",
     "ClosingPrice": "16.79",
-    "Change": "0.13",
+    "Change": "+0.13",
     "Transaction": "643"
   },
   {
@@ -542,7 +542,7 @@
     "HighestPrice": "6.89",
     "LowestPrice": "6.83",
     "ClosingPrice": "6.89",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "19"
   },
   {
@@ -568,7 +568,7 @@
     "HighestPrice": "5.76",
     "LowestPrice": "5.66",
     "ClosingPrice": "5.73",
-    "Change": "0.08",
+    "Change": "+0.08",
     "Transaction": "39"
   },
   {
@@ -581,20 +581,20 @@
     "HighestPrice": "78.35",
     "LowestPrice": "77.80",
     "ClosingPrice": "77.90",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "138"
   },
   {
     "Date": "1150601",
     "Code": "00657K",
-    "Name": "國泰日經225U",
+    "Name": "國泰日經225+U",
     "TradeVolume": "300",
     "TradeValue": "7494",
     "OpeningPrice": "24.92",
     "HighestPrice": "25.01",
     "LowestPrice": "24.92",
     "ClosingPrice": "25.01",
-    "Change": "0.27",
+    "Change": "+0.27",
     "Transaction": "3"
   },
   {
@@ -620,7 +620,7 @@
     "HighestPrice": "86.35",
     "LowestPrice": "85.70",
     "ClosingPrice": "85.85",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "248"
   },
   {
@@ -633,7 +633,7 @@
     "HighestPrice": "123.05",
     "LowestPrice": "122.60",
     "ClosingPrice": "122.75",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "4992"
   },
   {
@@ -646,7 +646,7 @@
     "HighestPrice": "112.70",
     "LowestPrice": "108.55",
     "ClosingPrice": "110.25",
-    "Change": "2.80",
+    "Change": "+2.80",
     "Transaction": "4944"
   },
   {
@@ -672,7 +672,7 @@
     "HighestPrice": "9.52",
     "LowestPrice": "9.21",
     "ClosingPrice": "9.42",
-    "Change": "0.09",
+    "Change": "+0.09",
     "Transaction": "1187"
   },
   {
@@ -698,20 +698,20 @@
     "HighestPrice": "58.50",
     "LowestPrice": "58.40",
     "ClosingPrice": "58.40",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "143"
   },
   {
     "Date": "1150601",
     "Code": "00668K",
-    "Name": "國泰美國道瓊U",
+    "Name": "國泰美國道瓊+U",
     "TradeVolume": "200",
     "TradeValue": "3728",
     "OpeningPrice": "18.64",
     "HighestPrice": "18.64",
     "LowestPrice": "18.64",
     "ClosingPrice": "18.64",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "2"
   },
   {
@@ -737,7 +737,7 @@
     "HighestPrice": "222.85",
     "LowestPrice": "221.70",
     "ClosingPrice": "222.55",
-    "Change": "3.60",
+    "Change": "+3.60",
     "Transaction": "996"
   },
   {
@@ -789,7 +789,7 @@
     "HighestPrice": "340.55",
     "LowestPrice": "328.60",
     "ClosingPrice": "333.65",
-    "Change": "8.40",
+    "Change": "+8.40",
     "Transaction": "3086"
   },
   {
@@ -815,7 +815,7 @@
     "HighestPrice": "36.16",
     "LowestPrice": "36.08",
     "ClosingPrice": "36.13",
-    "Change": "0.14",
+    "Change": "+0.14",
     "Transaction": "182"
   },
   {
@@ -841,7 +841,7 @@
     "HighestPrice": "21.11",
     "LowestPrice": "21.07",
     "ClosingPrice": "21.11",
-    "Change": "0.09",
+    "Change": "+0.09",
     "Transaction": "23"
   },
   {
@@ -867,7 +867,7 @@
     "HighestPrice": "21.19",
     "LowestPrice": "21.16",
     "ClosingPrice": "21.16",
-    "Change": "0.03",
+    "Change": "+0.03",
     "Transaction": "9"
   },
   {
@@ -893,7 +893,7 @@
     "HighestPrice": "308.00",
     "LowestPrice": "297.10",
     "ClosingPrice": "301.65",
-    "Change": "7.65",
+    "Change": "+7.65",
     "Transaction": "7686"
   },
   {
@@ -932,7 +932,7 @@
     "HighestPrice": "22.04",
     "LowestPrice": "21.99",
     "ClosingPrice": "22.02",
-    "Change": "0.13",
+    "Change": "+0.13",
     "Transaction": "13"
   },
   {
@@ -945,7 +945,7 @@
     "HighestPrice": "81.80",
     "LowestPrice": "80.50",
     "ClosingPrice": "81.05",
-    "Change": "1.20",
+    "Change": "+1.20",
     "Transaction": "533"
   },
   {
@@ -958,7 +958,7 @@
     "HighestPrice": "92.30",
     "LowestPrice": "90.60",
     "ClosingPrice": "91.10",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "1728"
   },
   {
@@ -984,7 +984,7 @@
     "HighestPrice": "16.96",
     "LowestPrice": "16.74",
     "ClosingPrice": "16.88",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "199"
   },
   {
@@ -997,7 +997,7 @@
     "HighestPrice": "34.90",
     "LowestPrice": "34.06",
     "ClosingPrice": "34.72",
-    "Change": "0.64",
+    "Change": "+0.64",
     "Transaction": "622"
   },
   {
@@ -1023,7 +1023,7 @@
     "HighestPrice": "19.46",
     "LowestPrice": "19.13",
     "ClosingPrice": "19.46",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "99"
   },
   {
@@ -1062,7 +1062,7 @@
     "HighestPrice": "90.10",
     "LowestPrice": "89.05",
     "ClosingPrice": "89.55",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "1269"
   },
   {
@@ -1088,7 +1088,7 @@
     "HighestPrice": "18.94",
     "LowestPrice": "18.86",
     "ClosingPrice": "18.89",
-    "Change": "0.01",
+    "Change": "+0.01",
     "Transaction": "97"
   },
   {
@@ -1101,7 +1101,7 @@
     "HighestPrice": "16.06",
     "LowestPrice": "16.03",
     "ClosingPrice": "16.05",
-    "Change": "0.02",
+    "Change": "+0.02",
     "Transaction": "30"
   },
   {
@@ -1114,7 +1114,7 @@
     "HighestPrice": "8.81",
     "LowestPrice": "8.77",
     "ClosingPrice": "8.80",
-    "Change": "0.02",
+    "Change": "+0.02",
     "Transaction": "5252"
   },
   {
@@ -1127,7 +1127,7 @@
     "HighestPrice": "58.05",
     "LowestPrice": "56.75",
     "ClosingPrice": "57.95",
-    "Change": "1.40",
+    "Change": "+1.40",
     "Transaction": "10055"
   },
   {
@@ -1153,7 +1153,7 @@
     "HighestPrice": "52.90",
     "LowestPrice": "52.00",
     "ClosingPrice": "52.55",
-    "Change": "1.55",
+    "Change": "+1.55",
     "Transaction": "2557"
   },
   {
@@ -1179,7 +1179,7 @@
     "HighestPrice": "65.20",
     "LowestPrice": "63.55",
     "ClosingPrice": "64.40",
-    "Change": "1.35",
+    "Change": "+1.35",
     "Transaction": "434"
   },
   {
@@ -1192,7 +1192,7 @@
     "HighestPrice": "28.78",
     "LowestPrice": "28.15",
     "ClosingPrice": "28.78",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "486"
   },
   {
@@ -1205,7 +1205,7 @@
     "HighestPrice": "79.90",
     "LowestPrice": "78.15",
     "ClosingPrice": "79.85",
-    "Change": "2.25",
+    "Change": "+2.25",
     "Transaction": "435"
   },
   {
@@ -1218,7 +1218,7 @@
     "HighestPrice": "77.70",
     "LowestPrice": "76.25",
     "ClosingPrice": "76.95",
-    "Change": "1.35",
+    "Change": "+1.35",
     "Transaction": "738"
   },
   {
@@ -1231,7 +1231,7 @@
     "HighestPrice": "117.65",
     "LowestPrice": "114.85",
     "ClosingPrice": "116.35",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "5131"
   },
   {
@@ -1244,7 +1244,7 @@
     "HighestPrice": "30.95",
     "LowestPrice": "30.87",
     "ClosingPrice": "30.95",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "70"
   },
   {
@@ -1257,7 +1257,7 @@
     "HighestPrice": "40.43",
     "LowestPrice": "39.60",
     "ClosingPrice": "40.41",
-    "Change": "1.18",
+    "Change": "+1.18",
     "Transaction": "377"
   },
   {
@@ -1270,7 +1270,7 @@
     "HighestPrice": "61.15",
     "LowestPrice": "60.30",
     "ClosingPrice": "61.10",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "2018"
   },
   {
@@ -1296,7 +1296,7 @@
     "HighestPrice": "22.88",
     "LowestPrice": "22.58",
     "ClosingPrice": "22.82",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "674"
   },
   {
@@ -1315,14 +1315,14 @@
   {
     "Date": "1150601",
     "Code": "00757",
-    "Name": "統一FANG",
+    "Name": "統一FANG+",
     "TradeVolume": "4592931",
     "TradeValue": "632280083",
     "OpeningPrice": "137.35",
     "HighestPrice": "138.00",
     "LowestPrice": "137.15",
     "ClosingPrice": "137.90",
-    "Change": "4.20",
+    "Change": "+4.20",
     "Transaction": "3695"
   },
   {
@@ -1335,7 +1335,7 @@
     "HighestPrice": "119.35",
     "LowestPrice": "117.70",
     "ClosingPrice": "119.30",
-    "Change": "2.40",
+    "Change": "+2.40",
     "Transaction": "715"
   },
   {
@@ -1348,7 +1348,7 @@
     "HighestPrice": "34.55",
     "LowestPrice": "34.34",
     "ClosingPrice": "34.54",
-    "Change": "0.21",
+    "Change": "+0.21",
     "Transaction": "401"
   },
   {
@@ -1361,7 +1361,7 @@
     "HighestPrice": "69.75",
     "LowestPrice": "68.80",
     "ClosingPrice": "69.55",
-    "Change": "1.55",
+    "Change": "+1.55",
     "Transaction": "529"
   },
   {
@@ -1380,7 +1380,7 @@
   {
     "Date": "1150601",
     "Code": "00775B",
-    "Name": "新光投等債15",
+    "Name": "新光投等債15+",
     "TradeVolume": "1247",
     "TradeValue": "39915",
     "OpeningPrice": "32.00",
@@ -1413,7 +1413,7 @@
     "HighestPrice": "90.85",
     "LowestPrice": "90.25",
     "ClosingPrice": "90.40",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "7189"
   },
   {
@@ -1426,7 +1426,7 @@
     "HighestPrice": "91.45",
     "LowestPrice": "89.85",
     "ClosingPrice": "90.75",
-    "Change": "1.60",
+    "Change": "+1.60",
     "Transaction": "1544"
   },
   {
@@ -1439,7 +1439,7 @@
     "HighestPrice": "72.20",
     "LowestPrice": "71.55",
     "ClosingPrice": "72.20",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "108"
   },
   {
@@ -1452,7 +1452,7 @@
     "HighestPrice": "33.10",
     "LowestPrice": "33.02",
     "ClosingPrice": "33.10",
-    "Change": "0.42",
+    "Change": "+0.42",
     "Transaction": "46"
   },
   {
@@ -1465,7 +1465,7 @@
     "HighestPrice": "91.65",
     "LowestPrice": "90.75",
     "ClosingPrice": "91.50",
-    "Change": "1.60",
+    "Change": "+1.60",
     "Transaction": "2434"
   },
   {
@@ -1491,7 +1491,7 @@
     "HighestPrice": "49.12",
     "LowestPrice": "48.46",
     "ClosingPrice": "49.08",
-    "Change": "2.26",
+    "Change": "+2.26",
     "Transaction": "257"
   },
   {
@@ -1504,7 +1504,7 @@
     "HighestPrice": "93.85",
     "LowestPrice": "92.60",
     "ClosingPrice": "92.70",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "2063"
   },
   {
@@ -1517,7 +1517,7 @@
     "HighestPrice": "32.05",
     "LowestPrice": "31.30",
     "ClosingPrice": "31.99",
-    "Change": "1.23",
+    "Change": "+1.23",
     "Transaction": "38345"
   },
   {
@@ -1530,7 +1530,7 @@
     "HighestPrice": "56.20",
     "LowestPrice": "55.30",
     "ClosingPrice": "55.50",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "7110"
   },
   {
@@ -1543,7 +1543,7 @@
     "HighestPrice": "15.74",
     "LowestPrice": "15.48",
     "ClosingPrice": "15.73",
-    "Change": "0.06",
+    "Change": "+0.06",
     "Transaction": "2702"
   },
   {
@@ -1569,7 +1569,7 @@
     "HighestPrice": "36.80",
     "LowestPrice": "36.22",
     "ClosingPrice": "36.42",
-    "Change": "0.37",
+    "Change": "+0.37",
     "Transaction": "9329"
   },
   {
@@ -1608,7 +1608,7 @@
     "HighestPrice": "51.00",
     "LowestPrice": "50.10",
     "ClosingPrice": "50.55",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "1014"
   },
   {
@@ -1634,7 +1634,7 @@
     "HighestPrice": "29.55",
     "LowestPrice": "29.15",
     "ClosingPrice": "29.37",
-    "Change": "0.57",
+    "Change": "+0.57",
     "Transaction": "1556"
   },
   {
@@ -1647,7 +1647,7 @@
     "HighestPrice": "9.91",
     "LowestPrice": "9.85",
     "ClosingPrice": "9.90",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "286"
   },
   {
@@ -1660,7 +1660,7 @@
     "HighestPrice": "8.33",
     "LowestPrice": "8.27",
     "ClosingPrice": "8.28",
-    "Change": "0.02",
+    "Change": "+0.02",
     "Transaction": "276"
   },
   {
@@ -1673,7 +1673,7 @@
     "HighestPrice": "30.10",
     "LowestPrice": "29.96",
     "ClosingPrice": "30.09",
-    "Change": "0.14",
+    "Change": "+0.14",
     "Transaction": "280"
   },
   {
@@ -1686,7 +1686,7 @@
     "HighestPrice": "19.65",
     "LowestPrice": "19.00",
     "ClosingPrice": "19.58",
-    "Change": "0.66",
+    "Change": "+0.66",
     "Transaction": "3517"
   },
   {
@@ -1699,7 +1699,7 @@
     "HighestPrice": "48.07",
     "LowestPrice": "47.37",
     "ClosingPrice": "47.68",
-    "Change": "0.87",
+    "Change": "+0.87",
     "Transaction": "371"
   },
   {
@@ -1725,7 +1725,7 @@
     "HighestPrice": "22.83",
     "LowestPrice": "22.73",
     "ClosingPrice": "22.83",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "201"
   },
   {
@@ -1738,7 +1738,7 @@
     "HighestPrice": "43.30",
     "LowestPrice": "42.63",
     "ClosingPrice": "42.97",
-    "Change": "0.52",
+    "Change": "+0.52",
     "Transaction": "1051"
   },
   {
@@ -1751,7 +1751,7 @@
     "HighestPrice": "27.89",
     "LowestPrice": "27.50",
     "ClosingPrice": "27.76",
-    "Change": "0.54",
+    "Change": "+0.54",
     "Transaction": "1033"
   },
   {
@@ -1764,13 +1764,13 @@
     "HighestPrice": "15.66",
     "LowestPrice": "15.35",
     "ClosingPrice": "15.64",
-    "Change": "0.29",
+    "Change": "+0.29",
     "Transaction": "933"
   },
   {
     "Date": "1150601",
     "Code": "00908",
-    "Name": "富邦入息REITs",
+    "Name": "富邦入息REITs+",
     "TradeVolume": "76250",
     "TradeValue": "1100281",
     "OpeningPrice": "14.43",
@@ -1816,7 +1816,7 @@
     "HighestPrice": "61.65",
     "LowestPrice": "60.65",
     "ClosingPrice": "61.05",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "1410"
   },
   {
@@ -1829,7 +1829,7 @@
     "HighestPrice": "33.25",
     "LowestPrice": "32.70",
     "ClosingPrice": "32.94",
-    "Change": "0.34",
+    "Change": "+0.34",
     "Transaction": "425"
   },
   {
@@ -1842,7 +1842,7 @@
     "HighestPrice": "53.20",
     "LowestPrice": "51.50",
     "ClosingPrice": "52.10",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "1551"
   },
   {
@@ -1855,7 +1855,7 @@
     "HighestPrice": "29.86",
     "LowestPrice": "29.07",
     "ClosingPrice": "29.72",
-    "Change": "0.66",
+    "Change": "+0.66",
     "Transaction": "1962"
   },
   {
@@ -1868,7 +1868,7 @@
     "HighestPrice": "28.57",
     "LowestPrice": "28.47",
     "ClosingPrice": "28.56",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "388"
   },
   {
@@ -1881,7 +1881,7 @@
     "HighestPrice": "21.64",
     "LowestPrice": "21.56",
     "ClosingPrice": "21.63",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "414"
   },
   {
@@ -1894,7 +1894,7 @@
     "HighestPrice": "30.61",
     "LowestPrice": "29.87",
     "ClosingPrice": "30.46",
-    "Change": "1.26",
+    "Change": "+1.26",
     "Transaction": "22699"
   },
   {
@@ -1907,7 +1907,7 @@
     "HighestPrice": "30.10",
     "LowestPrice": "29.33",
     "ClosingPrice": "30.00",
-    "Change": "0.99",
+    "Change": "+0.99",
     "Transaction": "49824"
   },
   {
@@ -1933,7 +1933,7 @@
     "HighestPrice": "23.05",
     "LowestPrice": "22.53",
     "ClosingPrice": "23.05",
-    "Change": "0.73",
+    "Change": "+0.73",
     "Transaction": "390"
   },
   {
@@ -1946,7 +1946,7 @@
     "HighestPrice": "40.50",
     "LowestPrice": "39.81",
     "ClosingPrice": "40.11",
-    "Change": "0.47",
+    "Change": "+0.47",
     "Transaction": "5783"
   },
   {
@@ -1959,7 +1959,7 @@
     "HighestPrice": "43.10",
     "LowestPrice": "42.50",
     "ClosingPrice": "42.69",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "2098"
   },
   {
@@ -1972,7 +1972,7 @@
     "HighestPrice": "32.98",
     "LowestPrice": "32.77",
     "ClosingPrice": "32.94",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "1891"
   },
   {
@@ -1998,7 +1998,7 @@
     "HighestPrice": "41.96",
     "LowestPrice": "41.00",
     "ClosingPrice": "41.26",
-    "Change": "0.23",
+    "Change": "+0.23",
     "Transaction": "7153"
   },
   {
@@ -2011,7 +2011,7 @@
     "HighestPrice": "31.33",
     "LowestPrice": "30.50",
     "ClosingPrice": "30.80",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "11652"
   },
   {
@@ -2024,7 +2024,7 @@
     "HighestPrice": "25.45",
     "LowestPrice": "25.00",
     "ClosingPrice": "25.20",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "457"
   },
   {
@@ -2037,7 +2037,7 @@
     "HighestPrice": "17.26",
     "LowestPrice": "16.99",
     "ClosingPrice": "17.25",
-    "Change": "0.31",
+    "Change": "+0.31",
     "Transaction": "975"
   },
   {
@@ -2050,7 +2050,7 @@
     "HighestPrice": "28.20",
     "LowestPrice": "27.74",
     "ClosingPrice": "28.19",
-    "Change": "1.04",
+    "Change": "+1.04",
     "Transaction": "1581"
   },
   {
@@ -2063,7 +2063,7 @@
     "HighestPrice": "62.95",
     "LowestPrice": "61.90",
     "ClosingPrice": "62.40",
-    "Change": "1.15",
+    "Change": "+1.15",
     "Transaction": "9298"
   },
   {
@@ -2076,7 +2076,7 @@
     "HighestPrice": "21.39",
     "LowestPrice": "20.60",
     "ClosingPrice": "21.37",
-    "Change": "0.87",
+    "Change": "+0.87",
     "Transaction": "1217"
   },
   {
@@ -2089,7 +2089,7 @@
     "HighestPrice": "22.24",
     "LowestPrice": "21.90",
     "ClosingPrice": "22.23",
-    "Change": "0.33",
+    "Change": "+0.33",
     "Transaction": "245"
   },
   {
@@ -2102,7 +2102,7 @@
     "HighestPrice": "20.55",
     "LowestPrice": "20.29",
     "ClosingPrice": "20.50",
-    "Change": "0.22",
+    "Change": "+0.22",
     "Transaction": "1804"
   },
   {
@@ -2115,7 +2115,7 @@
     "HighestPrice": "12.27",
     "LowestPrice": "12.05",
     "ClosingPrice": "12.27",
-    "Change": "0.29",
+    "Change": "+0.29",
     "Transaction": "9056"
   },
   {
@@ -2141,7 +2141,7 @@
     "HighestPrice": "22.68",
     "LowestPrice": "22.36",
     "ClosingPrice": "22.42",
-    "Change": "0.19",
+    "Change": "+0.19",
     "Transaction": "144"
   },
   {
@@ -2154,7 +2154,7 @@
     "HighestPrice": "20.68",
     "LowestPrice": "20.38",
     "ClosingPrice": "20.60",
-    "Change": "0.32",
+    "Change": "+0.32",
     "Transaction": "457"
   },
   {
@@ -2180,7 +2180,7 @@
     "HighestPrice": "15.48",
     "LowestPrice": "15.16",
     "ClosingPrice": "15.32",
-    "Change": "0.42",
+    "Change": "+0.42",
     "Transaction": "2027"
   },
   {
@@ -2193,7 +2193,7 @@
     "HighestPrice": "40.36",
     "LowestPrice": "39.43",
     "ClosingPrice": "40.10",
-    "Change": "1.29",
+    "Change": "+1.29",
     "Transaction": "4220"
   },
   {
@@ -2232,7 +2232,7 @@
     "HighestPrice": "19.87",
     "LowestPrice": "19.43",
     "ClosingPrice": "19.71",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "1321"
   },
   {
@@ -2284,7 +2284,7 @@
     "HighestPrice": "17.07",
     "LowestPrice": "16.98",
     "ClosingPrice": "17.05",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "429"
   },
   {
@@ -2297,7 +2297,7 @@
     "HighestPrice": "12.78",
     "LowestPrice": "12.54",
     "ClosingPrice": "12.78",
-    "Change": "0.52",
+    "Change": "+0.52",
     "Transaction": "898"
   },
   {
@@ -2310,7 +2310,7 @@
     "HighestPrice": "15.83",
     "LowestPrice": "15.62",
     "ClosingPrice": "15.77",
-    "Change": "0.67",
+    "Change": "+0.67",
     "Transaction": "1210"
   },
   {
@@ -2336,7 +2336,7 @@
     "HighestPrice": "14.67",
     "LowestPrice": "14.38",
     "ClosingPrice": "14.62",
-    "Change": "0.24",
+    "Change": "+0.24",
     "Transaction": "497"
   },
   {
@@ -2362,7 +2362,7 @@
     "HighestPrice": "17.16",
     "LowestPrice": "17.07",
     "ClosingPrice": "17.14",
-    "Change": "0.11",
+    "Change": "+0.11",
     "Transaction": "372"
   },
   {
@@ -2388,7 +2388,7 @@
     "HighestPrice": "13.29",
     "LowestPrice": "13.22",
     "ClosingPrice": "13.26",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "898"
   },
   {
@@ -2401,7 +2401,7 @@
     "HighestPrice": "12.63",
     "LowestPrice": "12.55",
     "ClosingPrice": "12.62",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "375"
   },
   {
@@ -2414,7 +2414,7 @@
     "HighestPrice": "20.97",
     "LowestPrice": "20.48",
     "ClosingPrice": "20.64",
-    "Change": "0.38",
+    "Change": "+0.38",
     "Transaction": "2707"
   },
   {
@@ -2427,7 +2427,7 @@
     "HighestPrice": "22.51",
     "LowestPrice": "22.11",
     "ClosingPrice": "22.11",
-    "Change": "0.24",
+    "Change": "+0.24",
     "Transaction": "893"
   },
   {
@@ -2440,7 +2440,7 @@
     "HighestPrice": "23.99",
     "LowestPrice": "23.56",
     "ClosingPrice": "23.75",
-    "Change": "0.39",
+    "Change": "+0.39",
     "Transaction": "414"
   },
   {
@@ -2466,7 +2466,7 @@
     "HighestPrice": "31.18",
     "LowestPrice": "30.50",
     "ClosingPrice": "30.94",
-    "Change": "0.48",
+    "Change": "+0.48",
     "Transaction": "114"
   },
   {
@@ -2479,7 +2479,7 @@
     "HighestPrice": "17.55",
     "LowestPrice": "17.14",
     "ClosingPrice": "17.33",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "121"
   },
   {
@@ -2492,7 +2492,7 @@
     "HighestPrice": "25.07",
     "LowestPrice": "24.74",
     "ClosingPrice": "24.90",
-    "Change": "0.42",
+    "Change": "+0.42",
     "Transaction": "3737"
   },
   {
@@ -2505,7 +2505,7 @@
     "HighestPrice": "20.95",
     "LowestPrice": "20.88",
     "ClosingPrice": "20.89",
-    "Change": "0.08",
+    "Change": "+0.08",
     "Transaction": "78"
   },
   {
@@ -2518,7 +2518,7 @@
     "HighestPrice": "13.12",
     "LowestPrice": "13.07",
     "ClosingPrice": "13.11",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "884"
   },
   {
@@ -2544,7 +2544,7 @@
     "HighestPrice": "11.46",
     "LowestPrice": "11.42",
     "ClosingPrice": "11.44",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "926"
   },
   {
@@ -2557,7 +2557,7 @@
     "HighestPrice": "15.60",
     "LowestPrice": "15.32",
     "ClosingPrice": "15.40",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "43447"
   },
   {
@@ -2583,7 +2583,7 @@
     "HighestPrice": "20.05",
     "LowestPrice": "19.74",
     "ClosingPrice": "20.04",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "152"
   },
   {
@@ -2596,7 +2596,7 @@
     "HighestPrice": "10.82",
     "LowestPrice": "10.62",
     "ClosingPrice": "10.79",
-    "Change": "0.41",
+    "Change": "+0.41",
     "Transaction": "5639"
   },
   {
@@ -2609,7 +2609,7 @@
     "HighestPrice": "32.07",
     "LowestPrice": "31.61",
     "ClosingPrice": "31.70",
-    "Change": "0.16",
+    "Change": "+0.16",
     "Transaction": "73732"
   },
   {
@@ -2622,7 +2622,7 @@
     "HighestPrice": "12.15",
     "LowestPrice": "12.06",
     "ClosingPrice": "12.12",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "390"
   },
   {
@@ -2635,7 +2635,7 @@
     "HighestPrice": "10.69",
     "LowestPrice": "10.60",
     "ClosingPrice": "10.69",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "2767"
   },
   {
@@ -2648,7 +2648,7 @@
     "HighestPrice": "24.66",
     "LowestPrice": "24.22",
     "ClosingPrice": "24.35",
-    "Change": "0.01",
+    "Change": "+0.01",
     "Transaction": "11396"
   },
   {
@@ -2674,7 +2674,7 @@
     "HighestPrice": "15.98",
     "LowestPrice": "15.64",
     "ClosingPrice": "15.79",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "59"
   },
   {
@@ -2687,7 +2687,7 @@
     "HighestPrice": "12.28",
     "LowestPrice": "12.21",
     "ClosingPrice": "12.28",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "1076"
   },
   {
@@ -2713,7 +2713,7 @@
     "HighestPrice": "16.56",
     "LowestPrice": "16.25",
     "ClosingPrice": "16.50",
-    "Change": "0.34",
+    "Change": "+0.34",
     "Transaction": "2328"
   },
   {
@@ -2739,7 +2739,7 @@
     "HighestPrice": "22.60",
     "LowestPrice": "22.28",
     "ClosingPrice": "22.42",
-    "Change": "0.27",
+    "Change": "+0.27",
     "Transaction": "2026"
   },
   {
@@ -2765,7 +2765,7 @@
     "HighestPrice": "15.29",
     "LowestPrice": "15.03",
     "ClosingPrice": "15.21",
-    "Change": "0.18",
+    "Change": "+0.18",
     "Transaction": "259"
   },
   {
@@ -2778,7 +2778,7 @@
     "HighestPrice": "18.30",
     "LowestPrice": "17.90",
     "ClosingPrice": "18.16",
-    "Change": "0.26",
+    "Change": "+0.26",
     "Transaction": "1627"
   },
   {
@@ -2804,7 +2804,7 @@
     "HighestPrice": "18.22",
     "LowestPrice": "18.14",
     "ClosingPrice": "18.22",
-    "Change": "0.26",
+    "Change": "+0.26",
     "Transaction": "324"
   },
   {
@@ -2817,7 +2817,7 @@
     "HighestPrice": "20.43",
     "LowestPrice": "20.13",
     "ClosingPrice": "20.20",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "9540"
   },
   {
@@ -2830,7 +2830,7 @@
     "HighestPrice": "20.27",
     "LowestPrice": "19.80",
     "ClosingPrice": "19.95",
-    "Change": "0.31",
+    "Change": "+0.31",
     "Transaction": "24627"
   },
   {
@@ -2843,7 +2843,7 @@
     "HighestPrice": "18.74",
     "LowestPrice": "18.49",
     "ClosingPrice": "18.57",
-    "Change": "0.22",
+    "Change": "+0.22",
     "Transaction": "17557"
   },
   {
@@ -2856,7 +2856,7 @@
     "HighestPrice": "14.03",
     "LowestPrice": "13.86",
     "ClosingPrice": "13.86",
-    "Change": "0.08",
+    "Change": "+0.08",
     "Transaction": "2250"
   },
   {
@@ -2869,7 +2869,7 @@
     "HighestPrice": "18.82",
     "LowestPrice": "18.56",
     "ClosingPrice": "18.65",
-    "Change": "0.17",
+    "Change": "+0.17",
     "Transaction": "2502"
   },
   {
@@ -2882,7 +2882,7 @@
     "HighestPrice": "18.45",
     "LowestPrice": "18.19",
     "ClosingPrice": "18.26",
-    "Change": "0.11",
+    "Change": "+0.11",
     "Transaction": "1629"
   },
   {
@@ -2895,7 +2895,7 @@
     "HighestPrice": "15.83",
     "LowestPrice": "15.45",
     "ClosingPrice": "15.72",
-    "Change": "0.43",
+    "Change": "+0.43",
     "Transaction": "2372"
   },
   {
@@ -2908,7 +2908,7 @@
     "HighestPrice": "13.39",
     "LowestPrice": "13.27",
     "ClosingPrice": "13.31",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "3490"
   },
   {
@@ -2921,7 +2921,7 @@
     "HighestPrice": "11.20",
     "LowestPrice": "11.01",
     "ClosingPrice": "11.16",
-    "Change": "0.26",
+    "Change": "+0.26",
     "Transaction": "7710"
   },
   {
@@ -2960,7 +2960,7 @@
     "HighestPrice": "10.49",
     "LowestPrice": "10.42",
     "ClosingPrice": "10.49",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "43"
   },
   {
@@ -2973,7 +2973,7 @@
     "HighestPrice": "12.72",
     "LowestPrice": "12.71",
     "ClosingPrice": "12.72",
-    "Change": "0.01",
+    "Change": "+0.01",
     "Transaction": "55"
   },
   {
@@ -3012,7 +3012,7 @@
     "HighestPrice": "34.83",
     "LowestPrice": "34.68",
     "ClosingPrice": "34.72",
-    "Change": "1.34",
+    "Change": "+1.34",
     "Transaction": "8"
   },
   {
@@ -3051,7 +3051,7 @@
     "HighestPrice": "186.45",
     "LowestPrice": "178.65",
     "ClosingPrice": "179.35",
-    "Change": "7.05",
+    "Change": "+7.05",
     "Transaction": "90"
   },
   {
@@ -3064,7 +3064,7 @@
     "HighestPrice": "29.20",
     "LowestPrice": "28.76",
     "ClosingPrice": "28.99",
-    "Change": "0.62",
+    "Change": "+0.62",
     "Transaction": "17"
   },
   {
@@ -3077,7 +3077,7 @@
     "HighestPrice": "21.94",
     "LowestPrice": "21.71",
     "ClosingPrice": "21.94",
-    "Change": "0.79",
+    "Change": "+0.79",
     "Transaction": "12"
   },
   {
@@ -3090,7 +3090,7 @@
     "HighestPrice": "18.39",
     "LowestPrice": "17.78",
     "ClosingPrice": "18.39",
-    "Change": "0.61",
+    "Change": "+0.61",
     "Transaction": "9"
   },
   {
@@ -3103,7 +3103,7 @@
     "HighestPrice": "19.42",
     "LowestPrice": "19.27",
     "ClosingPrice": "19.30",
-    "Change": "0.48",
+    "Change": "+0.48",
     "Transaction": "6"
   },
   {
@@ -3116,7 +3116,7 @@
     "HighestPrice": "11.06",
     "LowestPrice": "10.80",
     "ClosingPrice": "11.02",
-    "Change": "0.23",
+    "Change": "+0.23",
     "Transaction": "11"
   },
   {
@@ -3129,7 +3129,7 @@
     "HighestPrice": "11.16",
     "LowestPrice": "11.06",
     "ClosingPrice": "11.06",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "5"
   },
   {
@@ -3142,7 +3142,7 @@
     "HighestPrice": "14.79",
     "LowestPrice": "14.62",
     "ClosingPrice": "14.77",
-    "Change": "0.37",
+    "Change": "+0.37",
     "Transaction": "13"
   },
   {
@@ -3168,7 +3168,7 @@
     "HighestPrice": "9.07",
     "LowestPrice": "9.07",
     "ClosingPrice": "9.07",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "1"
   },
   {
@@ -3181,7 +3181,7 @@
     "HighestPrice": "14.16",
     "LowestPrice": "13.68",
     "ClosingPrice": "14.15",
-    "Change": "0.47",
+    "Change": "+0.47",
     "Transaction": "10"
   },
   {
@@ -3194,7 +3194,7 @@
     "HighestPrice": "14.51",
     "LowestPrice": "14.45",
     "ClosingPrice": "14.45",
-    "Change": "0.16",
+    "Change": "+0.16",
     "Transaction": "4"
   },
   {
@@ -3207,7 +3207,7 @@
     "HighestPrice": "24.70",
     "LowestPrice": "24.20",
     "ClosingPrice": "24.55",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "10973"
   },
   {
@@ -3259,7 +3259,7 @@
     "HighestPrice": "27.95",
     "LowestPrice": "27.60",
     "ClosingPrice": "27.90",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "711"
   },
   {
@@ -3272,7 +3272,7 @@
     "HighestPrice": "13.85",
     "LowestPrice": "13.65",
     "ClosingPrice": "13.80",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "162"
   },
   {
@@ -3285,7 +3285,7 @@
     "HighestPrice": "14.80",
     "LowestPrice": "14.35",
     "ClosingPrice": "14.65",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "227"
   },
   {
@@ -3311,7 +3311,7 @@
     "HighestPrice": "12.35",
     "LowestPrice": "11.95",
     "ClosingPrice": "12.30",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "564"
   },
   {
@@ -3324,7 +3324,7 @@
     "HighestPrice": "44.30",
     "LowestPrice": "43.55",
     "ClosingPrice": "43.65",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "134"
   },
   {
@@ -3350,7 +3350,7 @@
     "HighestPrice": "8.57",
     "LowestPrice": "8.10",
     "ClosingPrice": "8.50",
-    "Change": "0.19",
+    "Change": "+0.19",
     "Transaction": "34"
   },
   {
@@ -3376,7 +3376,7 @@
     "HighestPrice": "74.30",
     "LowestPrice": "72.10",
     "ClosingPrice": "73.70",
-    "Change": "1.90",
+    "Change": "+1.90",
     "Transaction": "9897"
   },
   {
@@ -3389,7 +3389,7 @@
     "HighestPrice": "9.86",
     "LowestPrice": "9.73",
     "ClosingPrice": "9.82",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "787"
   },
   {
@@ -3402,7 +3402,7 @@
     "HighestPrice": "19.40",
     "LowestPrice": "18.85",
     "ClosingPrice": "19.30",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "1141"
   },
   {
@@ -3415,7 +3415,7 @@
     "HighestPrice": "12.75",
     "LowestPrice": "12.55",
     "ClosingPrice": "12.70",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "344"
   },
   {
@@ -3428,7 +3428,7 @@
     "HighestPrice": "11.75",
     "LowestPrice": "11.60",
     "ClosingPrice": "11.70",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "334"
   },
   {
@@ -3441,7 +3441,7 @@
     "HighestPrice": "30.15",
     "LowestPrice": "29.40",
     "ClosingPrice": "29.70",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "275"
   },
   {
@@ -3454,7 +3454,7 @@
     "HighestPrice": "28.30",
     "LowestPrice": "27.85",
     "ClosingPrice": "28.20",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "1356"
   },
   {
@@ -3467,7 +3467,7 @@
     "HighestPrice": "40.45",
     "LowestPrice": "40.00",
     "ClosingPrice": "40.40",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "2777"
   },
   {
@@ -3480,7 +3480,7 @@
     "HighestPrice": "86.20",
     "LowestPrice": "84.70",
     "ClosingPrice": "86.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "912"
   },
   {
@@ -3519,7 +3519,7 @@
     "HighestPrice": "34.55",
     "LowestPrice": "34.35",
     "ClosingPrice": "34.55",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "146"
   },
   {
@@ -3545,7 +3545,7 @@
     "HighestPrice": "24.60",
     "LowestPrice": "24.30",
     "ClosingPrice": "24.60",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "127"
   },
   {
@@ -3558,7 +3558,7 @@
     "HighestPrice": "218.50",
     "LowestPrice": "205.00",
     "ClosingPrice": "209.50",
-    "Change": "4.00",
+    "Change": "+4.00",
     "Transaction": "2007"
   },
   {
@@ -3571,7 +3571,7 @@
     "HighestPrice": "50.30",
     "LowestPrice": "46.40",
     "ClosingPrice": "50.00",
-    "Change": "2.55",
+    "Change": "+2.55",
     "Transaction": "31917"
   },
   {
@@ -3584,7 +3584,7 @@
     "HighestPrice": "107.50",
     "LowestPrice": "97.50",
     "ClosingPrice": "107.50",
-    "Change": "9.40",
+    "Change": "+9.40",
     "Transaction": "44768"
   },
   {
@@ -3597,7 +3597,7 @@
     "HighestPrice": "13.10",
     "LowestPrice": "12.15",
     "ClosingPrice": "13.00",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "3826"
   },
   {
@@ -3610,7 +3610,7 @@
     "HighestPrice": "12.95",
     "LowestPrice": "12.20",
     "ClosingPrice": "12.85",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "2348"
   },
   {
@@ -3623,7 +3623,7 @@
     "HighestPrice": "32.55",
     "LowestPrice": "30.80",
     "ClosingPrice": "32.50",
-    "Change": "1.35",
+    "Change": "+1.35",
     "Transaction": "1149"
   },
   {
@@ -3636,7 +3636,7 @@
     "HighestPrice": "13.70",
     "LowestPrice": "13.00",
     "ClosingPrice": "13.65",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "1688"
   },
   {
@@ -3649,7 +3649,7 @@
     "HighestPrice": "16.30",
     "LowestPrice": "15.55",
     "ClosingPrice": "16.20",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "2705"
   },
   {
@@ -3662,7 +3662,7 @@
     "HighestPrice": "8.38",
     "LowestPrice": "7.97",
     "ClosingPrice": "8.33",
-    "Change": "0.29",
+    "Change": "+0.29",
     "Transaction": "1845"
   },
   {
@@ -3675,7 +3675,7 @@
     "HighestPrice": "12.20",
     "LowestPrice": "11.10",
     "ClosingPrice": "12.05",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "6909"
   },
   {
@@ -3688,7 +3688,7 @@
     "HighestPrice": "21.20",
     "LowestPrice": "20.65",
     "ClosingPrice": "21.20",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "20"
   },
   {
@@ -3701,7 +3701,7 @@
     "HighestPrice": "11.05",
     "LowestPrice": "10.50",
     "ClosingPrice": "10.95",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "2126"
   },
   {
@@ -3714,7 +3714,7 @@
     "HighestPrice": "7.20",
     "LowestPrice": "7.02",
     "ClosingPrice": "7.10",
-    "Change": "0.06",
+    "Change": "+0.06",
     "Transaction": "5911"
   },
   {
@@ -3727,7 +3727,7 @@
     "HighestPrice": "62.30",
     "LowestPrice": "62.00",
     "ClosingPrice": "62.30",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "91"
   },
   {
@@ -3740,7 +3740,7 @@
     "HighestPrice": "10.45",
     "LowestPrice": "10.05",
     "ClosingPrice": "10.35",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "1129"
   },
   {
@@ -3779,7 +3779,7 @@
     "HighestPrice": "21.00",
     "LowestPrice": "20.10",
     "ClosingPrice": "20.95",
-    "Change": "0.85",
+    "Change": "+0.85",
     "Transaction": "230"
   },
   {
@@ -3792,7 +3792,7 @@
     "HighestPrice": "10.50",
     "LowestPrice": "10.15",
     "ClosingPrice": "10.35",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "172"
   },
   {
@@ -3818,7 +3818,7 @@
     "HighestPrice": "54.50",
     "LowestPrice": "50.00",
     "ClosingPrice": "53.80",
-    "Change": "3.90",
+    "Change": "+3.90",
     "Transaction": "39974"
   },
   {
@@ -3831,7 +3831,7 @@
     "HighestPrice": "5.09",
     "LowestPrice": "4.78",
     "ClosingPrice": "4.93",
-    "Change": "0.11",
+    "Change": "+0.11",
     "Transaction": "574"
   },
   {
@@ -3883,7 +3883,7 @@
     "HighestPrice": "62.00",
     "LowestPrice": "61.00",
     "ClosingPrice": "62.00",
-    "Change": "1.20",
+    "Change": "+1.20",
     "Transaction": "30"
   },
   {
@@ -3896,7 +3896,7 @@
     "HighestPrice": "93.00",
     "LowestPrice": "91.00",
     "ClosingPrice": "92.80",
-    "Change": "1.20",
+    "Change": "+1.20",
     "Transaction": "311"
   },
   {
@@ -3922,7 +3922,7 @@
     "HighestPrice": "25.05",
     "LowestPrice": "25.05",
     "ClosingPrice": "25.05",
-    "Change": "2.25",
+    "Change": "+2.25",
     "Transaction": "2944"
   },
   {
@@ -3948,7 +3948,7 @@
     "HighestPrice": "9.43",
     "LowestPrice": "9.23",
     "ClosingPrice": "9.42",
-    "Change": "0.08",
+    "Change": "+0.08",
     "Transaction": "27"
   },
   {
@@ -3961,7 +3961,7 @@
     "HighestPrice": "15.00",
     "LowestPrice": "14.55",
     "ClosingPrice": "15.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "256"
   },
   {
@@ -3974,7 +3974,7 @@
     "HighestPrice": "11.35",
     "LowestPrice": "11.10",
     "ClosingPrice": "11.25",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "260"
   },
   {
@@ -3987,7 +3987,7 @@
     "HighestPrice": "8.22",
     "LowestPrice": "8.06",
     "ClosingPrice": "8.20",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "197"
   },
   {
@@ -4000,7 +4000,7 @@
     "HighestPrice": "20.00",
     "LowestPrice": "18.20",
     "ClosingPrice": "19.10",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "89"
   },
   {
@@ -4013,7 +4013,7 @@
     "HighestPrice": "66.80",
     "LowestPrice": "64.30",
     "ClosingPrice": "66.00",
-    "Change": "1.80",
+    "Change": "+1.80",
     "Transaction": "361"
   },
   {
@@ -4052,7 +4052,7 @@
     "HighestPrice": "15.70",
     "LowestPrice": "15.20",
     "ClosingPrice": "15.55",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "1877"
   },
   {
@@ -4065,7 +4065,7 @@
     "HighestPrice": "44.70",
     "LowestPrice": "44.00",
     "ClosingPrice": "44.70",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "338"
   },
   {
@@ -4117,7 +4117,7 @@
     "HighestPrice": "13.30",
     "LowestPrice": "12.15",
     "ClosingPrice": "12.95",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "2552"
   },
   {
@@ -4130,7 +4130,7 @@
     "HighestPrice": "9.38",
     "LowestPrice": "9.21",
     "ClosingPrice": "9.37",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "156"
   },
   {
@@ -4143,7 +4143,7 @@
     "HighestPrice": "26.85",
     "LowestPrice": "25.80",
     "ClosingPrice": "26.80",
-    "Change": "1.15",
+    "Change": "+1.15",
     "Transaction": "501"
   },
   {
@@ -4169,7 +4169,7 @@
     "HighestPrice": "6.78",
     "LowestPrice": "6.25",
     "ClosingPrice": "6.74",
-    "Change": "0.49",
+    "Change": "+0.49",
     "Transaction": "1802"
   },
   {
@@ -4195,7 +4195,7 @@
     "HighestPrice": "16.10",
     "LowestPrice": "15.75",
     "ClosingPrice": "16.10",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "162"
   },
   {
@@ -4208,7 +4208,7 @@
     "HighestPrice": "6.46",
     "LowestPrice": "6.12",
     "ClosingPrice": "6.33",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "1243"
   },
   {
@@ -4221,7 +4221,7 @@
     "HighestPrice": "14.05",
     "LowestPrice": "13.20",
     "ClosingPrice": "14.05",
-    "Change": "1.25",
+    "Change": "+1.25",
     "Transaction": "1944"
   },
   {
@@ -4234,7 +4234,7 @@
     "HighestPrice": "16.90",
     "LowestPrice": "16.55",
     "ClosingPrice": "16.65",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "177"
   },
   {
@@ -4247,7 +4247,7 @@
     "HighestPrice": "10.60",
     "LowestPrice": "10.45",
     "ClosingPrice": "10.55",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "158"
   },
   {
@@ -4273,7 +4273,7 @@
     "HighestPrice": "13.30",
     "LowestPrice": "12.30",
     "ClosingPrice": "13.00",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "836"
   },
   {
@@ -4286,7 +4286,7 @@
     "HighestPrice": "9.07",
     "LowestPrice": "8.52",
     "ClosingPrice": "9.02",
-    "Change": "0.41",
+    "Change": "+0.41",
     "Transaction": "809"
   },
   {
@@ -4338,7 +4338,7 @@
     "HighestPrice": "7.03",
     "LowestPrice": "6.86",
     "ClosingPrice": "7.00",
-    "Change": "0.06",
+    "Change": "+0.06",
     "Transaction": "363"
   },
   {
@@ -4351,7 +4351,7 @@
     "HighestPrice": "17.95",
     "LowestPrice": "17.80",
     "ClosingPrice": "17.80",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "81"
   },
   {
@@ -4364,7 +4364,7 @@
     "HighestPrice": "10.30",
     "LowestPrice": "10.10",
     "ClosingPrice": "10.25",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "390"
   },
   {
@@ -4377,7 +4377,7 @@
     "HighestPrice": "12.50",
     "LowestPrice": "12.25",
     "ClosingPrice": "12.50",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "172"
   },
   {
@@ -4390,7 +4390,7 @@
     "HighestPrice": "14.30",
     "LowestPrice": "13.75",
     "ClosingPrice": "14.20",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "169"
   },
   {
@@ -4403,7 +4403,7 @@
     "HighestPrice": "7.38",
     "LowestPrice": "6.90",
     "ClosingPrice": "7.37",
-    "Change": "0.47",
+    "Change": "+0.47",
     "Transaction": "389"
   },
   {
@@ -4416,7 +4416,7 @@
     "HighestPrice": "12.10",
     "LowestPrice": "11.75",
     "ClosingPrice": "12.10",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "44"
   },
   {
@@ -4429,7 +4429,7 @@
     "HighestPrice": "22.65",
     "LowestPrice": "22.40",
     "ClosingPrice": "22.65",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "9"
   },
   {
@@ -4442,7 +4442,7 @@
     "HighestPrice": "12.25",
     "LowestPrice": "11.55",
     "ClosingPrice": "12.25",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "1747"
   },
   {
@@ -4468,7 +4468,7 @@
     "HighestPrice": "21.20",
     "LowestPrice": "20.70",
     "ClosingPrice": "21.20",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "189"
   },
   {
@@ -4481,7 +4481,7 @@
     "HighestPrice": "10.50",
     "LowestPrice": "9.77",
     "ClosingPrice": "10.20",
-    "Change": "0.33",
+    "Change": "+0.33",
     "Transaction": "261"
   },
   {
@@ -4494,7 +4494,7 @@
     "HighestPrice": "25.20",
     "LowestPrice": "24.50",
     "ClosingPrice": "25.10",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "68"
   },
   {
@@ -4507,7 +4507,7 @@
     "HighestPrice": "353.00",
     "LowestPrice": "339.00",
     "ClosingPrice": "353.00",
-    "Change": "10.50",
+    "Change": "+10.50",
     "Transaction": "2946"
   },
   {
@@ -4520,7 +4520,7 @@
     "HighestPrice": "223.50",
     "LowestPrice": "215.50",
     "ClosingPrice": "222.50",
-    "Change": "6.00",
+    "Change": "+6.00",
     "Transaction": "3231"
   },
   {
@@ -4533,7 +4533,7 @@
     "HighestPrice": "225.00",
     "LowestPrice": "218.00",
     "ClosingPrice": "220.50",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "6720"
   },
   {
@@ -4546,7 +4546,7 @@
     "HighestPrice": "80.00",
     "LowestPrice": "74.40",
     "ClosingPrice": "78.70",
-    "Change": "3.70",
+    "Change": "+3.70",
     "Transaction": "37231"
   },
   {
@@ -4572,7 +4572,7 @@
     "HighestPrice": "6.80",
     "LowestPrice": "6.50",
     "ClosingPrice": "6.80",
-    "Change": "0.06",
+    "Change": "+0.06",
     "Transaction": "152"
   },
   {
@@ -4585,7 +4585,7 @@
     "HighestPrice": "171.00",
     "LowestPrice": "166.50",
     "ClosingPrice": "168.50",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "10393"
   },
   {
@@ -4598,7 +4598,7 @@
     "HighestPrice": "129.00",
     "LowestPrice": "124.00",
     "ClosingPrice": "126.50",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "5174"
   },
   {
@@ -4611,7 +4611,7 @@
     "HighestPrice": "22.20",
     "LowestPrice": "21.50",
     "ClosingPrice": "22.10",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "745"
   },
   {
@@ -4624,7 +4624,7 @@
     "HighestPrice": "21.20",
     "LowestPrice": "19.35",
     "ClosingPrice": "21.00",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "122"
   },
   {
@@ -4637,7 +4637,7 @@
     "HighestPrice": "10.20",
     "LowestPrice": "10.00",
     "ClosingPrice": "10.20",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "286"
   },
   {
@@ -4715,7 +4715,7 @@
     "HighestPrice": "71.00",
     "LowestPrice": "67.90",
     "ClosingPrice": "70.20",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "93"
   },
   {
@@ -4728,7 +4728,7 @@
     "HighestPrice": "14.65",
     "LowestPrice": "14.30",
     "ClosingPrice": "14.65",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "142"
   },
   {
@@ -4741,7 +4741,7 @@
     "HighestPrice": "33.70",
     "LowestPrice": "32.65",
     "ClosingPrice": "33.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "385"
   },
   {
@@ -4754,7 +4754,7 @@
     "HighestPrice": "27.35",
     "LowestPrice": "26.25",
     "ClosingPrice": "27.35",
-    "Change": "2.45",
+    "Change": "+2.45",
     "Transaction": "4139"
   },
   {
@@ -4767,7 +4767,7 @@
     "HighestPrice": "22.90",
     "LowestPrice": "22.05",
     "ClosingPrice": "22.60",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "712"
   },
   {
@@ -4793,7 +4793,7 @@
     "HighestPrice": "12.45",
     "LowestPrice": "12.15",
     "ClosingPrice": "12.40",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "145"
   },
   {
@@ -4806,7 +4806,7 @@
     "HighestPrice": "21.80",
     "LowestPrice": "20.90",
     "ClosingPrice": "21.70",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "771"
   },
   {
@@ -4819,7 +4819,7 @@
     "HighestPrice": "40.20",
     "LowestPrice": "38.75",
     "ClosingPrice": "39.85",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "526"
   },
   {
@@ -4832,7 +4832,7 @@
     "HighestPrice": "50.20",
     "LowestPrice": "49.50",
     "ClosingPrice": "50.00",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "111"
   },
   {
@@ -4845,7 +4845,7 @@
     "HighestPrice": "55.60",
     "LowestPrice": "52.70",
     "ClosingPrice": "53.90",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "4211"
   },
   {
@@ -4858,7 +4858,7 @@
     "HighestPrice": "126.00",
     "LowestPrice": "125.00",
     "ClosingPrice": "126.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "160"
   },
   {
@@ -4897,7 +4897,7 @@
     "HighestPrice": "22.25",
     "LowestPrice": "21.20",
     "ClosingPrice": "22.20",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "568"
   },
   {
@@ -4910,7 +4910,7 @@
     "HighestPrice": "22.35",
     "LowestPrice": "21.30",
     "ClosingPrice": "21.95",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "52"
   },
   {
@@ -4949,7 +4949,7 @@
     "HighestPrice": "72.50",
     "LowestPrice": "60.70",
     "ClosingPrice": "69.90",
-    "Change": "3.20",
+    "Change": "+3.20",
     "Transaction": "6632"
   },
   {
@@ -4962,7 +4962,7 @@
     "HighestPrice": "49.80",
     "LowestPrice": "45.10",
     "ClosingPrice": "49.80",
-    "Change": "4.45",
+    "Change": "+4.45",
     "Transaction": "3493"
   },
   {
@@ -5027,7 +5027,7 @@
     "HighestPrice": "187.00",
     "LowestPrice": "179.00",
     "ClosingPrice": "180.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "5448"
   },
   {
@@ -5040,7 +5040,7 @@
     "HighestPrice": "20.75",
     "LowestPrice": "20.05",
     "ClosingPrice": "20.65",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "283"
   },
   {
@@ -5079,7 +5079,7 @@
     "HighestPrice": "41.40",
     "LowestPrice": "38.30",
     "ClosingPrice": "39.70",
-    "Change": "0.95",
+    "Change": "+0.95",
     "Transaction": "47748"
   },
   {
@@ -5092,7 +5092,7 @@
     "HighestPrice": "35.00",
     "LowestPrice": "34.10",
     "ClosingPrice": "34.80",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "2745"
   },
   {
@@ -5118,7 +5118,7 @@
     "HighestPrice": "12.55",
     "LowestPrice": "11.80",
     "ClosingPrice": "12.35",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "1265"
   },
   {
@@ -5131,7 +5131,7 @@
     "HighestPrice": "38.10",
     "LowestPrice": "37.15",
     "ClosingPrice": "37.65",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "1162"
   },
   {
@@ -5144,7 +5144,7 @@
     "HighestPrice": "32.80",
     "LowestPrice": "31.80",
     "ClosingPrice": "32.15",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "89"
   },
   {
@@ -5157,7 +5157,7 @@
     "HighestPrice": "43.90",
     "LowestPrice": "43.25",
     "ClosingPrice": "43.90",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "212"
   },
   {
@@ -5170,7 +5170,7 @@
     "HighestPrice": "22.50",
     "LowestPrice": "21.90",
     "ClosingPrice": "22.15",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "487"
   },
   {
@@ -5183,7 +5183,7 @@
     "HighestPrice": "17.45",
     "LowestPrice": "16.00",
     "ClosingPrice": "16.90",
-    "Change": "0.95",
+    "Change": "+0.95",
     "Transaction": "869"
   },
   {
@@ -5196,7 +5196,7 @@
     "HighestPrice": "42.95",
     "LowestPrice": "41.80",
     "ClosingPrice": "42.60",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "883"
   },
   {
@@ -5222,7 +5222,7 @@
     "HighestPrice": "10.15",
     "LowestPrice": "9.99",
     "ClosingPrice": "10.00",
-    "Change": "0.01",
+    "Change": "+0.01",
     "Transaction": "163"
   },
   {
@@ -5261,7 +5261,7 @@
     "HighestPrice": "38.90",
     "LowestPrice": "38.00",
     "ClosingPrice": "38.60",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "1585"
   },
   {
@@ -5274,7 +5274,7 @@
     "HighestPrice": "19.70",
     "LowestPrice": "19.15",
     "ClosingPrice": "19.50",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "651"
   },
   {
@@ -5300,7 +5300,7 @@
     "HighestPrice": "51.30",
     "LowestPrice": "49.00",
     "ClosingPrice": "49.35",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "7198"
   },
   {
@@ -5313,7 +5313,7 @@
     "HighestPrice": "39.15",
     "LowestPrice": "38.30",
     "ClosingPrice": "39.00",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "1163"
   },
   {
@@ -5326,7 +5326,7 @@
     "HighestPrice": "49.90",
     "LowestPrice": "49.40",
     "ClosingPrice": "49.50",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "473"
   },
   {
@@ -5339,7 +5339,7 @@
     "HighestPrice": "9.96",
     "LowestPrice": "9.51",
     "ClosingPrice": "9.81",
-    "Change": "0.31",
+    "Change": "+0.31",
     "Transaction": "2514"
   },
   {
@@ -5352,7 +5352,7 @@
     "HighestPrice": "84.40",
     "LowestPrice": "81.10",
     "ClosingPrice": "81.50",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "15471"
   },
   {
@@ -5365,7 +5365,7 @@
     "HighestPrice": "7.28",
     "LowestPrice": "6.68",
     "ClosingPrice": "7.28",
-    "Change": "0.66",
+    "Change": "+0.66",
     "Transaction": "3318"
   },
   {
@@ -5404,7 +5404,7 @@
     "HighestPrice": "47.20",
     "LowestPrice": "46.10",
     "ClosingPrice": "47.05",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "2714"
   },
   {
@@ -5417,7 +5417,7 @@
     "HighestPrice": "84.50",
     "LowestPrice": "82.00",
     "ClosingPrice": "83.90",
-    "Change": "1.60",
+    "Change": "+1.60",
     "Transaction": "1366"
   },
   {
@@ -5443,7 +5443,7 @@
     "HighestPrice": "78.60",
     "LowestPrice": "77.10",
     "ClosingPrice": "77.80",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "89"
   },
   {
@@ -5456,7 +5456,7 @@
     "HighestPrice": "99.30",
     "LowestPrice": "93.80",
     "ClosingPrice": "95.40",
-    "Change": "1.40",
+    "Change": "+1.40",
     "Transaction": "8190"
   },
   {
@@ -5482,7 +5482,7 @@
     "HighestPrice": "21.40",
     "LowestPrice": "21.25",
     "ClosingPrice": "21.40",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "195"
   },
   {
@@ -5495,7 +5495,7 @@
     "HighestPrice": "26.60",
     "LowestPrice": "26.25",
     "ClosingPrice": "26.45",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "168"
   },
   {
@@ -5508,7 +5508,7 @@
     "HighestPrice": "30.25",
     "LowestPrice": "29.90",
     "ClosingPrice": "30.10",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "167"
   },
   {
@@ -5521,7 +5521,7 @@
     "HighestPrice": "31.00",
     "LowestPrice": "30.50",
     "ClosingPrice": "31.00",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "670"
   },
   {
@@ -5534,7 +5534,7 @@
     "HighestPrice": "25.65",
     "LowestPrice": "24.70",
     "ClosingPrice": "25.30",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "287"
   },
   {
@@ -5560,7 +5560,7 @@
     "HighestPrice": "31.65",
     "LowestPrice": "31.45",
     "ClosingPrice": "31.60",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "217"
   },
   {
@@ -5573,7 +5573,7 @@
     "HighestPrice": "33.20",
     "LowestPrice": "32.85",
     "ClosingPrice": "32.95",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "61"
   },
   {
@@ -5586,7 +5586,7 @@
     "HighestPrice": "61.00",
     "LowestPrice": "59.80",
     "ClosingPrice": "60.70",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "238"
   },
   {
@@ -5625,7 +5625,7 @@
     "HighestPrice": "18.60",
     "LowestPrice": "18.20",
     "ClosingPrice": "18.35",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "117"
   },
   {
@@ -5651,7 +5651,7 @@
     "HighestPrice": "55.00",
     "LowestPrice": "52.80",
     "ClosingPrice": "54.80",
-    "Change": "2.20",
+    "Change": "+2.20",
     "Transaction": "394"
   },
   {
@@ -5677,7 +5677,7 @@
     "HighestPrice": "199.00",
     "LowestPrice": "193.50",
     "ClosingPrice": "198.50",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "1749"
   },
   {
@@ -5690,7 +5690,7 @@
     "HighestPrice": "78.10",
     "LowestPrice": "71.00",
     "ClosingPrice": "74.80",
-    "Change": "2.90",
+    "Change": "+2.90",
     "Transaction": "96716"
   },
   {
@@ -5716,7 +5716,7 @@
     "HighestPrice": "8.09",
     "LowestPrice": "7.95",
     "ClosingPrice": "8.09",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "334"
   },
   {
@@ -5742,7 +5742,7 @@
     "HighestPrice": "47.90",
     "LowestPrice": "42.65",
     "ClosingPrice": "47.90",
-    "Change": "4.35",
+    "Change": "+4.35",
     "Transaction": "7825"
   },
   {
@@ -5755,7 +5755,7 @@
     "HighestPrice": "20.40",
     "LowestPrice": "19.35",
     "ClosingPrice": "20.05",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "2453"
   },
   {
@@ -5768,7 +5768,7 @@
     "HighestPrice": "39.95",
     "LowestPrice": "39.25",
     "ClosingPrice": "39.55",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "47"
   },
   {
@@ -5781,7 +5781,7 @@
     "HighestPrice": "49.40",
     "LowestPrice": "48.60",
     "ClosingPrice": "49.40",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "195"
   },
   {
@@ -5794,7 +5794,7 @@
     "HighestPrice": "19.85",
     "LowestPrice": "19.05",
     "ClosingPrice": "19.65",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "2693"
   },
   {
@@ -5807,7 +5807,7 @@
     "HighestPrice": "12.20",
     "LowestPrice": "11.80",
     "ClosingPrice": "12.15",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "1595"
   },
   {
@@ -5820,7 +5820,7 @@
     "HighestPrice": "10.30",
     "LowestPrice": "10.10",
     "ClosingPrice": "10.30",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "140"
   },
   {
@@ -5833,7 +5833,7 @@
     "HighestPrice": "24.60",
     "LowestPrice": "23.95",
     "ClosingPrice": "24.45",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "894"
   },
   {
@@ -5846,7 +5846,7 @@
     "HighestPrice": "9.07",
     "LowestPrice": "8.88",
     "ClosingPrice": "9.04",
-    "Change": "0.11",
+    "Change": "+0.11",
     "Transaction": "1141"
   },
   {
@@ -5898,7 +5898,7 @@
     "HighestPrice": "7.67",
     "LowestPrice": "7.45",
     "ClosingPrice": "7.64",
-    "Change": "0.14",
+    "Change": "+0.14",
     "Transaction": "277"
   },
   {
@@ -5911,7 +5911,7 @@
     "HighestPrice": "29.05",
     "LowestPrice": "28.80",
     "ClosingPrice": "29.00",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "32"
   },
   {
@@ -5924,7 +5924,7 @@
     "HighestPrice": "40.50",
     "LowestPrice": "39.40",
     "ClosingPrice": "40.05",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "1945"
   },
   {
@@ -5937,7 +5937,7 @@
     "HighestPrice": "23.80",
     "LowestPrice": "23.10",
     "ClosingPrice": "23.75",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "1130"
   },
   {
@@ -5950,7 +5950,7 @@
     "HighestPrice": "14.50",
     "LowestPrice": "14.20",
     "ClosingPrice": "14.50",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "125"
   },
   {
@@ -5963,7 +5963,7 @@
     "HighestPrice": "42.70",
     "LowestPrice": "42.05",
     "ClosingPrice": "42.55",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "166"
   },
   {
@@ -5976,7 +5976,7 @@
     "HighestPrice": "18.75",
     "LowestPrice": "18.15",
     "ClosingPrice": "18.50",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "3152"
   },
   {
@@ -6002,7 +6002,7 @@
     "HighestPrice": "9.13",
     "LowestPrice": "8.79",
     "ClosingPrice": "9.04",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "596"
   },
   {
@@ -6015,7 +6015,7 @@
     "HighestPrice": "21.25",
     "LowestPrice": "20.95",
     "ClosingPrice": "21.25",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "628"
   },
   {
@@ -6028,7 +6028,7 @@
     "HighestPrice": "7.86",
     "LowestPrice": "7.50",
     "ClosingPrice": "7.84",
-    "Change": "0.16",
+    "Change": "+0.16",
     "Transaction": "919"
   },
   {
@@ -6041,7 +6041,7 @@
     "HighestPrice": "14.05",
     "LowestPrice": "13.60",
     "ClosingPrice": "13.95",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "1329"
   },
   {
@@ -6080,7 +6080,7 @@
     "HighestPrice": "43.20",
     "LowestPrice": "41.60",
     "ClosingPrice": "43.20",
-    "Change": "1.55",
+    "Change": "+1.55",
     "Transaction": "11853"
   },
   {
@@ -6093,7 +6093,7 @@
     "HighestPrice": "17.20",
     "LowestPrice": "16.80",
     "ClosingPrice": "17.10",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "146"
   },
   {
@@ -6106,7 +6106,7 @@
     "HighestPrice": "20.60",
     "LowestPrice": "20.25",
     "ClosingPrice": "20.50",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "244"
   },
   {
@@ -6119,7 +6119,7 @@
     "HighestPrice": "18.45",
     "LowestPrice": "17.80",
     "ClosingPrice": "18.30",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "935"
   },
   {
@@ -6132,7 +6132,7 @@
     "HighestPrice": "39.90",
     "LowestPrice": "38.65",
     "ClosingPrice": "39.80",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "891"
   },
   {
@@ -6145,7 +6145,7 @@
     "HighestPrice": "18.30",
     "LowestPrice": "17.70",
     "ClosingPrice": "18.20",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "638"
   },
   {
@@ -6171,7 +6171,7 @@
     "HighestPrice": "20.35",
     "LowestPrice": "19.90",
     "ClosingPrice": "20.20",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "1000"
   },
   {
@@ -6184,7 +6184,7 @@
     "HighestPrice": "14.20",
     "LowestPrice": "13.60",
     "ClosingPrice": "13.95",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "587"
   },
   {
@@ -6210,7 +6210,7 @@
     "HighestPrice": "5345.00",
     "LowestPrice": "5110.00",
     "ClosingPrice": "5215.00",
-    "Change": "150.00",
+    "Change": "+150.00",
     "Transaction": "4566"
   },
   {
@@ -6223,7 +6223,7 @@
     "HighestPrice": "18.85",
     "LowestPrice": "18.40",
     "ClosingPrice": "18.85",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "250"
   },
   {
@@ -6236,7 +6236,7 @@
     "HighestPrice": "19.65",
     "LowestPrice": "19.10",
     "ClosingPrice": "19.60",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "196"
   },
   {
@@ -6249,7 +6249,7 @@
     "HighestPrice": "174.50",
     "LowestPrice": "170.00",
     "ClosingPrice": "174.00",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "711"
   },
   {
@@ -6262,7 +6262,7 @@
     "HighestPrice": "32.35",
     "LowestPrice": "29.95",
     "ClosingPrice": "32.00",
-    "Change": "1.95",
+    "Change": "+1.95",
     "Transaction": "3803"
   },
   {
@@ -6275,7 +6275,7 @@
     "HighestPrice": "18.05",
     "LowestPrice": "17.75",
     "ClosingPrice": "17.95",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "341"
   },
   {
@@ -6288,7 +6288,7 @@
     "HighestPrice": "19.55",
     "LowestPrice": "18.85",
     "ClosingPrice": "19.45",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "1424"
   },
   {
@@ -6301,7 +6301,7 @@
     "HighestPrice": "10.50",
     "LowestPrice": "10.10",
     "ClosingPrice": "10.50",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "1377"
   },
   {
@@ -6314,7 +6314,7 @@
     "HighestPrice": "33.05",
     "LowestPrice": "32.20",
     "ClosingPrice": "33.00",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "6874"
   },
   {
@@ -6327,7 +6327,7 @@
     "HighestPrice": "17.05",
     "LowestPrice": "16.70",
     "ClosingPrice": "17.05",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "906"
   },
   {
@@ -6340,7 +6340,7 @@
     "HighestPrice": "25.65",
     "LowestPrice": "25.25",
     "ClosingPrice": "25.65",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "307"
   },
   {
@@ -6353,7 +6353,7 @@
     "HighestPrice": "27.65",
     "LowestPrice": "27.00",
     "ClosingPrice": "27.25",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "618"
   },
   {
@@ -6379,7 +6379,7 @@
     "HighestPrice": "95.30",
     "LowestPrice": "94.30",
     "ClosingPrice": "94.40",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "310"
   },
   {
@@ -6392,7 +6392,7 @@
     "HighestPrice": "21.75",
     "LowestPrice": "21.35",
     "ClosingPrice": "21.65",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "87"
   },
   {
@@ -6405,7 +6405,7 @@
     "HighestPrice": "28.05",
     "LowestPrice": "26.75",
     "ClosingPrice": "27.85",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "2929"
   },
   {
@@ -6431,7 +6431,7 @@
     "HighestPrice": "61.10",
     "LowestPrice": "60.30",
     "ClosingPrice": "61.00",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "917"
   },
   {
@@ -6457,7 +6457,7 @@
     "HighestPrice": "18.40",
     "LowestPrice": "17.75",
     "ClosingPrice": "18.30",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "3766"
   },
   {
@@ -6470,7 +6470,7 @@
     "HighestPrice": "93.90",
     "LowestPrice": "92.40",
     "ClosingPrice": "93.90",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "1051"
   },
   {
@@ -6496,7 +6496,7 @@
     "HighestPrice": "86.00",
     "LowestPrice": "84.30",
     "ClosingPrice": "85.20",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "244"
   },
   {
@@ -6509,7 +6509,7 @@
     "HighestPrice": "111.00",
     "LowestPrice": "106.00",
     "ClosingPrice": "109.00",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "1265"
   },
   {
@@ -6522,7 +6522,7 @@
     "HighestPrice": "361.50",
     "LowestPrice": "344.00",
     "ClosingPrice": "355.00",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "1666"
   },
   {
@@ -6535,7 +6535,7 @@
     "HighestPrice": "141.50",
     "LowestPrice": "136.00",
     "ClosingPrice": "140.50",
-    "Change": "4.00",
+    "Change": "+4.00",
     "Transaction": "297"
   },
   {
@@ -6548,7 +6548,7 @@
     "HighestPrice": "24.95",
     "LowestPrice": "24.00",
     "ClosingPrice": "24.50",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "88"
   },
   {
@@ -6561,7 +6561,7 @@
     "HighestPrice": "35.70",
     "LowestPrice": "33.45",
     "ClosingPrice": "34.65",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "1808"
   },
   {
@@ -6574,7 +6574,7 @@
     "HighestPrice": "30.00",
     "LowestPrice": "27.20",
     "ClosingPrice": "29.95",
-    "Change": "2.65",
+    "Change": "+2.65",
     "Transaction": "2306"
   },
   {
@@ -6639,7 +6639,7 @@
     "HighestPrice": "33.05",
     "LowestPrice": "30.30",
     "ClosingPrice": "32.95",
-    "Change": "2.80",
+    "Change": "+2.80",
     "Transaction": "1614"
   },
   {
@@ -6665,7 +6665,7 @@
     "HighestPrice": "40.65",
     "LowestPrice": "36.85",
     "ClosingPrice": "38.25",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "6408"
   },
   {
@@ -6678,7 +6678,7 @@
     "HighestPrice": "155.50",
     "LowestPrice": "140.00",
     "ClosingPrice": "146.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "160200"
   },
   {
@@ -6717,7 +6717,7 @@
     "HighestPrice": "42.00",
     "LowestPrice": "39.80",
     "ClosingPrice": "40.60",
-    "Change": "1.65",
+    "Change": "+1.65",
     "Transaction": "59603"
   },
   {
@@ -6743,7 +6743,7 @@
     "HighestPrice": "16.15",
     "LowestPrice": "16.00",
     "ClosingPrice": "16.15",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "445"
   },
   {
@@ -6769,7 +6769,7 @@
     "HighestPrice": "304.50",
     "LowestPrice": "293.00",
     "ClosingPrice": "293.50",
-    "Change": "4.50",
+    "Change": "+4.50",
     "Transaction": "167855"
   },
   {
@@ -6795,7 +6795,7 @@
     "HighestPrice": "10.75",
     "LowestPrice": "10.40",
     "ClosingPrice": "10.55",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "2763"
   },
   {
@@ -6808,7 +6808,7 @@
     "HighestPrice": "40.35",
     "LowestPrice": "40.05",
     "ClosingPrice": "40.35",
-    "Change": "3.65",
+    "Change": "+3.65",
     "Transaction": "25191"
   },
   {
@@ -6821,7 +6821,7 @@
     "HighestPrice": "811.00",
     "LowestPrice": "765.00",
     "ClosingPrice": "790.00",
-    "Change": "52.00",
+    "Change": "+52.00",
     "Transaction": "48916"
   },
   {
@@ -6834,7 +6834,7 @@
     "HighestPrice": "61.00",
     "LowestPrice": "56.40",
     "ClosingPrice": "61.00",
-    "Change": "5.50",
+    "Change": "+5.50",
     "Transaction": "14300"
   },
   {
@@ -6873,7 +6873,7 @@
     "HighestPrice": "24.40",
     "LowestPrice": "23.85",
     "ClosingPrice": "24.40",
-    "Change": "2.20",
+    "Change": "+2.20",
     "Transaction": "2128"
   },
   {
@@ -6899,7 +6899,7 @@
     "HighestPrice": "175.00",
     "LowestPrice": "166.00",
     "ClosingPrice": "167.50",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "164507"
   },
   {
@@ -6951,7 +6951,7 @@
     "HighestPrice": "173.50",
     "LowestPrice": "166.00",
     "ClosingPrice": "168.00",
-    "Change": "10.00",
+    "Change": "+10.00",
     "Transaction": "160246"
   },
   {
@@ -6964,7 +6964,7 @@
     "HighestPrice": "2540.00",
     "LowestPrice": "2430.00",
     "ClosingPrice": "2510.00",
-    "Change": "80.00",
+    "Change": "+80.00",
     "Transaction": "7662"
   },
   {
@@ -6977,7 +6977,7 @@
     "HighestPrice": "86.90",
     "LowestPrice": "84.40",
     "ClosingPrice": "86.50",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "4761"
   },
   {
@@ -6990,7 +6990,7 @@
     "HighestPrice": "69.90",
     "LowestPrice": "68.20",
     "ClosingPrice": "69.90",
-    "Change": "1.80",
+    "Change": "+1.80",
     "Transaction": "479"
   },
   {
@@ -7016,7 +7016,7 @@
     "HighestPrice": "14.70",
     "LowestPrice": "14.00",
     "ClosingPrice": "14.30",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "4146"
   },
   {
@@ -7042,7 +7042,7 @@
     "HighestPrice": "31.50",
     "LowestPrice": "29.20",
     "ClosingPrice": "30.65",
-    "Change": "1.75",
+    "Change": "+1.75",
     "Transaction": "18184"
   },
   {
@@ -7055,7 +7055,7 @@
     "HighestPrice": "38.70",
     "LowestPrice": "38.70",
     "ClosingPrice": "38.70",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "8884"
   },
   {
@@ -7068,7 +7068,7 @@
     "HighestPrice": "64.00",
     "LowestPrice": "61.40",
     "ClosingPrice": "62.80",
-    "Change": "1.90",
+    "Change": "+1.90",
     "Transaction": "19403"
   },
   {
@@ -7094,7 +7094,7 @@
     "HighestPrice": "77.20",
     "LowestPrice": "69.20",
     "ClosingPrice": "77.20",
-    "Change": "7.00",
+    "Change": "+7.00",
     "Transaction": "125191"
   },
   {
@@ -7107,7 +7107,7 @@
     "HighestPrice": "837.00",
     "LowestPrice": "837.00",
     "ClosingPrice": "837.00",
-    "Change": "76.00",
+    "Change": "+76.00",
     "Transaction": "5395"
   },
   {
@@ -7120,7 +7120,7 @@
     "HighestPrice": "154.50",
     "LowestPrice": "145.50",
     "ClosingPrice": "150.50",
-    "Change": "7.50",
+    "Change": "+7.50",
     "Transaction": "13692"
   },
   {
@@ -7133,7 +7133,7 @@
     "HighestPrice": "2710.00",
     "LowestPrice": "2500.00",
     "ClosingPrice": "2580.00",
-    "Change": "60.00",
+    "Change": "+60.00",
     "Transaction": "6216"
   },
   {
@@ -7146,7 +7146,7 @@
     "HighestPrice": "48.45",
     "LowestPrice": "43.90",
     "ClosingPrice": "47.25",
-    "Change": "3.20",
+    "Change": "+3.20",
     "Transaction": "5762"
   },
   {
@@ -7159,7 +7159,7 @@
     "HighestPrice": "68.80",
     "LowestPrice": "66.50",
     "ClosingPrice": "67.10",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "10634"
   },
   {
@@ -7172,7 +7172,7 @@
     "HighestPrice": "71.80",
     "LowestPrice": "69.10",
     "ClosingPrice": "71.60",
-    "Change": "3.20",
+    "Change": "+3.20",
     "Transaction": "879"
   },
   {
@@ -7211,7 +7211,7 @@
     "HighestPrice": "1350.00",
     "LowestPrice": "1300.00",
     "ClosingPrice": "1325.00",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "11410"
   },
   {
@@ -7237,7 +7237,7 @@
     "HighestPrice": "30.90",
     "LowestPrice": "29.85",
     "ClosingPrice": "30.25",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "9603"
   },
   {
@@ -7250,7 +7250,7 @@
     "HighestPrice": "58.40",
     "LowestPrice": "58.00",
     "ClosingPrice": "58.40",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "135"
   },
   {
@@ -7263,7 +7263,7 @@
     "HighestPrice": "86.40",
     "LowestPrice": "83.30",
     "ClosingPrice": "84.70",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "15271"
   },
   {
@@ -7289,7 +7289,7 @@
     "HighestPrice": "396.00",
     "LowestPrice": "376.50",
     "ClosingPrice": "387.00",
-    "Change": "17.00",
+    "Change": "+17.00",
     "Transaction": "36780"
   },
   {
@@ -7302,7 +7302,7 @@
     "HighestPrice": "144.00",
     "LowestPrice": "134.50",
     "ClosingPrice": "141.50",
-    "Change": "10.50",
+    "Change": "+10.50",
     "Transaction": "52456"
   },
   {
@@ -7315,7 +7315,7 @@
     "HighestPrice": "610.00",
     "LowestPrice": "583.00",
     "ClosingPrice": "609.00",
-    "Change": "29.00",
+    "Change": "+29.00",
     "Transaction": "6823"
   },
   {
@@ -7341,7 +7341,7 @@
     "HighestPrice": "372.50",
     "LowestPrice": "361.00",
     "ClosingPrice": "372.50",
-    "Change": "33.50",
+    "Change": "+33.50",
     "Transaction": "71096"
   },
   {
@@ -7367,7 +7367,7 @@
     "HighestPrice": "142.50",
     "LowestPrice": "136.00",
     "ClosingPrice": "141.50",
-    "Change": "6.00",
+    "Change": "+6.00",
     "Transaction": "5409"
   },
   {
@@ -7380,7 +7380,7 @@
     "HighestPrice": "43.10",
     "LowestPrice": "41.10",
     "ClosingPrice": "42.45",
-    "Change": "1.35",
+    "Change": "+1.35",
     "Transaction": "1444"
   },
   {
@@ -7406,7 +7406,7 @@
     "HighestPrice": "11.40",
     "LowestPrice": "10.70",
     "ClosingPrice": "11.25",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "965"
   },
   {
@@ -7419,7 +7419,7 @@
     "HighestPrice": "42.20",
     "LowestPrice": "39.70",
     "ClosingPrice": "41.85",
-    "Change": "2.60",
+    "Change": "+2.60",
     "Transaction": "4019"
   },
   {
@@ -7432,7 +7432,7 @@
     "HighestPrice": "64.50",
     "LowestPrice": "62.60",
     "ClosingPrice": "64.40",
-    "Change": "1.90",
+    "Change": "+1.90",
     "Transaction": "2670"
   },
   {
@@ -7445,7 +7445,7 @@
     "HighestPrice": "525.00",
     "LowestPrice": "505.00",
     "ClosingPrice": "517.00",
-    "Change": "22.00",
+    "Change": "+22.00",
     "Transaction": "6275"
   },
   {
@@ -7458,7 +7458,7 @@
     "HighestPrice": "65.40",
     "LowestPrice": "64.10",
     "ClosingPrice": "64.80",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "865"
   },
   {
@@ -7471,7 +7471,7 @@
     "HighestPrice": "52.40",
     "LowestPrice": "48.50",
     "ClosingPrice": "50.20",
-    "Change": "2.30",
+    "Change": "+2.30",
     "Transaction": "7541"
   },
   {
@@ -7497,7 +7497,7 @@
     "HighestPrice": "71.50",
     "LowestPrice": "69.30",
     "ClosingPrice": "69.90",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "7580"
   },
   {
@@ -7510,7 +7510,7 @@
     "HighestPrice": "1175.00",
     "LowestPrice": "1135.00",
     "ClosingPrice": "1175.00",
-    "Change": "20.00",
+    "Change": "+20.00",
     "Transaction": "7968"
   },
   {
@@ -7523,7 +7523,7 @@
     "HighestPrice": "18.75",
     "LowestPrice": "17.45",
     "ClosingPrice": "18.40",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "6401"
   },
   {
@@ -7536,7 +7536,7 @@
     "HighestPrice": "36.65",
     "LowestPrice": "34.20",
     "ClosingPrice": "35.90",
-    "Change": "1.35",
+    "Change": "+1.35",
     "Transaction": "11818"
   },
   {
@@ -7549,7 +7549,7 @@
     "HighestPrice": "381.50",
     "LowestPrice": "359.50",
     "ClosingPrice": "381.50",
-    "Change": "34.50",
+    "Change": "+34.50",
     "Transaction": "86076"
   },
   {
@@ -7562,7 +7562,7 @@
     "HighestPrice": "24.80",
     "LowestPrice": "23.10",
     "ClosingPrice": "23.80",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "151652"
   },
   {
@@ -7575,7 +7575,7 @@
     "HighestPrice": "142.00",
     "LowestPrice": "137.00",
     "ClosingPrice": "140.50",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "10459"
   },
   {
@@ -7588,7 +7588,7 @@
     "HighestPrice": "53.90",
     "LowestPrice": "51.60",
     "ClosingPrice": "53.20",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "5561"
   },
   {
@@ -7601,7 +7601,7 @@
     "HighestPrice": "51.90",
     "LowestPrice": "50.80",
     "ClosingPrice": "51.50",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "337"
   },
   {
@@ -7614,7 +7614,7 @@
     "HighestPrice": "27.35",
     "LowestPrice": "26.85",
     "ClosingPrice": "27.15",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "173"
   },
   {
@@ -7627,7 +7627,7 @@
     "HighestPrice": "53.90",
     "LowestPrice": "49.80",
     "ClosingPrice": "53.90",
-    "Change": "4.90",
+    "Change": "+4.90",
     "Transaction": "7911"
   },
   {
@@ -7640,7 +7640,7 @@
     "HighestPrice": "34.55",
     "LowestPrice": "32.65",
     "ClosingPrice": "33.00",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "3120"
   },
   {
@@ -7666,7 +7666,7 @@
     "HighestPrice": "166.00",
     "LowestPrice": "159.50",
     "ClosingPrice": "165.00",
-    "Change": "6.00",
+    "Change": "+6.00",
     "Transaction": "7415"
   },
   {
@@ -7692,7 +7692,7 @@
     "HighestPrice": "12.95",
     "LowestPrice": "12.30",
     "ClosingPrice": "12.95",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "80"
   },
   {
@@ -7705,7 +7705,7 @@
     "HighestPrice": "37.00",
     "LowestPrice": "35.85",
     "ClosingPrice": "36.70",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "1046"
   },
   {
@@ -7731,7 +7731,7 @@
     "HighestPrice": "22.10",
     "LowestPrice": "20.60",
     "ClosingPrice": "22.05",
-    "Change": "1.45",
+    "Change": "+1.45",
     "Transaction": "1424"
   },
   {
@@ -7757,7 +7757,7 @@
     "HighestPrice": "49.90",
     "LowestPrice": "47.50",
     "ClosingPrice": "48.85",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "595"
   },
   {
@@ -7770,7 +7770,7 @@
     "HighestPrice": "18.45",
     "LowestPrice": "18.20",
     "ClosingPrice": "18.35",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "125"
   },
   {
@@ -7783,7 +7783,7 @@
     "HighestPrice": "11.20",
     "LowestPrice": "10.35",
     "ClosingPrice": "10.90",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "766"
   },
   {
@@ -7796,7 +7796,7 @@
     "HighestPrice": "26.65",
     "LowestPrice": "26.20",
     "ClosingPrice": "26.65",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "58"
   },
   {
@@ -7809,7 +7809,7 @@
     "HighestPrice": "43.50",
     "LowestPrice": "42.95",
     "ClosingPrice": "43.50",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "65"
   },
   {
@@ -7874,7 +7874,7 @@
     "HighestPrice": "18.70",
     "LowestPrice": "17.60",
     "ClosingPrice": "18.15",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "784"
   },
   {
@@ -7900,7 +7900,7 @@
     "HighestPrice": "18.95",
     "LowestPrice": "18.55",
     "ClosingPrice": "18.90",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "1217"
   },
   {
@@ -7913,7 +7913,7 @@
     "HighestPrice": "12.70",
     "LowestPrice": "12.10",
     "ClosingPrice": "12.50",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "457"
   },
   {
@@ -7939,7 +7939,7 @@
     "HighestPrice": "31.15",
     "LowestPrice": "29.85",
     "ClosingPrice": "30.80",
-    "Change": "0.95",
+    "Change": "+0.95",
     "Transaction": "733"
   },
   {
@@ -7952,7 +7952,7 @@
     "HighestPrice": "360.00",
     "LowestPrice": "343.00",
     "ClosingPrice": "357.50",
-    "Change": "19.50",
+    "Change": "+19.50",
     "Transaction": "9255"
   },
   {
@@ -7965,7 +7965,7 @@
     "HighestPrice": "64.50",
     "LowestPrice": "61.30",
     "ClosingPrice": "63.90",
-    "Change": "2.90",
+    "Change": "+2.90",
     "Transaction": "3164"
   },
   {
@@ -7978,7 +7978,7 @@
     "HighestPrice": "4710.00",
     "LowestPrice": "4440.00",
     "ClosingPrice": "4555.00",
-    "Change": "245.00",
+    "Change": "+245.00",
     "Transaction": "75706"
   },
   {
@@ -8004,7 +8004,7 @@
     "HighestPrice": "27.40",
     "LowestPrice": "26.40",
     "ClosingPrice": "26.85",
-    "Change": "0.85",
+    "Change": "+0.85",
     "Transaction": "3061"
   },
   {
@@ -8017,7 +8017,7 @@
     "HighestPrice": "168.00",
     "LowestPrice": "161.00",
     "ClosingPrice": "167.00",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "3916"
   },
   {
@@ -8030,7 +8030,7 @@
     "HighestPrice": "67.50",
     "LowestPrice": "66.80",
     "ClosingPrice": "67.30",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "264"
   },
   {
@@ -8043,7 +8043,7 @@
     "HighestPrice": "33.05",
     "LowestPrice": "32.35",
     "ClosingPrice": "32.80",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "579"
   },
   {
@@ -8056,7 +8056,7 @@
     "HighestPrice": "17.20",
     "LowestPrice": "16.15",
     "ClosingPrice": "16.80",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "800"
   },
   {
@@ -8069,7 +8069,7 @@
     "HighestPrice": "23.10",
     "LowestPrice": "21.15",
     "ClosingPrice": "23.10",
-    "Change": "2.10",
+    "Change": "+2.10",
     "Transaction": "787"
   },
   {
@@ -8082,7 +8082,7 @@
     "HighestPrice": "202.00",
     "LowestPrice": "191.50",
     "ClosingPrice": "199.00",
-    "Change": "14.50",
+    "Change": "+14.50",
     "Transaction": "24696"
   },
   {
@@ -8095,7 +8095,7 @@
     "HighestPrice": "90.80",
     "LowestPrice": "83.80",
     "ClosingPrice": "88.50",
-    "Change": "5.70",
+    "Change": "+5.70",
     "Transaction": "3128"
   },
   {
@@ -8121,7 +8121,7 @@
     "HighestPrice": "647.00",
     "LowestPrice": "625.00",
     "ClosingPrice": "637.00",
-    "Change": "18.00",
+    "Change": "+18.00",
     "Transaction": "3102"
   },
   {
@@ -8134,7 +8134,7 @@
     "HighestPrice": "36.50",
     "LowestPrice": "34.15",
     "ClosingPrice": "36.50",
-    "Change": "3.30",
+    "Change": "+3.30",
     "Transaction": "511"
   },
   {
@@ -8147,7 +8147,7 @@
     "HighestPrice": "56.20",
     "LowestPrice": "51.30",
     "ClosingPrice": "54.60",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "1838"
   },
   {
@@ -8160,7 +8160,7 @@
     "HighestPrice": "408.00",
     "LowestPrice": "383.00",
     "ClosingPrice": "392.00",
-    "Change": "21.00",
+    "Change": "+21.00",
     "Transaction": "7010"
   },
   {
@@ -8173,7 +8173,7 @@
     "HighestPrice": "223.50",
     "LowestPrice": "223.50",
     "ClosingPrice": "223.50",
-    "Change": "20.00",
+    "Change": "+20.00",
     "Transaction": "4489"
   },
   {
@@ -8199,7 +8199,7 @@
     "HighestPrice": "22.40",
     "LowestPrice": "21.60",
     "ClosingPrice": "22.15",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "428"
   },
   {
@@ -8212,7 +8212,7 @@
     "HighestPrice": "152.50",
     "LowestPrice": "140.50",
     "ClosingPrice": "144.00",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "3552"
   },
   {
@@ -8225,7 +8225,7 @@
     "HighestPrice": "161.00",
     "LowestPrice": "150.00",
     "ClosingPrice": "161.00",
-    "Change": "12.50",
+    "Change": "+12.50",
     "Transaction": "2321"
   },
   {
@@ -8251,7 +8251,7 @@
     "HighestPrice": "16.95",
     "LowestPrice": "16.25",
     "ClosingPrice": "16.75",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "356"
   },
   {
@@ -8303,7 +8303,7 @@
     "HighestPrice": "270.00",
     "LowestPrice": "256.00",
     "ClosingPrice": "266.50",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "11592"
   },
   {
@@ -8316,7 +8316,7 @@
     "HighestPrice": "54.10",
     "LowestPrice": "53.10",
     "ClosingPrice": "54.10",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "298"
   },
   {
@@ -8342,7 +8342,7 @@
     "HighestPrice": "25.60",
     "LowestPrice": "23.55",
     "ClosingPrice": "25.60",
-    "Change": "2.30",
+    "Change": "+2.30",
     "Transaction": "834"
   },
   {
@@ -8355,7 +8355,7 @@
     "HighestPrice": "433.00",
     "LowestPrice": "408.00",
     "ClosingPrice": "416.00",
-    "Change": "22.00",
+    "Change": "+22.00",
     "Transaction": "5018"
   },
   {
@@ -8407,7 +8407,7 @@
     "HighestPrice": "65.60",
     "LowestPrice": "60.10",
     "ClosingPrice": "65.60",
-    "Change": "5.90",
+    "Change": "+5.90",
     "Transaction": "2858"
   },
   {
@@ -8420,7 +8420,7 @@
     "HighestPrice": "45.95",
     "LowestPrice": "45.20",
     "ClosingPrice": "45.50",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "4689"
   },
   {
@@ -8433,7 +8433,7 @@
     "HighestPrice": "23.00",
     "LowestPrice": "22.35",
     "ClosingPrice": "22.95",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "2277"
   },
   {
@@ -8446,7 +8446,7 @@
     "HighestPrice": "35.65",
     "LowestPrice": "34.95",
     "ClosingPrice": "35.50",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "2344"
   },
   {
@@ -8459,7 +8459,7 @@
     "HighestPrice": "17.55",
     "LowestPrice": "17.25",
     "ClosingPrice": "17.45",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "215"
   },
   {
@@ -8472,7 +8472,7 @@
     "HighestPrice": "8.73",
     "LowestPrice": "8.60",
     "ClosingPrice": "8.72",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "181"
   },
   {
@@ -8498,7 +8498,7 @@
     "HighestPrice": "7.88",
     "LowestPrice": "7.69",
     "ClosingPrice": "7.81",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "769"
   },
   {
@@ -8511,7 +8511,7 @@
     "HighestPrice": "13.90",
     "LowestPrice": "12.95",
     "ClosingPrice": "13.65",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "406"
   },
   {
@@ -8550,7 +8550,7 @@
     "HighestPrice": "30.90",
     "LowestPrice": "29.80",
     "ClosingPrice": "30.90",
-    "Change": "1.05",
+    "Change": "+1.05",
     "Transaction": "1165"
   },
   {
@@ -8563,7 +8563,7 @@
     "HighestPrice": "35.50",
     "LowestPrice": "34.45",
     "ClosingPrice": "35.45",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "182"
   },
   {
@@ -8602,7 +8602,7 @@
     "HighestPrice": "19.70",
     "LowestPrice": "18.50",
     "ClosingPrice": "19.70",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "704"
   },
   {
@@ -8628,7 +8628,7 @@
     "HighestPrice": "83.00",
     "LowestPrice": "79.90",
     "ClosingPrice": "82.40",
-    "Change": "2.10",
+    "Change": "+2.10",
     "Transaction": "764"
   },
   {
@@ -8641,7 +8641,7 @@
     "HighestPrice": "19.80",
     "LowestPrice": "19.40",
     "ClosingPrice": "19.75",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "143"
   },
   {
@@ -8654,7 +8654,7 @@
     "HighestPrice": "10.10",
     "LowestPrice": "9.42",
     "ClosingPrice": "10.05",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "946"
   },
   {
@@ -8667,7 +8667,7 @@
     "HighestPrice": "9.80",
     "LowestPrice": "9.29",
     "ClosingPrice": "9.64",
-    "Change": "0.33",
+    "Change": "+0.33",
     "Transaction": "412"
   },
   {
@@ -8680,7 +8680,7 @@
     "HighestPrice": "37.55",
     "LowestPrice": "35.35",
     "ClosingPrice": "36.70",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "1938"
   },
   {
@@ -8706,7 +8706,7 @@
     "HighestPrice": "42.60",
     "LowestPrice": "41.30",
     "ClosingPrice": "42.60",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "5720"
   },
   {
@@ -8719,7 +8719,7 @@
     "HighestPrice": "48.10",
     "LowestPrice": "46.10",
     "ClosingPrice": "47.00",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "3370"
   },
   {
@@ -8732,7 +8732,7 @@
     "HighestPrice": "37.10",
     "LowestPrice": "36.15",
     "ClosingPrice": "36.95",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "357"
   },
   {
@@ -8758,7 +8758,7 @@
     "HighestPrice": "9.95",
     "LowestPrice": "9.82",
     "ClosingPrice": "9.92",
-    "Change": "0.06",
+    "Change": "+0.06",
     "Transaction": "664"
   },
   {
@@ -8771,7 +8771,7 @@
     "HighestPrice": "123.00",
     "LowestPrice": "117.50",
     "ClosingPrice": "122.50",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "4029"
   },
   {
@@ -8784,7 +8784,7 @@
     "HighestPrice": "169.00",
     "LowestPrice": "163.50",
     "ClosingPrice": "166.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "1149"
   },
   {
@@ -8797,7 +8797,7 @@
     "HighestPrice": "5.76",
     "LowestPrice": "5.15",
     "ClosingPrice": "5.76",
-    "Change": "0.52",
+    "Change": "+0.52",
     "Transaction": "1761"
   },
   {
@@ -8810,7 +8810,7 @@
     "HighestPrice": "225.00",
     "LowestPrice": "216.50",
     "ClosingPrice": "224.00",
-    "Change": "11.00",
+    "Change": "+11.00",
     "Transaction": "27106"
   },
   {
@@ -8823,7 +8823,7 @@
     "HighestPrice": "33.20",
     "LowestPrice": "30.50",
     "ClosingPrice": "33.20",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "8957"
   },
   {
@@ -8836,7 +8836,7 @@
     "HighestPrice": "72.10",
     "LowestPrice": "68.50",
     "ClosingPrice": "71.90",
-    "Change": "2.90",
+    "Change": "+2.90",
     "Transaction": "4334"
   },
   {
@@ -8849,7 +8849,7 @@
     "HighestPrice": "48.60",
     "LowestPrice": "47.70",
     "ClosingPrice": "48.55",
-    "Change": "0.95",
+    "Change": "+0.95",
     "Transaction": "680"
   },
   {
@@ -8862,7 +8862,7 @@
     "HighestPrice": "29.55",
     "LowestPrice": "28.80",
     "ClosingPrice": "29.40",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "433"
   },
   {
@@ -8875,7 +8875,7 @@
     "HighestPrice": "55.70",
     "LowestPrice": "53.60",
     "ClosingPrice": "54.90",
-    "Change": "2.20",
+    "Change": "+2.20",
     "Transaction": "23962"
   },
   {
@@ -8888,7 +8888,7 @@
     "HighestPrice": "19.60",
     "LowestPrice": "19.15",
     "ClosingPrice": "19.55",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "18244"
   },
   {
@@ -8901,7 +8901,7 @@
     "HighestPrice": "13.65",
     "LowestPrice": "12.95",
     "ClosingPrice": "13.65",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "703"
   },
   {
@@ -8927,7 +8927,7 @@
     "HighestPrice": "22.95",
     "LowestPrice": "21.80",
     "ClosingPrice": "22.80",
-    "Change": "1.25",
+    "Change": "+1.25",
     "Transaction": "679"
   },
   {
@@ -8940,7 +8940,7 @@
     "HighestPrice": "18.85",
     "LowestPrice": "18.25",
     "ClosingPrice": "18.70",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "856"
   },
   {
@@ -8953,7 +8953,7 @@
     "HighestPrice": "85.90",
     "LowestPrice": "83.60",
     "ClosingPrice": "84.40",
-    "Change": "2.40",
+    "Change": "+2.40",
     "Transaction": "11224"
   },
   {
@@ -8979,7 +8979,7 @@
     "HighestPrice": "29.70",
     "LowestPrice": "28.95",
     "ClosingPrice": "29.65",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "857"
   },
   {
@@ -8992,7 +8992,7 @@
     "HighestPrice": "37.85",
     "LowestPrice": "36.30",
     "ClosingPrice": "37.70",
-    "Change": "1.65",
+    "Change": "+1.65",
     "Transaction": "30513"
   },
   {
@@ -9005,7 +9005,7 @@
     "HighestPrice": "44.40",
     "LowestPrice": "42.80",
     "ClosingPrice": "43.70",
-    "Change": "0.95",
+    "Change": "+0.95",
     "Transaction": "1055"
   },
   {
@@ -9018,7 +9018,7 @@
     "HighestPrice": "25.40",
     "LowestPrice": "25.00",
     "ClosingPrice": "25.10",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "5447"
   },
   {
@@ -9031,7 +9031,7 @@
     "HighestPrice": "48.30",
     "LowestPrice": "47.05",
     "ClosingPrice": "47.75",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "4980"
   },
   {
@@ -9044,7 +9044,7 @@
     "HighestPrice": "70.20",
     "LowestPrice": "67.80",
     "ClosingPrice": "69.80",
-    "Change": "2.10",
+    "Change": "+2.10",
     "Transaction": "1105"
   },
   {
@@ -9057,7 +9057,7 @@
     "HighestPrice": "79.80",
     "LowestPrice": "75.20",
     "ClosingPrice": "78.80",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "3487"
   },
   {
@@ -9083,7 +9083,7 @@
     "HighestPrice": "174.50",
     "LowestPrice": "166.00",
     "ClosingPrice": "172.50",
-    "Change": "6.00",
+    "Change": "+6.00",
     "Transaction": "4201"
   },
   {
@@ -9096,7 +9096,7 @@
     "HighestPrice": "20.80",
     "LowestPrice": "20.25",
     "ClosingPrice": "20.70",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "5502"
   },
   {
@@ -9109,7 +9109,7 @@
     "HighestPrice": "10.35",
     "LowestPrice": "10.20",
     "ClosingPrice": "10.30",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "82"
   },
   {
@@ -9122,7 +9122,7 @@
     "HighestPrice": "14.15",
     "LowestPrice": "13.30",
     "ClosingPrice": "13.50",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "311"
   },
   {
@@ -9135,7 +9135,7 @@
     "HighestPrice": "42.45",
     "LowestPrice": "42.15",
     "ClosingPrice": "42.30",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "261"
   },
   {
@@ -9148,7 +9148,7 @@
     "HighestPrice": "15.40",
     "LowestPrice": "15.10",
     "ClosingPrice": "15.30",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "307"
   },
   {
@@ -9174,7 +9174,7 @@
     "HighestPrice": "174.00",
     "LowestPrice": "172.50",
     "ClosingPrice": "173.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "303"
   },
   {
@@ -9187,7 +9187,7 @@
     "HighestPrice": "15.40",
     "LowestPrice": "14.60",
     "ClosingPrice": "15.35",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "18"
   },
   {
@@ -9200,7 +9200,7 @@
     "HighestPrice": "22.60",
     "LowestPrice": "22.15",
     "ClosingPrice": "22.50",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "100"
   },
   {
@@ -9213,7 +9213,7 @@
     "HighestPrice": "62.40",
     "LowestPrice": "60.90",
     "ClosingPrice": "62.10",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "312"
   },
   {
@@ -9226,7 +9226,7 @@
     "HighestPrice": "236.50",
     "LowestPrice": "232.00",
     "ClosingPrice": "236.00",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "1151"
   },
   {
@@ -9239,7 +9239,7 @@
     "HighestPrice": "170.00",
     "LowestPrice": "167.50",
     "ClosingPrice": "169.50",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "1597"
   },
   {
@@ -9252,7 +9252,7 @@
     "HighestPrice": "35.35",
     "LowestPrice": "34.60",
     "ClosingPrice": "35.35",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "260"
   },
   {
@@ -9265,7 +9265,7 @@
     "HighestPrice": "39.40",
     "LowestPrice": "39.00",
     "ClosingPrice": "39.40",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "131"
   },
   {
@@ -9278,7 +9278,7 @@
     "HighestPrice": "178.00",
     "LowestPrice": "174.50",
     "ClosingPrice": "177.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "672"
   },
   {
@@ -9291,7 +9291,7 @@
     "HighestPrice": "85.80",
     "LowestPrice": "83.30",
     "ClosingPrice": "85.50",
-    "Change": "3.10",
+    "Change": "+3.10",
     "Transaction": "316"
   },
   {
@@ -9304,7 +9304,7 @@
     "HighestPrice": "20.55",
     "LowestPrice": "20.15",
     "ClosingPrice": "20.45",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "7832"
   },
   {
@@ -9330,7 +9330,7 @@
     "HighestPrice": "33.50",
     "LowestPrice": "32.65",
     "ClosingPrice": "33.30",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "299"
   },
   {
@@ -9356,7 +9356,7 @@
     "HighestPrice": "53.90",
     "LowestPrice": "53.00",
     "ClosingPrice": "53.60",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "320"
   },
   {
@@ -9382,7 +9382,7 @@
     "HighestPrice": "11.75",
     "LowestPrice": "11.55",
     "ClosingPrice": "11.70",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "1177"
   },
   {
@@ -9408,7 +9408,7 @@
     "HighestPrice": "20.50",
     "LowestPrice": "20.05",
     "ClosingPrice": "20.50",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "1140"
   },
   {
@@ -9421,7 +9421,7 @@
     "HighestPrice": "54.40",
     "LowestPrice": "54.10",
     "ClosingPrice": "54.40",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "49"
   },
   {
@@ -9434,7 +9434,7 @@
     "HighestPrice": "12.20",
     "LowestPrice": "11.85",
     "ClosingPrice": "12.10",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "4030"
   },
   {
@@ -9447,7 +9447,7 @@
     "HighestPrice": "14.05",
     "LowestPrice": "13.80",
     "ClosingPrice": "14.00",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "116"
   },
   {
@@ -9473,7 +9473,7 @@
     "HighestPrice": "35.25",
     "LowestPrice": "34.80",
     "ClosingPrice": "35.15",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "1440"
   },
   {
@@ -9486,7 +9486,7 @@
     "HighestPrice": "27.25",
     "LowestPrice": "27.00",
     "ClosingPrice": "27.10",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "323"
   },
   {
@@ -9499,7 +9499,7 @@
     "HighestPrice": "49.35",
     "LowestPrice": "47.75",
     "ClosingPrice": "48.20",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "7611"
   },
   {
@@ -9512,7 +9512,7 @@
     "HighestPrice": "7.65",
     "LowestPrice": "7.46",
     "ClosingPrice": "7.63",
-    "Change": "0.11",
+    "Change": "+0.11",
     "Transaction": "2293"
   },
   {
@@ -9525,7 +9525,7 @@
     "HighestPrice": "33.45",
     "LowestPrice": "30.55",
     "ClosingPrice": "32.85",
-    "Change": "2.35",
+    "Change": "+2.35",
     "Transaction": "32025"
   },
   {
@@ -9538,7 +9538,7 @@
     "HighestPrice": "112.00",
     "LowestPrice": "107.00",
     "ClosingPrice": "110.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "25956"
   },
   {
@@ -9590,7 +9590,7 @@
     "HighestPrice": "89.40",
     "LowestPrice": "85.30",
     "ClosingPrice": "88.20",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "25169"
   },
   {
@@ -9629,7 +9629,7 @@
     "HighestPrice": "22.90",
     "LowestPrice": "22.30",
     "ClosingPrice": "22.65",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "13723"
   },
   {
@@ -9655,7 +9655,7 @@
     "HighestPrice": "31.50",
     "LowestPrice": "30.80",
     "ClosingPrice": "31.45",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "20715"
   },
   {
@@ -9681,7 +9681,7 @@
     "HighestPrice": "41.45",
     "LowestPrice": "40.10",
     "ClosingPrice": "41.45",
-    "Change": "1.45",
+    "Change": "+1.45",
     "Transaction": "22255"
   },
   {
@@ -9694,7 +9694,7 @@
     "HighestPrice": "24.70",
     "LowestPrice": "23.25",
     "ClosingPrice": "24.60",
-    "Change": "1.25",
+    "Change": "+1.25",
     "Transaction": "37649"
   },
   {
@@ -9720,7 +9720,7 @@
     "HighestPrice": "47.00",
     "LowestPrice": "46.65",
     "ClosingPrice": "46.80",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "39"
   },
   {
@@ -9785,7 +9785,7 @@
     "HighestPrice": "14.75",
     "LowestPrice": "14.55",
     "ClosingPrice": "14.75",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "1986"
   },
   {
@@ -9798,7 +9798,7 @@
     "HighestPrice": "30.65",
     "LowestPrice": "29.85",
     "ClosingPrice": "30.45",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "13821"
   },
   {
@@ -9811,7 +9811,7 @@
     "HighestPrice": "62.60",
     "LowestPrice": "60.50",
     "ClosingPrice": "62.10",
-    "Change": "1.60",
+    "Change": "+1.60",
     "Transaction": "18474"
   },
   {
@@ -9850,7 +9850,7 @@
     "HighestPrice": "27.85",
     "LowestPrice": "27.30",
     "ClosingPrice": "27.75",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "14374"
   },
   {
@@ -9863,7 +9863,7 @@
     "HighestPrice": "9.98",
     "LowestPrice": "9.88",
     "ClosingPrice": "9.94",
-    "Change": "0.04",
+    "Change": "+0.04",
     "Transaction": "2233"
   },
   {
@@ -9902,7 +9902,7 @@
     "HighestPrice": "21.95",
     "LowestPrice": "21.65",
     "ClosingPrice": "21.90",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "2153"
   },
   {
@@ -9915,7 +9915,7 @@
     "HighestPrice": "14.45",
     "LowestPrice": "14.00",
     "ClosingPrice": "14.20",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "107"
   },
   {
@@ -9941,7 +9941,7 @@
     "HighestPrice": "12.60",
     "LowestPrice": "12.30",
     "ClosingPrice": "12.55",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "199"
   },
   {
@@ -9954,7 +9954,7 @@
     "HighestPrice": "21.60",
     "LowestPrice": "21.35",
     "ClosingPrice": "21.55",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "170"
   },
   {
@@ -9967,7 +9967,7 @@
     "HighestPrice": "22.70",
     "LowestPrice": "21.60",
     "ClosingPrice": "22.00",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "14"
   },
   {
@@ -9993,7 +9993,7 @@
     "HighestPrice": "230.50",
     "LowestPrice": "215.50",
     "ClosingPrice": "227.50",
-    "Change": "13.50",
+    "Change": "+13.50",
     "Transaction": "11972"
   },
   {
@@ -10006,7 +10006,7 @@
     "HighestPrice": "11.20",
     "LowestPrice": "10.75",
     "ClosingPrice": "11.10",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "1364"
   },
   {
@@ -10019,7 +10019,7 @@
     "HighestPrice": "45.35",
     "LowestPrice": "43.90",
     "ClosingPrice": "45.25",
-    "Change": "1.25",
+    "Change": "+1.25",
     "Transaction": "1817"
   },
   {
@@ -10032,7 +10032,7 @@
     "HighestPrice": "26.25",
     "LowestPrice": "24.30",
     "ClosingPrice": "25.70",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "123"
   },
   {
@@ -10071,7 +10071,7 @@
     "HighestPrice": "41.80",
     "LowestPrice": "40.60",
     "ClosingPrice": "41.70",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "51"
   },
   {
@@ -10084,7 +10084,7 @@
     "HighestPrice": "19.45",
     "LowestPrice": "17.65",
     "ClosingPrice": "19.45",
-    "Change": "1.75",
+    "Change": "+1.75",
     "Transaction": "694"
   },
   {
@@ -10123,7 +10123,7 @@
     "HighestPrice": "108.00",
     "LowestPrice": "104.50",
     "ClosingPrice": "107.00",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "5029"
   },
   {
@@ -10136,7 +10136,7 @@
     "HighestPrice": "262.00",
     "LowestPrice": "247.50",
     "ClosingPrice": "250.00",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "20771"
   },
   {
@@ -10149,7 +10149,7 @@
     "HighestPrice": "3835.00",
     "LowestPrice": "3630.00",
     "ClosingPrice": "3835.00",
-    "Change": "320.00",
+    "Change": "+320.00",
     "Transaction": "11705"
   },
   {
@@ -10175,7 +10175,7 @@
     "HighestPrice": "14.50",
     "LowestPrice": "13.25",
     "ClosingPrice": "14.50",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "1843"
   },
   {
@@ -10188,7 +10188,7 @@
     "HighestPrice": "127.00",
     "LowestPrice": "122.00",
     "ClosingPrice": "123.50",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "6615"
   },
   {
@@ -10214,7 +10214,7 @@
     "HighestPrice": "55.20",
     "LowestPrice": "51.10",
     "ClosingPrice": "55.20",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "1497"
   },
   {
@@ -10240,7 +10240,7 @@
     "HighestPrice": "2835.00",
     "LowestPrice": "2705.00",
     "ClosingPrice": "2785.00",
-    "Change": "120.00",
+    "Change": "+120.00",
     "Transaction": "22986"
   },
   {
@@ -10253,7 +10253,7 @@
     "HighestPrice": "9.56",
     "LowestPrice": "9.40",
     "ClosingPrice": "9.54",
-    "Change": "0.12",
+    "Change": "+0.12",
     "Transaction": "108"
   },
   {
@@ -10266,7 +10266,7 @@
     "HighestPrice": "156.50",
     "LowestPrice": "153.00",
     "ClosingPrice": "155.00",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "5670"
   },
   {
@@ -10279,7 +10279,7 @@
     "HighestPrice": "33.10",
     "LowestPrice": "33.10",
     "ClosingPrice": "33.10",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "774"
   },
   {
@@ -10292,7 +10292,7 @@
     "HighestPrice": "77.30",
     "LowestPrice": "75.40",
     "ClosingPrice": "75.90",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "1890"
   },
   {
@@ -10305,7 +10305,7 @@
     "HighestPrice": "321.50",
     "LowestPrice": "313.00",
     "ClosingPrice": "318.00",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "3980"
   },
   {
@@ -10344,7 +10344,7 @@
     "HighestPrice": "699.00",
     "LowestPrice": "665.00",
     "ClosingPrice": "672.00",
-    "Change": "31.00",
+    "Change": "+31.00",
     "Transaction": "3142"
   },
   {
@@ -10357,7 +10357,7 @@
     "HighestPrice": "19.95",
     "LowestPrice": "19.35",
     "ClosingPrice": "19.75",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "464"
   },
   {
@@ -10383,7 +10383,7 @@
     "HighestPrice": "105.50",
     "LowestPrice": "96.90",
     "ClosingPrice": "105.50",
-    "Change": "9.30",
+    "Change": "+9.30",
     "Transaction": "4555"
   },
   {
@@ -10396,7 +10396,7 @@
     "HighestPrice": "417.50",
     "LowestPrice": "401.00",
     "ClosingPrice": "408.00",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "5532"
   },
   {
@@ -10422,7 +10422,7 @@
     "HighestPrice": "92.40",
     "LowestPrice": "90.30",
     "ClosingPrice": "91.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "1369"
   },
   {
@@ -10448,7 +10448,7 @@
     "HighestPrice": "497.00",
     "LowestPrice": "480.00",
     "ClosingPrice": "496.50",
-    "Change": "19.50",
+    "Change": "+19.50",
     "Transaction": "9237"
   },
   {
@@ -10461,7 +10461,7 @@
     "HighestPrice": "214.00",
     "LowestPrice": "205.00",
     "ClosingPrice": "211.00",
-    "Change": "4.00",
+    "Change": "+4.00",
     "Transaction": "12565"
   },
   {
@@ -10500,7 +10500,7 @@
     "HighestPrice": "24.30",
     "LowestPrice": "23.25",
     "ClosingPrice": "23.80",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "644"
   },
   {
@@ -10513,7 +10513,7 @@
     "HighestPrice": "42.50",
     "LowestPrice": "39.75",
     "ClosingPrice": "41.65",
-    "Change": "1.95",
+    "Change": "+1.95",
     "Transaction": "243"
   },
   {
@@ -10552,7 +10552,7 @@
     "HighestPrice": "21.80",
     "LowestPrice": "20.80",
     "ClosingPrice": "21.55",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "344"
   },
   {
@@ -10578,7 +10578,7 @@
     "HighestPrice": "115.00",
     "LowestPrice": "112.00",
     "ClosingPrice": "114.00",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "6104"
   },
   {
@@ -10591,7 +10591,7 @@
     "HighestPrice": "64.00",
     "LowestPrice": "57.30",
     "ClosingPrice": "64.00",
-    "Change": "5.80",
+    "Change": "+5.80",
     "Transaction": "2885"
   },
   {
@@ -10604,7 +10604,7 @@
     "HighestPrice": "15.65",
     "LowestPrice": "15.00",
     "ClosingPrice": "15.45",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "1047"
   },
   {
@@ -10630,7 +10630,7 @@
     "HighestPrice": "13.50",
     "LowestPrice": "12.70",
     "ClosingPrice": "13.10",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "6648"
   },
   {
@@ -10643,7 +10643,7 @@
     "HighestPrice": "12.80",
     "LowestPrice": "12.40",
     "ClosingPrice": "12.75",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "494"
   },
   {
@@ -10656,7 +10656,7 @@
     "HighestPrice": "28.95",
     "LowestPrice": "27.40",
     "ClosingPrice": "28.80",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "2570"
   },
   {
@@ -10669,7 +10669,7 @@
     "HighestPrice": "10.70",
     "LowestPrice": "10.45",
     "ClosingPrice": "10.65",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "449"
   },
   {
@@ -10682,7 +10682,7 @@
     "HighestPrice": "68.90",
     "LowestPrice": "66.70",
     "ClosingPrice": "68.50",
-    "Change": "1.70",
+    "Change": "+1.70",
     "Transaction": "262"
   },
   {
@@ -10695,7 +10695,7 @@
     "HighestPrice": "113.50",
     "LowestPrice": "107.00",
     "ClosingPrice": "108.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "2783"
   },
   {
@@ -10708,7 +10708,7 @@
     "HighestPrice": "13.55",
     "LowestPrice": "13.15",
     "ClosingPrice": "13.40",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "977"
   },
   {
@@ -10721,7 +10721,7 @@
     "HighestPrice": "22.45",
     "LowestPrice": "20.45",
     "ClosingPrice": "22.40",
-    "Change": "1.95",
+    "Change": "+1.95",
     "Transaction": "1592"
   },
   {
@@ -10734,7 +10734,7 @@
     "HighestPrice": "9.36",
     "LowestPrice": "8.70",
     "ClosingPrice": "9.36",
-    "Change": "0.85",
+    "Change": "+0.85",
     "Transaction": "1527"
   },
   {
@@ -10747,7 +10747,7 @@
     "HighestPrice": "46.50",
     "LowestPrice": "42.45",
     "ClosingPrice": "46.45",
-    "Change": "4.10",
+    "Change": "+4.10",
     "Transaction": "14748"
   },
   {
@@ -10760,7 +10760,7 @@
     "HighestPrice": "30.90",
     "LowestPrice": "29.55",
     "ClosingPrice": "29.65",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "2281"
   },
   {
@@ -10773,7 +10773,7 @@
     "HighestPrice": "31.95",
     "LowestPrice": "30.80",
     "ClosingPrice": "31.10",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "8797"
   },
   {
@@ -10786,7 +10786,7 @@
     "HighestPrice": "251.00",
     "LowestPrice": "225.00",
     "ClosingPrice": "233.50",
-    "Change": "4.50",
+    "Change": "+4.50",
     "Transaction": "2753"
   },
   {
@@ -10799,7 +10799,7 @@
     "HighestPrice": "32.05",
     "LowestPrice": "29.30",
     "ClosingPrice": "31.95",
-    "Change": "2.80",
+    "Change": "+2.80",
     "Transaction": "1091"
   },
   {
@@ -10812,7 +10812,7 @@
     "HighestPrice": "34.55",
     "LowestPrice": "33.40",
     "ClosingPrice": "34.00",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "1164"
   },
   {
@@ -10825,7 +10825,7 @@
     "HighestPrice": "221.50",
     "LowestPrice": "220.00",
     "ClosingPrice": "221.50",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "337"
   },
   {
@@ -10864,7 +10864,7 @@
     "HighestPrice": "78.30",
     "LowestPrice": "75.80",
     "ClosingPrice": "78.30",
-    "Change": "7.10",
+    "Change": "+7.10",
     "Transaction": "3675"
   },
   {
@@ -10877,7 +10877,7 @@
     "HighestPrice": "20.80",
     "LowestPrice": "20.25",
     "ClosingPrice": "20.40",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "53"
   },
   {
@@ -10916,7 +10916,7 @@
     "HighestPrice": "49.05",
     "LowestPrice": "48.15",
     "ClosingPrice": "48.95",
-    "Change": "1.40",
+    "Change": "+1.40",
     "Transaction": "77"
   },
   {
@@ -10929,7 +10929,7 @@
     "HighestPrice": "775.00",
     "LowestPrice": "740.00",
     "ClosingPrice": "774.00",
-    "Change": "45.00",
+    "Change": "+45.00",
     "Transaction": "12232"
   },
   {
@@ -10955,7 +10955,7 @@
     "HighestPrice": "54.40",
     "LowestPrice": "51.70",
     "ClosingPrice": "54.40",
-    "Change": "4.90",
+    "Change": "+4.90",
     "Transaction": "1823"
   },
   {
@@ -10968,7 +10968,7 @@
     "HighestPrice": "174.00",
     "LowestPrice": "172.50",
     "ClosingPrice": "174.00",
-    "Change": "15.50",
+    "Change": "+15.50",
     "Transaction": "24104"
   },
   {
@@ -10994,7 +10994,7 @@
     "HighestPrice": "13.00",
     "LowestPrice": "12.60",
     "ClosingPrice": "13.00",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "72"
   },
   {
@@ -11007,7 +11007,7 @@
     "HighestPrice": "21.80",
     "LowestPrice": "19.90",
     "ClosingPrice": "21.80",
-    "Change": "1.95",
+    "Change": "+1.95",
     "Transaction": "271"
   },
   {
@@ -11020,7 +11020,7 @@
     "HighestPrice": "167.50",
     "LowestPrice": "154.00",
     "ClosingPrice": "167.50",
-    "Change": "10.00",
+    "Change": "+10.00",
     "Transaction": "10693"
   },
   {
@@ -11033,7 +11033,7 @@
     "HighestPrice": "21.40",
     "LowestPrice": "20.00",
     "ClosingPrice": "21.10",
-    "Change": "0.85",
+    "Change": "+0.85",
     "Transaction": "301"
   },
   {
@@ -11046,7 +11046,7 @@
     "HighestPrice": "37.80",
     "LowestPrice": "35.90",
     "ClosingPrice": "35.95",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "857"
   },
   {
@@ -11059,7 +11059,7 @@
     "HighestPrice": "55.10",
     "LowestPrice": "49.75",
     "ClosingPrice": "55.10",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "3814"
   },
   {
@@ -11072,7 +11072,7 @@
     "HighestPrice": "20.20",
     "LowestPrice": "19.55",
     "ClosingPrice": "19.80",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "665"
   },
   {
@@ -11085,7 +11085,7 @@
     "HighestPrice": "80.70",
     "LowestPrice": "80.70",
     "ClosingPrice": "80.70",
-    "Change": "7.30",
+    "Change": "+7.30",
     "Transaction": "1077"
   },
   {
@@ -11098,7 +11098,7 @@
     "HighestPrice": "23.55",
     "LowestPrice": "23.55",
     "ClosingPrice": "23.55",
-    "Change": "2.10",
+    "Change": "+2.10",
     "Transaction": "452"
   },
   {
@@ -11124,7 +11124,7 @@
     "HighestPrice": "222.50",
     "LowestPrice": "204.50",
     "ClosingPrice": "215.00",
-    "Change": "12.50",
+    "Change": "+12.50",
     "Transaction": "8065"
   },
   {
@@ -11137,7 +11137,7 @@
     "HighestPrice": "39.65",
     "LowestPrice": "38.10",
     "ClosingPrice": "38.80",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "5039"
   },
   {
@@ -11176,7 +11176,7 @@
     "HighestPrice": "188.00",
     "LowestPrice": "181.50",
     "ClosingPrice": "184.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "1079"
   },
   {
@@ -11189,7 +11189,7 @@
     "HighestPrice": "14.40",
     "LowestPrice": "14.00",
     "ClosingPrice": "14.25",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "287"
   },
   {
@@ -11215,7 +11215,7 @@
     "HighestPrice": "24.90",
     "LowestPrice": "23.70",
     "ClosingPrice": "24.35",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "1154"
   },
   {
@@ -11241,7 +11241,7 @@
     "HighestPrice": "39.00",
     "LowestPrice": "36.90",
     "ClosingPrice": "38.60",
-    "Change": "1.70",
+    "Change": "+1.70",
     "Transaction": "382"
   },
   {
@@ -11254,7 +11254,7 @@
     "HighestPrice": "539.00",
     "LowestPrice": "497.00",
     "ClosingPrice": "539.00",
-    "Change": "48.50",
+    "Change": "+48.50",
     "Transaction": "12300"
   },
   {
@@ -11267,7 +11267,7 @@
     "HighestPrice": "56.10",
     "LowestPrice": "53.70",
     "ClosingPrice": "56.10",
-    "Change": "5.10",
+    "Change": "+5.10",
     "Transaction": "130882"
   },
   {
@@ -11280,7 +11280,7 @@
     "HighestPrice": "8.16",
     "LowestPrice": "8.00",
     "ClosingPrice": "8.05",
-    "Change": "0.01",
+    "Change": "+0.01",
     "Transaction": "125"
   },
   {
@@ -11293,7 +11293,7 @@
     "HighestPrice": "41.45",
     "LowestPrice": "39.80",
     "ClosingPrice": "41.30",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "504"
   },
   {
@@ -11306,7 +11306,7 @@
     "HighestPrice": "80.80",
     "LowestPrice": "78.20",
     "ClosingPrice": "78.40",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "1209"
   },
   {
@@ -11319,7 +11319,7 @@
     "HighestPrice": "258.00",
     "LowestPrice": "242.50",
     "ClosingPrice": "253.50",
-    "Change": "11.50",
+    "Change": "+11.50",
     "Transaction": "2950"
   },
   {
@@ -11345,7 +11345,7 @@
     "HighestPrice": "129.00",
     "LowestPrice": "129.00",
     "ClosingPrice": "129.00",
-    "Change": "11.50",
+    "Change": "+11.50",
     "Transaction": "732"
   },
   {
@@ -11358,7 +11358,7 @@
     "HighestPrice": "69.30",
     "LowestPrice": "67.30",
     "ClosingPrice": "68.00",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "339"
   },
   {
@@ -11371,7 +11371,7 @@
     "HighestPrice": "350.50",
     "LowestPrice": "350.50",
     "ClosingPrice": "350.50",
-    "Change": "31.50",
+    "Change": "+31.50",
     "Transaction": "898"
   },
   {
@@ -11384,7 +11384,7 @@
     "HighestPrice": "2735.00",
     "LowestPrice": "2605.00",
     "ClosingPrice": "2675.00",
-    "Change": "25.00",
+    "Change": "+25.00",
     "Transaction": "3408"
   },
   {
@@ -11397,7 +11397,7 @@
     "HighestPrice": "134.50",
     "LowestPrice": "123.00",
     "ClosingPrice": "134.50",
-    "Change": "12.00",
+    "Change": "+12.00",
     "Transaction": "5306"
   },
   {
@@ -11410,7 +11410,7 @@
     "HighestPrice": "36.65",
     "LowestPrice": "35.50",
     "ClosingPrice": "36.00",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "441"
   },
   {
@@ -11423,7 +11423,7 @@
     "HighestPrice": "61.70",
     "LowestPrice": "58.50",
     "ClosingPrice": "59.60",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "2450"
   },
   {
@@ -11436,7 +11436,7 @@
     "HighestPrice": "22.30",
     "LowestPrice": "20.85",
     "ClosingPrice": "21.45",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "2225"
   },
   {
@@ -11449,7 +11449,7 @@
     "HighestPrice": "24.00",
     "LowestPrice": "23.30",
     "ClosingPrice": "23.90",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "250"
   },
   {
@@ -11475,7 +11475,7 @@
     "HighestPrice": "18.90",
     "LowestPrice": "18.00",
     "ClosingPrice": "18.50",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "8286"
   },
   {
@@ -11501,7 +11501,7 @@
     "HighestPrice": "64.50",
     "LowestPrice": "61.80",
     "ClosingPrice": "63.60",
-    "Change": "1.80",
+    "Change": "+1.80",
     "Transaction": "1496"
   },
   {
@@ -11527,7 +11527,7 @@
     "HighestPrice": "285.00",
     "LowestPrice": "272.00",
     "ClosingPrice": "285.00",
-    "Change": "5.50",
+    "Change": "+5.50",
     "Transaction": "1933"
   },
   {
@@ -11540,7 +11540,7 @@
     "HighestPrice": "16.85",
     "LowestPrice": "16.00",
     "ClosingPrice": "16.85",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "70"
   },
   {
@@ -11553,7 +11553,7 @@
     "HighestPrice": "195.50",
     "LowestPrice": "188.00",
     "ClosingPrice": "193.50",
-    "Change": "6.00",
+    "Change": "+6.00",
     "Transaction": "2097"
   },
   {
@@ -11579,7 +11579,7 @@
     "HighestPrice": "16.35",
     "LowestPrice": "15.55",
     "ClosingPrice": "16.20",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "835"
   },
   {
@@ -11592,7 +11592,7 @@
     "HighestPrice": "213.50",
     "LowestPrice": "210.00",
     "ClosingPrice": "212.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "423"
   },
   {
@@ -11605,7 +11605,7 @@
     "HighestPrice": "58.60",
     "LowestPrice": "56.60",
     "ClosingPrice": "58.40",
-    "Change": "1.60",
+    "Change": "+1.60",
     "Transaction": "488"
   },
   {
@@ -11618,7 +11618,7 @@
     "HighestPrice": "108.00",
     "LowestPrice": "104.50",
     "ClosingPrice": "107.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "3640"
   },
   {
@@ -11631,7 +11631,7 @@
     "HighestPrice": "36.45",
     "LowestPrice": "34.80",
     "ClosingPrice": "36.40",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "395"
   },
   {
@@ -11644,7 +11644,7 @@
     "HighestPrice": "3895.00",
     "LowestPrice": "3550.00",
     "ClosingPrice": "3840.00",
-    "Change": "295.00",
+    "Change": "+295.00",
     "Transaction": "12980"
   },
   {
@@ -11657,7 +11657,7 @@
     "HighestPrice": "4855.00",
     "LowestPrice": "4450.00",
     "ClosingPrice": "4855.00",
-    "Change": "440.00",
+    "Change": "+440.00",
     "Transaction": "17517"
   },
   {
@@ -11670,7 +11670,7 @@
     "HighestPrice": "2180.00",
     "LowestPrice": "2095.00",
     "ClosingPrice": "2120.00",
-    "Change": "35.00",
+    "Change": "+35.00",
     "Transaction": "6991"
   },
   {
@@ -11683,7 +11683,7 @@
     "HighestPrice": "41.95",
     "LowestPrice": "39.00",
     "ClosingPrice": "41.60",
-    "Change": "3.40",
+    "Change": "+3.40",
     "Transaction": "1155"
   },
   {
@@ -11696,7 +11696,7 @@
     "HighestPrice": "94.90",
     "LowestPrice": "87.40",
     "ClosingPrice": "89.50",
-    "Change": "3.20",
+    "Change": "+3.20",
     "Transaction": "32089"
   },
   {
@@ -11709,7 +11709,7 @@
     "HighestPrice": "125.00",
     "LowestPrice": "121.50",
     "ClosingPrice": "124.50",
-    "Change": "4.00",
+    "Change": "+4.00",
     "Transaction": "245"
   },
   {
@@ -11722,7 +11722,7 @@
     "HighestPrice": "17.80",
     "LowestPrice": "17.20",
     "ClosingPrice": "17.60",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "224"
   },
   {
@@ -11748,7 +11748,7 @@
     "HighestPrice": "56.90",
     "LowestPrice": "53.30",
     "ClosingPrice": "55.70",
-    "Change": "1.90",
+    "Change": "+1.90",
     "Transaction": "1688"
   },
   {
@@ -11761,7 +11761,7 @@
     "HighestPrice": "120.00",
     "LowestPrice": "116.50",
     "ClosingPrice": "118.50",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "5595"
   },
   {
@@ -11774,7 +11774,7 @@
     "HighestPrice": "20.65",
     "LowestPrice": "20.15",
     "ClosingPrice": "20.40",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "742"
   },
   {
@@ -11787,7 +11787,7 @@
     "HighestPrice": "47.20",
     "LowestPrice": "46.25",
     "ClosingPrice": "46.80",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "3655"
   },
   {
@@ -11800,7 +11800,7 @@
     "HighestPrice": "56.10",
     "LowestPrice": "55.50",
     "ClosingPrice": "56.00",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "221"
   },
   {
@@ -11813,7 +11813,7 @@
     "HighestPrice": "94.50",
     "LowestPrice": "90.80",
     "ClosingPrice": "93.50",
-    "Change": "4.70",
+    "Change": "+4.70",
     "Transaction": "39929"
   },
   {
@@ -11852,7 +11852,7 @@
     "HighestPrice": "20.05",
     "LowestPrice": "18.55",
     "ClosingPrice": "19.90",
-    "Change": "1.65",
+    "Change": "+1.65",
     "Transaction": "1971"
   },
   {
@@ -11878,7 +11878,7 @@
     "HighestPrice": "185.50",
     "LowestPrice": "173.50",
     "ClosingPrice": "182.00",
-    "Change": "8.50",
+    "Change": "+8.50",
     "Transaction": "13405"
   },
   {
@@ -11891,7 +11891,7 @@
     "HighestPrice": "34.40",
     "LowestPrice": "33.70",
     "ClosingPrice": "34.40",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "296"
   },
   {
@@ -11956,7 +11956,7 @@
     "HighestPrice": "41.90",
     "LowestPrice": "40.35",
     "ClosingPrice": "41.90",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "381"
   },
   {
@@ -11982,7 +11982,7 @@
     "HighestPrice": "106.50",
     "LowestPrice": "103.00",
     "ClosingPrice": "106.50",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "459"
   },
   {
@@ -11995,7 +11995,7 @@
     "HighestPrice": "17.35",
     "LowestPrice": "17.15",
     "ClosingPrice": "17.20",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "676"
   },
   {
@@ -12008,7 +12008,7 @@
     "HighestPrice": "30.70",
     "LowestPrice": "30.10",
     "ClosingPrice": "30.40",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "73"
   },
   {
@@ -12034,7 +12034,7 @@
     "HighestPrice": "28.60",
     "LowestPrice": "27.95",
     "ClosingPrice": "28.55",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "634"
   },
   {
@@ -12047,7 +12047,7 @@
     "HighestPrice": "160.50",
     "LowestPrice": "156.50",
     "ClosingPrice": "158.50",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "189"
   },
   {
@@ -12060,7 +12060,7 @@
     "HighestPrice": "19.10",
     "LowestPrice": "18.65",
     "ClosingPrice": "18.90",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "356"
   },
   {
@@ -12086,7 +12086,7 @@
     "HighestPrice": "16.85",
     "LowestPrice": "16.30",
     "ClosingPrice": "16.75",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "259"
   },
   {
@@ -12099,7 +12099,7 @@
     "HighestPrice": "14.50",
     "LowestPrice": "14.15",
     "ClosingPrice": "14.25",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "1594"
   },
   {
@@ -12112,7 +12112,7 @@
     "HighestPrice": "8.07",
     "LowestPrice": "7.75",
     "ClosingPrice": "7.86",
-    "Change": "0.02",
+    "Change": "+0.02",
     "Transaction": "349"
   },
   {
@@ -12138,7 +12138,7 @@
     "HighestPrice": "61.90",
     "LowestPrice": "60.20",
     "ClosingPrice": "61.10",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "203"
   },
   {
@@ -12177,7 +12177,7 @@
     "HighestPrice": "212.50",
     "LowestPrice": "203.00",
     "ClosingPrice": "210.50",
-    "Change": "7.50",
+    "Change": "+7.50",
     "Transaction": "173"
   },
   {
@@ -12190,7 +12190,7 @@
     "HighestPrice": "42.80",
     "LowestPrice": "39.10",
     "ClosingPrice": "42.80",
-    "Change": "3.85",
+    "Change": "+3.85",
     "Transaction": "9547"
   },
   {
@@ -12203,7 +12203,7 @@
     "HighestPrice": "24.30",
     "LowestPrice": "23.80",
     "ClosingPrice": "24.30",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "1001"
   },
   {
@@ -12216,7 +12216,7 @@
     "HighestPrice": "162.50",
     "LowestPrice": "160.00",
     "ClosingPrice": "162.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "256"
   },
   {
@@ -12229,7 +12229,7 @@
     "HighestPrice": "75.40",
     "LowestPrice": "70.80",
     "ClosingPrice": "75.40",
-    "Change": "6.80",
+    "Change": "+6.80",
     "Transaction": "12373"
   },
   {
@@ -12242,7 +12242,7 @@
     "HighestPrice": "42.35",
     "LowestPrice": "38.60",
     "ClosingPrice": "42.05",
-    "Change": "3.55",
+    "Change": "+3.55",
     "Transaction": "1314"
   },
   {
@@ -12268,7 +12268,7 @@
     "HighestPrice": "20.60",
     "LowestPrice": "19.95",
     "ClosingPrice": "20.55",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "143"
   },
   {
@@ -12307,7 +12307,7 @@
     "HighestPrice": "32.45",
     "LowestPrice": "31.85",
     "ClosingPrice": "32.35",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "101"
   },
   {
@@ -12320,7 +12320,7 @@
     "HighestPrice": "45.55",
     "LowestPrice": "41.85",
     "ClosingPrice": "45.55",
-    "Change": "4.10",
+    "Change": "+4.10",
     "Transaction": "1888"
   },
   {
@@ -12333,7 +12333,7 @@
     "HighestPrice": "15.80",
     "LowestPrice": "15.40",
     "ClosingPrice": "15.65",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "645"
   },
   {
@@ -12346,7 +12346,7 @@
     "HighestPrice": "74.50",
     "LowestPrice": "71.60",
     "ClosingPrice": "71.60",
-    "Change": "1.40",
+    "Change": "+1.40",
     "Transaction": "4545"
   },
   {
@@ -12411,7 +12411,7 @@
     "HighestPrice": "50.00",
     "LowestPrice": "49.30",
     "ClosingPrice": "49.80",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "21"
   },
   {
@@ -12424,7 +12424,7 @@
     "HighestPrice": "26.80",
     "LowestPrice": "24.40",
     "ClosingPrice": "26.15",
-    "Change": "1.05",
+    "Change": "+1.05",
     "Transaction": "302"
   },
   {
@@ -12450,7 +12450,7 @@
     "HighestPrice": "376.00",
     "LowestPrice": "357.00",
     "ClosingPrice": "371.50",
-    "Change": "21.00",
+    "Change": "+21.00",
     "Transaction": "2569"
   },
   {
@@ -12463,7 +12463,7 @@
     "HighestPrice": "59.90",
     "LowestPrice": "56.80",
     "ClosingPrice": "58.00",
-    "Change": "1.60",
+    "Change": "+1.60",
     "Transaction": "293"
   },
   {
@@ -12476,7 +12476,7 @@
     "HighestPrice": "73.40",
     "LowestPrice": "71.90",
     "ClosingPrice": "73.00",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "164"
   },
   {
@@ -12489,7 +12489,7 @@
     "HighestPrice": "25.75",
     "LowestPrice": "24.90",
     "ClosingPrice": "25.40",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "1225"
   },
   {
@@ -12502,7 +12502,7 @@
     "HighestPrice": "288.50",
     "LowestPrice": "274.00",
     "ClosingPrice": "286.00",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "1241"
   },
   {
@@ -12515,7 +12515,7 @@
     "HighestPrice": "124.00",
     "LowestPrice": "123.00",
     "ClosingPrice": "124.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "204"
   },
   {
@@ -12541,7 +12541,7 @@
     "HighestPrice": "118.50",
     "LowestPrice": "108.00",
     "ClosingPrice": "109.00",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "9806"
   },
   {
@@ -12554,7 +12554,7 @@
     "HighestPrice": "53.80",
     "LowestPrice": "51.30",
     "ClosingPrice": "53.30",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "1087"
   },
   {
@@ -12567,7 +12567,7 @@
     "HighestPrice": "155.50",
     "LowestPrice": "148.50",
     "ClosingPrice": "152.00",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "559"
   },
   {
@@ -12580,7 +12580,7 @@
     "HighestPrice": "42.60",
     "LowestPrice": "40.90",
     "ClosingPrice": "42.60",
-    "Change": "1.70",
+    "Change": "+1.70",
     "Transaction": "4508"
   },
   {
@@ -12593,7 +12593,7 @@
     "HighestPrice": "335.00",
     "LowestPrice": "305.00",
     "ClosingPrice": "320.00",
-    "Change": "14.50",
+    "Change": "+14.50",
     "Transaction": "4258"
   },
   {
@@ -12606,7 +12606,7 @@
     "HighestPrice": "374.50",
     "LowestPrice": "361.50",
     "ClosingPrice": "372.50",
-    "Change": "13.50",
+    "Change": "+13.50",
     "Transaction": "1327"
   },
   {
@@ -12632,7 +12632,7 @@
     "HighestPrice": "200.00",
     "LowestPrice": "196.00",
     "ClosingPrice": "199.50",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "269"
   },
   {
@@ -12645,7 +12645,7 @@
     "HighestPrice": "29.95",
     "LowestPrice": "27.40",
     "ClosingPrice": "28.70",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "828"
   },
   {
@@ -12658,7 +12658,7 @@
     "HighestPrice": "97.60",
     "LowestPrice": "94.60",
     "ClosingPrice": "97.10",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "6204"
   },
   {
@@ -12671,7 +12671,7 @@
     "HighestPrice": "54.60",
     "LowestPrice": "49.35",
     "ClosingPrice": "53.40",
-    "Change": "3.70",
+    "Change": "+3.70",
     "Transaction": "30641"
   },
   {
@@ -12697,7 +12697,7 @@
     "HighestPrice": "76.50",
     "LowestPrice": "74.60",
     "ClosingPrice": "76.00",
-    "Change": "2.10",
+    "Change": "+2.10",
     "Transaction": "6670"
   },
   {
@@ -12710,7 +12710,7 @@
     "HighestPrice": "123.50",
     "LowestPrice": "115.50",
     "ClosingPrice": "119.00",
-    "Change": "6.50",
+    "Change": "+6.50",
     "Transaction": "6488"
   },
   {
@@ -12723,7 +12723,7 @@
     "HighestPrice": "208.00",
     "LowestPrice": "199.50",
     "ClosingPrice": "208.00",
-    "Change": "16.50",
+    "Change": "+16.50",
     "Transaction": "4088"
   },
   {
@@ -12749,7 +12749,7 @@
     "HighestPrice": "17.95",
     "LowestPrice": "17.75",
     "ClosingPrice": "17.85",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "126"
   },
   {
@@ -12762,7 +12762,7 @@
     "HighestPrice": "17.95",
     "LowestPrice": "17.15",
     "ClosingPrice": "17.30",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "886"
   },
   {
@@ -12775,7 +12775,7 @@
     "HighestPrice": "42.75",
     "LowestPrice": "40.60",
     "ClosingPrice": "41.65",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "622"
   },
   {
@@ -12788,7 +12788,7 @@
     "HighestPrice": "92.10",
     "LowestPrice": "89.50",
     "ClosingPrice": "91.20",
-    "Change": "2.70",
+    "Change": "+2.70",
     "Transaction": "23269"
   },
   {
@@ -12801,7 +12801,7 @@
     "HighestPrice": "38.75",
     "LowestPrice": "37.35",
     "ClosingPrice": "38.25",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "144"
   },
   {
@@ -12814,7 +12814,7 @@
     "HighestPrice": "9.30",
     "LowestPrice": "8.77",
     "ClosingPrice": "9.29",
-    "Change": "0.09",
+    "Change": "+0.09",
     "Transaction": "74"
   },
   {
@@ -12827,7 +12827,7 @@
     "HighestPrice": "104.00",
     "LowestPrice": "95.70",
     "ClosingPrice": "103.50",
-    "Change": "8.90",
+    "Change": "+8.90",
     "Transaction": "4980"
   },
   {
@@ -12853,7 +12853,7 @@
     "HighestPrice": "47.15",
     "LowestPrice": "45.20",
     "ClosingPrice": "45.50",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "2111"
   },
   {
@@ -12866,7 +12866,7 @@
     "HighestPrice": "555.00",
     "LowestPrice": "541.00",
     "ClosingPrice": "548.00",
-    "Change": "33.00",
+    "Change": "+33.00",
     "Transaction": "25116"
   },
   {
@@ -12879,7 +12879,7 @@
     "HighestPrice": "34.80",
     "LowestPrice": "32.10",
     "ClosingPrice": "33.75",
-    "Change": "1.80",
+    "Change": "+1.80",
     "Transaction": "6644"
   },
   {
@@ -12892,7 +12892,7 @@
     "HighestPrice": "175.00",
     "LowestPrice": "168.00",
     "ClosingPrice": "175.00",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "2197"
   },
   {
@@ -12905,7 +12905,7 @@
     "HighestPrice": "290.00",
     "LowestPrice": "278.00",
     "ClosingPrice": "289.00",
-    "Change": "13.00",
+    "Change": "+13.00",
     "Transaction": "13918"
   },
   {
@@ -12918,7 +12918,7 @@
     "HighestPrice": "119.00",
     "LowestPrice": "116.00",
     "ClosingPrice": "117.00",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "1065"
   },
   {
@@ -12931,7 +12931,7 @@
     "HighestPrice": "32.45",
     "LowestPrice": "31.30",
     "ClosingPrice": "32.30",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "706"
   },
   {
@@ -12944,7 +12944,7 @@
     "HighestPrice": "219.50",
     "LowestPrice": "210.50",
     "ClosingPrice": "217.00",
-    "Change": "6.50",
+    "Change": "+6.50",
     "Transaction": "4276"
   },
   {
@@ -12957,7 +12957,7 @@
     "HighestPrice": "111.50",
     "LowestPrice": "104.50",
     "ClosingPrice": "107.00",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "12437"
   },
   {
@@ -12983,7 +12983,7 @@
     "HighestPrice": "20.50",
     "LowestPrice": "19.90",
     "ClosingPrice": "20.40",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "244"
   },
   {
@@ -12996,7 +12996,7 @@
     "HighestPrice": "58.00",
     "LowestPrice": "57.00",
     "ClosingPrice": "58.00",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "109"
   },
   {
@@ -13009,7 +13009,7 @@
     "HighestPrice": "71.00",
     "LowestPrice": "65.50",
     "ClosingPrice": "70.00",
-    "Change": "5.40",
+    "Change": "+5.40",
     "Transaction": "1602"
   },
   {
@@ -13022,7 +13022,7 @@
     "HighestPrice": "51.20",
     "LowestPrice": "49.50",
     "ClosingPrice": "50.30",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "303"
   },
   {
@@ -13035,7 +13035,7 @@
     "HighestPrice": "128.00",
     "LowestPrice": "126.00",
     "ClosingPrice": "126.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "613"
   },
   {
@@ -13048,7 +13048,7 @@
     "HighestPrice": "71.90",
     "LowestPrice": "70.10",
     "ClosingPrice": "71.60",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "412"
   },
   {
@@ -13061,7 +13061,7 @@
     "HighestPrice": "415.00",
     "LowestPrice": "406.00",
     "ClosingPrice": "412.50",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "1021"
   },
   {
@@ -13087,7 +13087,7 @@
     "HighestPrice": "39.25",
     "LowestPrice": "38.40",
     "ClosingPrice": "38.65",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "217"
   },
   {
@@ -13100,7 +13100,7 @@
     "HighestPrice": "52.50",
     "LowestPrice": "50.10",
     "ClosingPrice": "52.50",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "1020"
   },
   {
@@ -13113,7 +13113,7 @@
     "HighestPrice": "1520.00",
     "LowestPrice": "1465.00",
     "ClosingPrice": "1520.00",
-    "Change": "55.00",
+    "Change": "+55.00",
     "Transaction": "5337"
   },
   {
@@ -13126,7 +13126,7 @@
     "HighestPrice": "53.60",
     "LowestPrice": "52.10",
     "ClosingPrice": "53.40",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "351"
   },
   {
@@ -13165,7 +13165,7 @@
     "HighestPrice": "162.50",
     "LowestPrice": "156.00",
     "ClosingPrice": "161.00",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "281"
   },
   {
@@ -13178,7 +13178,7 @@
     "HighestPrice": "232.00",
     "LowestPrice": "221.50",
     "ClosingPrice": "229.50",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "409"
   },
   {
@@ -13191,7 +13191,7 @@
     "HighestPrice": "84.50",
     "LowestPrice": "83.00",
     "ClosingPrice": "84.30",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "225"
   },
   {
@@ -13204,7 +13204,7 @@
     "HighestPrice": "91.90",
     "LowestPrice": "86.60",
     "ClosingPrice": "90.10",
-    "Change": "3.40",
+    "Change": "+3.40",
     "Transaction": "8223"
   },
   {
@@ -13230,7 +13230,7 @@
     "HighestPrice": "86.20",
     "LowestPrice": "84.50",
     "ClosingPrice": "86.00",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "2643"
   },
   {
@@ -13256,7 +13256,7 @@
     "HighestPrice": "53.60",
     "LowestPrice": "47.80",
     "ClosingPrice": "53.60",
-    "Change": "4.85",
+    "Change": "+4.85",
     "Transaction": "1593"
   },
   {
@@ -13269,7 +13269,7 @@
     "HighestPrice": "41.75",
     "LowestPrice": "40.75",
     "ClosingPrice": "41.55",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "524"
   },
   {
@@ -13308,7 +13308,7 @@
     "HighestPrice": "74.20",
     "LowestPrice": "71.90",
     "ClosingPrice": "74.20",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "1255"
   },
   {
@@ -13321,7 +13321,7 @@
     "HighestPrice": "21.90",
     "LowestPrice": "20.85",
     "ClosingPrice": "21.80",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "106"
   },
   {
@@ -13334,7 +13334,7 @@
     "HighestPrice": "7.93",
     "LowestPrice": "7.60",
     "ClosingPrice": "7.85",
-    "Change": "0.21",
+    "Change": "+0.21",
     "Transaction": "396"
   },
   {
@@ -13360,7 +13360,7 @@
     "HighestPrice": "74.80",
     "LowestPrice": "73.70",
     "ClosingPrice": "74.70",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "969"
   },
   {
@@ -13373,7 +13373,7 @@
     "HighestPrice": "36.65",
     "LowestPrice": "35.70",
     "ClosingPrice": "36.00",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "41"
   },
   {
@@ -13399,7 +13399,7 @@
     "HighestPrice": "52.30",
     "LowestPrice": "50.30",
     "ClosingPrice": "51.80",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "1128"
   },
   {
@@ -13412,7 +13412,7 @@
     "HighestPrice": "15.15",
     "LowestPrice": "14.35",
     "ClosingPrice": "15.00",
-    "Change": "0.65",
+    "Change": "+0.65",
     "Transaction": "1777"
   },
   {
@@ -13425,7 +13425,7 @@
     "HighestPrice": "51.90",
     "LowestPrice": "50.50",
     "ClosingPrice": "51.60",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "745"
   },
   {
@@ -13438,7 +13438,7 @@
     "HighestPrice": "110.00",
     "LowestPrice": "107.50",
     "ClosingPrice": "108.50",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "5510"
   },
   {
@@ -13451,7 +13451,7 @@
     "HighestPrice": "102.50",
     "LowestPrice": "102.00",
     "ClosingPrice": "102.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "46"
   },
   {
@@ -13464,7 +13464,7 @@
     "HighestPrice": "40.00",
     "LowestPrice": "39.20",
     "ClosingPrice": "39.80",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "6481"
   },
   {
@@ -13503,7 +13503,7 @@
     "HighestPrice": "5.14",
     "LowestPrice": "4.99",
     "ClosingPrice": "5.07",
-    "Change": "0.07",
+    "Change": "+0.07",
     "Transaction": "151"
   },
   {
@@ -13516,7 +13516,7 @@
     "HighestPrice": "40.30",
     "LowestPrice": "38.35",
     "ClosingPrice": "39.60",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "11303"
   },
   {
@@ -13529,7 +13529,7 @@
     "HighestPrice": "58.50",
     "LowestPrice": "57.50",
     "ClosingPrice": "58.20",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "600"
   },
   {
@@ -13542,7 +13542,7 @@
     "HighestPrice": "20.20",
     "LowestPrice": "19.60",
     "ClosingPrice": "19.95",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "853"
   },
   {
@@ -13555,7 +13555,7 @@
     "HighestPrice": "47.05",
     "LowestPrice": "43.20",
     "ClosingPrice": "47.05",
-    "Change": "4.25",
+    "Change": "+4.25",
     "Transaction": "2974"
   },
   {
@@ -13581,7 +13581,7 @@
     "HighestPrice": "18.80",
     "LowestPrice": "18.25",
     "ClosingPrice": "18.80",
-    "Change": "1.70",
+    "Change": "+1.70",
     "Transaction": "25965"
   },
   {
@@ -13594,7 +13594,7 @@
     "HighestPrice": "86.60",
     "LowestPrice": "84.10",
     "ClosingPrice": "85.80",
-    "Change": "1.80",
+    "Change": "+1.80",
     "Transaction": "918"
   },
   {
@@ -13607,7 +13607,7 @@
     "HighestPrice": "15.50",
     "LowestPrice": "14.30",
     "ClosingPrice": "14.90",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "3173"
   },
   {
@@ -13620,7 +13620,7 @@
     "HighestPrice": "19.60",
     "LowestPrice": "19.10",
     "ClosingPrice": "19.50",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "96"
   },
   {
@@ -13633,7 +13633,7 @@
     "HighestPrice": "23.85",
     "LowestPrice": "23.35",
     "ClosingPrice": "23.55",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "685"
   },
   {
@@ -13646,7 +13646,7 @@
     "HighestPrice": "26.20",
     "LowestPrice": "25.60",
     "ClosingPrice": "26.05",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "360"
   },
   {
@@ -13685,7 +13685,7 @@
     "HighestPrice": "8.79",
     "LowestPrice": "8.27",
     "ClosingPrice": "8.52",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "440"
   },
   {
@@ -13711,7 +13711,7 @@
     "HighestPrice": "18.90",
     "LowestPrice": "17.95",
     "ClosingPrice": "18.50",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "2462"
   },
   {
@@ -13724,7 +13724,7 @@
     "HighestPrice": "69.00",
     "LowestPrice": "63.00",
     "ClosingPrice": "69.00",
-    "Change": "6.20",
+    "Change": "+6.20",
     "Transaction": "16013"
   },
   {
@@ -13737,7 +13737,7 @@
     "HighestPrice": "12.70",
     "LowestPrice": "12.00",
     "ClosingPrice": "12.65",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "787"
   },
   {
@@ -13763,7 +13763,7 @@
     "HighestPrice": "142.00",
     "LowestPrice": "131.50",
     "ClosingPrice": "133.50",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "3352"
   },
   {
@@ -13776,7 +13776,7 @@
     "HighestPrice": "29.20",
     "LowestPrice": "27.70",
     "ClosingPrice": "28.20",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "2375"
   },
   {
@@ -13802,7 +13802,7 @@
     "HighestPrice": "43.70",
     "LowestPrice": "42.10",
     "ClosingPrice": "43.60",
-    "Change": "1.20",
+    "Change": "+1.20",
     "Transaction": "1328"
   },
   {
@@ -13815,7 +13815,7 @@
     "HighestPrice": "91.70",
     "LowestPrice": "90.10",
     "ClosingPrice": "91.50",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "216"
   },
   {
@@ -13867,7 +13867,7 @@
     "HighestPrice": "130.00",
     "LowestPrice": "128.00",
     "ClosingPrice": "129.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "305"
   },
   {
@@ -13880,7 +13880,7 @@
     "HighestPrice": "518.00",
     "LowestPrice": "505.00",
     "ClosingPrice": "513.00",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "3661"
   },
   {
@@ -13893,7 +13893,7 @@
     "HighestPrice": "318.00",
     "LowestPrice": "297.00",
     "ClosingPrice": "309.00",
-    "Change": "12.00",
+    "Change": "+12.00",
     "Transaction": "8236"
   },
   {
@@ -13932,7 +13932,7 @@
     "HighestPrice": "81.50",
     "LowestPrice": "77.70",
     "ClosingPrice": "81.20",
-    "Change": "3.20",
+    "Change": "+3.20",
     "Transaction": "1261"
   },
   {
@@ -13945,7 +13945,7 @@
     "HighestPrice": "145.50",
     "LowestPrice": "136.50",
     "ClosingPrice": "141.50",
-    "Change": "4.00",
+    "Change": "+4.00",
     "Transaction": "2496"
   },
   {
@@ -13958,7 +13958,7 @@
     "HighestPrice": "86.40",
     "LowestPrice": "83.40",
     "ClosingPrice": "84.50",
-    "Change": "2.80",
+    "Change": "+2.80",
     "Transaction": "11425"
   },
   {
@@ -13971,7 +13971,7 @@
     "HighestPrice": "295.00",
     "LowestPrice": "282.00",
     "ClosingPrice": "295.00",
-    "Change": "26.50",
+    "Change": "+26.50",
     "Transaction": "23224"
   },
   {
@@ -13984,7 +13984,7 @@
     "HighestPrice": "144.00",
     "LowestPrice": "137.50",
     "ClosingPrice": "144.00",
-    "Change": "13.00",
+    "Change": "+13.00",
     "Transaction": "3663"
   },
   {
@@ -13997,7 +13997,7 @@
     "HighestPrice": "133.00",
     "LowestPrice": "127.50",
     "ClosingPrice": "129.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "3443"
   },
   {
@@ -14010,7 +14010,7 @@
     "HighestPrice": "23.10",
     "LowestPrice": "22.20",
     "ClosingPrice": "23.00",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "366"
   },
   {
@@ -14036,7 +14036,7 @@
     "HighestPrice": "25.70",
     "LowestPrice": "24.45",
     "ClosingPrice": "24.45",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "15"
   },
   {
@@ -14049,7 +14049,7 @@
     "HighestPrice": "13.85",
     "LowestPrice": "13.05",
     "ClosingPrice": "13.55",
-    "Change": "0.55",
+    "Change": "+0.55",
     "Transaction": "1590"
   },
   {
@@ -14062,7 +14062,7 @@
     "HighestPrice": "144.50",
     "LowestPrice": "137.50",
     "ClosingPrice": "141.50",
-    "Change": "6.00",
+    "Change": "+6.00",
     "Transaction": "444"
   },
   {
@@ -14075,7 +14075,7 @@
     "HighestPrice": "47.65",
     "LowestPrice": "43.30",
     "ClosingPrice": "47.20",
-    "Change": "2.20",
+    "Change": "+2.20",
     "Transaction": "3289"
   },
   {
@@ -14101,7 +14101,7 @@
     "HighestPrice": "34.70",
     "LowestPrice": "33.30",
     "ClosingPrice": "33.85",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "394"
   },
   {
@@ -14127,7 +14127,7 @@
     "HighestPrice": "69.10",
     "LowestPrice": "69.10",
     "ClosingPrice": "69.10",
-    "Change": "6.20",
+    "Change": "+6.20",
     "Transaction": "1751"
   },
   {
@@ -14140,7 +14140,7 @@
     "HighestPrice": "252.00",
     "LowestPrice": "245.00",
     "ClosingPrice": "247.50",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "4378"
   },
   {
@@ -14153,7 +14153,7 @@
     "HighestPrice": "36.00",
     "LowestPrice": "34.40",
     "ClosingPrice": "34.95",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "406"
   },
   {
@@ -14166,7 +14166,7 @@
     "HighestPrice": "82.30",
     "LowestPrice": "77.10",
     "ClosingPrice": "81.00",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "993"
   },
   {
@@ -14205,7 +14205,7 @@
     "HighestPrice": "65.80",
     "LowestPrice": "61.10",
     "ClosingPrice": "65.80",
-    "Change": "5.90",
+    "Change": "+5.90",
     "Transaction": "59293"
   },
   {
@@ -14218,7 +14218,7 @@
     "HighestPrice": "25.65",
     "LowestPrice": "23.90",
     "ClosingPrice": "25.10",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "415"
   },
   {
@@ -14257,7 +14257,7 @@
     "HighestPrice": "718.00",
     "LowestPrice": "697.00",
     "ClosingPrice": "713.00",
-    "Change": "4.00",
+    "Change": "+4.00",
     "Transaction": "2160"
   },
   {
@@ -14270,7 +14270,7 @@
     "HighestPrice": "112.00",
     "LowestPrice": "103.50",
     "ClosingPrice": "106.00",
-    "Change": "4.00",
+    "Change": "+4.00",
     "Transaction": "6616"
   },
   {
@@ -14283,7 +14283,7 @@
     "HighestPrice": "379.50",
     "LowestPrice": "362.00",
     "ClosingPrice": "375.50",
-    "Change": "15.00",
+    "Change": "+15.00",
     "Transaction": "3735"
   },
   {
@@ -14296,7 +14296,7 @@
     "HighestPrice": "636.00",
     "LowestPrice": "593.00",
     "ClosingPrice": "606.00",
-    "Change": "6.00",
+    "Change": "+6.00",
     "Transaction": "8059"
   },
   {
@@ -14309,7 +14309,7 @@
     "HighestPrice": "92.30",
     "LowestPrice": "89.50",
     "ClosingPrice": "91.50",
-    "Change": "2.60",
+    "Change": "+2.60",
     "Transaction": "457"
   },
   {
@@ -14335,7 +14335,7 @@
     "HighestPrice": "19.55",
     "LowestPrice": "18.55",
     "ClosingPrice": "18.85",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "98"
   },
   {
@@ -14361,7 +14361,7 @@
     "HighestPrice": "1930.00",
     "LowestPrice": "1835.00",
     "ClosingPrice": "1885.00",
-    "Change": "40.00",
+    "Change": "+40.00",
     "Transaction": "8158"
   },
   {
@@ -14374,7 +14374,7 @@
     "HighestPrice": "43.20",
     "LowestPrice": "40.20",
     "ClosingPrice": "42.10",
-    "Change": "1.40",
+    "Change": "+1.40",
     "Transaction": "14759"
   },
   {
@@ -14387,7 +14387,7 @@
     "HighestPrice": "978.00",
     "LowestPrice": "930.00",
     "ClosingPrice": "962.00",
-    "Change": "32.00",
+    "Change": "+32.00",
     "Transaction": "7175"
   },
   {
@@ -14400,7 +14400,7 @@
     "HighestPrice": "434.50",
     "LowestPrice": "403.50",
     "ClosingPrice": "411.00",
-    "Change": "16.00",
+    "Change": "+16.00",
     "Transaction": "1081"
   },
   {
@@ -14413,7 +14413,7 @@
     "HighestPrice": "627.00",
     "LowestPrice": "573.00",
     "ClosingPrice": "627.00",
-    "Change": "57.00",
+    "Change": "+57.00",
     "Transaction": "8083"
   },
   {
@@ -14426,7 +14426,7 @@
     "HighestPrice": "84.10",
     "LowestPrice": "78.00",
     "ClosingPrice": "83.90",
-    "Change": "7.40",
+    "Change": "+7.40",
     "Transaction": "23128"
   },
   {
@@ -14452,7 +14452,7 @@
     "HighestPrice": "359.50",
     "LowestPrice": "342.00",
     "ClosingPrice": "356.50",
-    "Change": "10.50",
+    "Change": "+10.50",
     "Transaction": "2319"
   },
   {
@@ -14465,7 +14465,7 @@
     "HighestPrice": "35.00",
     "LowestPrice": "33.75",
     "ClosingPrice": "34.25",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "505"
   },
   {
@@ -14478,7 +14478,7 @@
     "HighestPrice": "323.50",
     "LowestPrice": "315.50",
     "ClosingPrice": "322.50",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "1916"
   },
   {
@@ -14504,7 +14504,7 @@
     "HighestPrice": "53.80",
     "LowestPrice": "50.70",
     "ClosingPrice": "53.30",
-    "Change": "1.90",
+    "Change": "+1.90",
     "Transaction": "7159"
   },
   {
@@ -14517,7 +14517,7 @@
     "HighestPrice": "8895.00",
     "LowestPrice": "8575.00",
     "ClosingPrice": "8705.00",
-    "Change": "40.00",
+    "Change": "+40.00",
     "Transaction": "8618"
   },
   {
@@ -14543,7 +14543,7 @@
     "HighestPrice": "682.00",
     "LowestPrice": "661.00",
     "ClosingPrice": "673.00",
-    "Change": "14.00",
+    "Change": "+14.00",
     "Transaction": "2273"
   },
   {
@@ -14569,7 +14569,7 @@
     "HighestPrice": "222.50",
     "LowestPrice": "217.50",
     "ClosingPrice": "221.00",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "906"
   },
   {
@@ -14595,7 +14595,7 @@
     "HighestPrice": "41.40",
     "LowestPrice": "39.00",
     "ClosingPrice": "41.40",
-    "Change": "2.40",
+    "Change": "+2.40",
     "Transaction": "703"
   },
   {
@@ -14634,7 +14634,7 @@
     "HighestPrice": "34.50",
     "LowestPrice": "32.60",
     "ClosingPrice": "34.35",
-    "Change": "2.05",
+    "Change": "+2.05",
     "Transaction": "1773"
   },
   {
@@ -14673,7 +14673,7 @@
     "HighestPrice": "115.00",
     "LowestPrice": "110.00",
     "ClosingPrice": "113.00",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "456"
   },
   {
@@ -14686,7 +14686,7 @@
     "HighestPrice": "32.90",
     "LowestPrice": "30.70",
     "ClosingPrice": "31.45",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "133"
   },
   {
@@ -14699,7 +14699,7 @@
     "HighestPrice": "99.90",
     "LowestPrice": "96.80",
     "ClosingPrice": "98.00",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "202"
   },
   {
@@ -14712,7 +14712,7 @@
     "HighestPrice": "44.15",
     "LowestPrice": "42.35",
     "ClosingPrice": "44.00",
-    "Change": "1.85",
+    "Change": "+1.85",
     "Transaction": "1008"
   },
   {
@@ -14725,7 +14725,7 @@
     "HighestPrice": "58.90",
     "LowestPrice": "57.20",
     "ClosingPrice": "58.20",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "674"
   },
   {
@@ -14738,7 +14738,7 @@
     "HighestPrice": "61.90",
     "LowestPrice": "60.30",
     "ClosingPrice": "61.40",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "1365"
   },
   {
@@ -14751,7 +14751,7 @@
     "HighestPrice": "97.00",
     "LowestPrice": "96.50",
     "ClosingPrice": "97.00",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "12"
   },
   {
@@ -14764,7 +14764,7 @@
     "HighestPrice": "97.40",
     "LowestPrice": "97.00",
     "ClosingPrice": "97.40",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "26"
   },
   {
@@ -14803,7 +14803,7 @@
     "HighestPrice": "26.35",
     "LowestPrice": "25.00",
     "ClosingPrice": "26.35",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "167"
   },
   {
@@ -14816,7 +14816,7 @@
     "HighestPrice": "40.80",
     "LowestPrice": "39.00",
     "ClosingPrice": "40.00",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "209"
   },
   {
@@ -14829,7 +14829,7 @@
     "HighestPrice": "73.60",
     "LowestPrice": "72.80",
     "ClosingPrice": "73.60",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "218"
   },
   {
@@ -14842,7 +14842,7 @@
     "HighestPrice": "18.60",
     "LowestPrice": "18.30",
     "ClosingPrice": "18.60",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "50"
   },
   {
@@ -14920,7 +14920,7 @@
     "HighestPrice": "40.55",
     "LowestPrice": "39.25",
     "ClosingPrice": "40.30",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "388"
   },
   {
@@ -14933,7 +14933,7 @@
     "HighestPrice": "5795.00",
     "LowestPrice": "5460.00",
     "ClosingPrice": "5515.00",
-    "Change": "70.00",
+    "Change": "+70.00",
     "Transaction": "17313"
   },
   {
@@ -14946,7 +14946,7 @@
     "HighestPrice": "274.00",
     "LowestPrice": "261.50",
     "ClosingPrice": "272.00",
-    "Change": "10.50",
+    "Change": "+10.50",
     "Transaction": "960"
   },
   {
@@ -14959,7 +14959,7 @@
     "HighestPrice": "27.20",
     "LowestPrice": "26.95",
     "ClosingPrice": "27.20",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "24"
   },
   {
@@ -14998,7 +14998,7 @@
     "HighestPrice": "71.50",
     "LowestPrice": "65.90",
     "ClosingPrice": "71.50",
-    "Change": "6.50",
+    "Change": "+6.50",
     "Transaction": "470"
   },
   {
@@ -15037,7 +15037,7 @@
     "HighestPrice": "41.00",
     "LowestPrice": "38.50",
     "ClosingPrice": "39.50",
-    "Change": "1.85",
+    "Change": "+1.85",
     "Transaction": "2722"
   },
   {
@@ -15050,7 +15050,7 @@
     "HighestPrice": "225.00",
     "LowestPrice": "206.00",
     "ClosingPrice": "216.50",
-    "Change": "11.00",
+    "Change": "+11.00",
     "Transaction": "12025"
   },
   {
@@ -15063,7 +15063,7 @@
     "HighestPrice": "455.00",
     "LowestPrice": "428.00",
     "ClosingPrice": "453.00",
-    "Change": "17.00",
+    "Change": "+17.00",
     "Transaction": "820"
   },
   {
@@ -15102,7 +15102,7 @@
     "HighestPrice": "60.30",
     "LowestPrice": "59.00",
     "ClosingPrice": "60.30",
-    "Change": "2.40",
+    "Change": "+2.40",
     "Transaction": "1067"
   },
   {
@@ -15115,7 +15115,7 @@
     "HighestPrice": "30.40",
     "LowestPrice": "29.70",
     "ClosingPrice": "30.05",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "509"
   },
   {
@@ -15128,7 +15128,7 @@
     "HighestPrice": "132.00",
     "LowestPrice": "128.00",
     "ClosingPrice": "130.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "1361"
   },
   {
@@ -15141,7 +15141,7 @@
     "HighestPrice": "47.80",
     "LowestPrice": "44.00",
     "ClosingPrice": "46.55",
-    "Change": "3.05",
+    "Change": "+3.05",
     "Transaction": "116"
   },
   {
@@ -15167,7 +15167,7 @@
     "HighestPrice": "58.90",
     "LowestPrice": "56.00",
     "ClosingPrice": "58.90",
-    "Change": "2.20",
+    "Change": "+2.20",
     "Transaction": "3837"
   },
   {
@@ -15180,7 +15180,7 @@
     "HighestPrice": "87.20",
     "LowestPrice": "83.90",
     "ClosingPrice": "87.00",
-    "Change": "2.90",
+    "Change": "+2.90",
     "Transaction": "695"
   },
   {
@@ -15206,7 +15206,7 @@
     "HighestPrice": "42.30",
     "LowestPrice": "41.85",
     "ClosingPrice": "42.20",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "50"
   },
   {
@@ -15219,7 +15219,7 @@
     "HighestPrice": "60.30",
     "LowestPrice": "58.90",
     "ClosingPrice": "60.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "539"
   },
   {
@@ -15232,7 +15232,7 @@
     "HighestPrice": "1225.00",
     "LowestPrice": "1175.00",
     "ClosingPrice": "1200.00",
-    "Change": "40.00",
+    "Change": "+40.00",
     "Transaction": "4233"
   },
   {
@@ -15245,7 +15245,7 @@
     "HighestPrice": "196.50",
     "LowestPrice": "191.00",
     "ClosingPrice": "195.00",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "475"
   },
   {
@@ -15258,7 +15258,7 @@
     "HighestPrice": "550.00",
     "LowestPrice": "522.00",
     "ClosingPrice": "547.00",
-    "Change": "21.00",
+    "Change": "+21.00",
     "Transaction": "5998"
   },
   {
@@ -15271,7 +15271,7 @@
     "HighestPrice": "39.65",
     "LowestPrice": "39.10",
     "ClosingPrice": "39.50",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "220"
   },
   {
@@ -15284,7 +15284,7 @@
     "HighestPrice": "73.80",
     "LowestPrice": "70.60",
     "ClosingPrice": "72.00",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "162"
   },
   {
@@ -15297,7 +15297,7 @@
     "HighestPrice": "84.50",
     "LowestPrice": "80.20",
     "ClosingPrice": "82.70",
-    "Change": "2.80",
+    "Change": "+2.80",
     "Transaction": "71"
   },
   {
@@ -15310,7 +15310,7 @@
     "HighestPrice": "62.30",
     "LowestPrice": "60.50",
     "ClosingPrice": "61.90",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "129"
   },
   {
@@ -15336,7 +15336,7 @@
     "HighestPrice": "2120.00",
     "LowestPrice": "2040.00",
     "ClosingPrice": "2120.00",
-    "Change": "190.00",
+    "Change": "+190.00",
     "Transaction": "9136"
   },
   {
@@ -15349,7 +15349,7 @@
     "HighestPrice": "7.38",
     "LowestPrice": "7.38",
     "ClosingPrice": "7.38",
-    "Change": "0.67",
+    "Change": "+0.67",
     "Transaction": "2616"
   },
   {
@@ -15362,7 +15362,7 @@
     "HighestPrice": "33.55",
     "LowestPrice": "32.80",
     "ClosingPrice": "33.45",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "36"
   },
   {
@@ -15375,7 +15375,7 @@
     "HighestPrice": "685.00",
     "LowestPrice": "650.00",
     "ClosingPrice": "683.00",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "4621"
   },
   {
@@ -15388,7 +15388,7 @@
     "HighestPrice": "802.00",
     "LowestPrice": "704.00",
     "ClosingPrice": "762.00",
-    "Change": "20.00",
+    "Change": "+20.00",
     "Transaction": "4276"
   },
   {
@@ -15401,7 +15401,7 @@
     "HighestPrice": "82.70",
     "LowestPrice": "76.60",
     "ClosingPrice": "77.00",
-    "Change": "1.80",
+    "Change": "+1.80",
     "Transaction": "655"
   },
   {
@@ -15427,7 +15427,7 @@
     "HighestPrice": "25.55",
     "LowestPrice": "24.90",
     "ClosingPrice": "25.15",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "96"
   },
   {
@@ -15479,7 +15479,7 @@
     "HighestPrice": "112.00",
     "LowestPrice": "109.50",
     "ClosingPrice": "110.50",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "155"
   },
   {
@@ -15505,7 +15505,7 @@
     "HighestPrice": "90.90",
     "LowestPrice": "88.10",
     "ClosingPrice": "90.20",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "779"
   },
   {
@@ -15518,7 +15518,7 @@
     "HighestPrice": "22.70",
     "LowestPrice": "20.70",
     "ClosingPrice": "22.35",
-    "Change": "1.65",
+    "Change": "+1.65",
     "Transaction": "567"
   },
   {
@@ -15531,7 +15531,7 @@
     "HighestPrice": "37.95",
     "LowestPrice": "33.50",
     "ClosingPrice": "36.95",
-    "Change": "2.45",
+    "Change": "+2.45",
     "Transaction": "203"
   },
   {
@@ -15544,7 +15544,7 @@
     "HighestPrice": "177.00",
     "LowestPrice": "169.00",
     "ClosingPrice": "174.50",
-    "Change": "7.00",
+    "Change": "+7.00",
     "Transaction": "987"
   },
   {
@@ -15557,7 +15557,7 @@
     "HighestPrice": "13.15",
     "LowestPrice": "12.40",
     "ClosingPrice": "13.15",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "808"
   },
   {
@@ -15570,7 +15570,7 @@
     "HighestPrice": "149.00",
     "LowestPrice": "142.00",
     "ClosingPrice": "147.00",
-    "Change": "4.00",
+    "Change": "+4.00",
     "Transaction": "435"
   },
   {
@@ -15596,7 +15596,7 @@
     "HighestPrice": "41.60",
     "LowestPrice": "39.00",
     "ClosingPrice": "40.95",
-    "Change": "2.95",
+    "Change": "+2.95",
     "Transaction": "76"
   },
   {
@@ -15635,7 +15635,7 @@
     "HighestPrice": "18.60",
     "LowestPrice": "18.20",
     "ClosingPrice": "18.55",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "50"
   },
   {
@@ -15648,7 +15648,7 @@
     "HighestPrice": "73.90",
     "LowestPrice": "72.20",
     "ClosingPrice": "73.50",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "89"
   },
   {
@@ -15713,7 +15713,7 @@
     "HighestPrice": "49.55",
     "LowestPrice": "47.10",
     "ClosingPrice": "48.20",
-    "Change": "1.20",
+    "Change": "+1.20",
     "Transaction": "343"
   },
   {
@@ -15726,7 +15726,7 @@
     "HighestPrice": "40.55",
     "LowestPrice": "39.55",
     "ClosingPrice": "40.00",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "73"
   },
   {
@@ -15739,7 +15739,7 @@
     "HighestPrice": "189.50",
     "LowestPrice": "188.50",
     "ClosingPrice": "189.50",
-    "Change": "17.00",
+    "Change": "+17.00",
     "Transaction": "528"
   },
   {
@@ -15765,7 +15765,7 @@
     "HighestPrice": "33.40",
     "LowestPrice": "32.95",
     "ClosingPrice": "33.40",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "32"
   },
   {
@@ -15778,7 +15778,7 @@
     "HighestPrice": "312.00",
     "LowestPrice": "295.00",
     "ClosingPrice": "311.00",
-    "Change": "8.00",
+    "Change": "+8.00",
     "Transaction": "1502"
   },
   {
@@ -15830,7 +15830,7 @@
     "HighestPrice": "37.45",
     "LowestPrice": "36.55",
     "ClosingPrice": "37.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "27"
   },
   {
@@ -15856,7 +15856,7 @@
     "HighestPrice": "172.50",
     "LowestPrice": "166.00",
     "ClosingPrice": "171.50",
-    "Change": "4.50",
+    "Change": "+4.50",
     "Transaction": "1296"
   },
   {
@@ -15869,7 +15869,7 @@
     "HighestPrice": "17.65",
     "LowestPrice": "17.00",
     "ClosingPrice": "17.40",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "70"
   },
   {
@@ -15908,7 +15908,7 @@
     "HighestPrice": "79.50",
     "LowestPrice": "76.00",
     "ClosingPrice": "79.10",
-    "Change": "1.20",
+    "Change": "+1.20",
     "Transaction": "89"
   },
   {
@@ -15921,7 +15921,7 @@
     "HighestPrice": "28.20",
     "LowestPrice": "27.60",
     "ClosingPrice": "28.20",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "50"
   },
   {
@@ -15947,7 +15947,7 @@
     "HighestPrice": "67.00",
     "LowestPrice": "63.00",
     "ClosingPrice": "66.00",
-    "Change": "1.20",
+    "Change": "+1.20",
     "Transaction": "898"
   },
   {
@@ -15960,7 +15960,7 @@
     "HighestPrice": "1620.00",
     "LowestPrice": "1515.00",
     "ClosingPrice": "1615.00",
-    "Change": "140.00",
+    "Change": "+140.00",
     "Transaction": "1512"
   },
   {
@@ -15986,7 +15986,7 @@
     "HighestPrice": "31.45",
     "LowestPrice": "30.70",
     "ClosingPrice": "31.35",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "136"
   },
   {
@@ -15999,7 +15999,7 @@
     "HighestPrice": "424.50",
     "LowestPrice": "406.00",
     "ClosingPrice": "413.00",
-    "Change": "10.50",
+    "Change": "+10.50",
     "Transaction": "3142"
   },
   {
@@ -16012,7 +16012,7 @@
     "HighestPrice": "80.00",
     "LowestPrice": "73.60",
     "ClosingPrice": "80.00",
-    "Change": "7.20",
+    "Change": "+7.20",
     "Transaction": "1527"
   },
   {
@@ -16025,7 +16025,7 @@
     "HighestPrice": "280.50",
     "LowestPrice": "263.00",
     "ClosingPrice": "280.00",
-    "Change": "17.50",
+    "Change": "+17.50",
     "Transaction": "905"
   },
   {
@@ -16038,7 +16038,7 @@
     "HighestPrice": "223.00",
     "LowestPrice": "213.00",
     "ClosingPrice": "215.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "132"
   },
   {
@@ -16051,7 +16051,7 @@
     "HighestPrice": "36.50",
     "LowestPrice": "35.90",
     "ClosingPrice": "36.05",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "40"
   },
   {
@@ -16090,7 +16090,7 @@
     "HighestPrice": "533.00",
     "LowestPrice": "494.00",
     "ClosingPrice": "499.00",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "1458"
   },
   {
@@ -16129,7 +16129,7 @@
     "HighestPrice": "272.00",
     "LowestPrice": "247.50",
     "ClosingPrice": "271.00",
-    "Change": "23.50",
+    "Change": "+23.50",
     "Transaction": "2708"
   },
   {
@@ -16142,7 +16142,7 @@
     "HighestPrice": "416.00",
     "LowestPrice": "400.00",
     "ClosingPrice": "416.00",
-    "Change": "37.50",
+    "Change": "+37.50",
     "Transaction": "1533"
   },
   {
@@ -16220,7 +16220,7 @@
     "HighestPrice": "430.00",
     "LowestPrice": "405.50",
     "ClosingPrice": "410.00",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "1282"
   },
   {
@@ -16233,7 +16233,7 @@
     "HighestPrice": "341.00",
     "LowestPrice": "307.50",
     "ClosingPrice": "330.00",
-    "Change": "12.00",
+    "Change": "+12.00",
     "Transaction": "1288"
   },
   {
@@ -16246,7 +16246,7 @@
     "HighestPrice": "23.55",
     "LowestPrice": "22.40",
     "ClosingPrice": "22.70",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "120"
   },
   {
@@ -16272,7 +16272,7 @@
     "HighestPrice": "46.65",
     "LowestPrice": "44.15",
     "ClosingPrice": "46.20",
-    "Change": "2.05",
+    "Change": "+2.05",
     "Transaction": "542"
   },
   {
@@ -16285,7 +16285,7 @@
     "HighestPrice": "1095.00",
     "LowestPrice": "1045.00",
     "ClosingPrice": "1095.00",
-    "Change": "20.00",
+    "Change": "+20.00",
     "Transaction": "2528"
   },
   {
@@ -16311,7 +16311,7 @@
     "HighestPrice": "155.00",
     "LowestPrice": "135.00",
     "ClosingPrice": "153.50",
-    "Change": "16.50",
+    "Change": "+16.50",
     "Transaction": "858"
   },
   {
@@ -16324,7 +16324,7 @@
     "HighestPrice": "18.95",
     "LowestPrice": "18.10",
     "ClosingPrice": "18.80",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "1133"
   },
   {
@@ -16337,7 +16337,7 @@
     "HighestPrice": "310.00",
     "LowestPrice": "298.00",
     "ClosingPrice": "309.00",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "5203"
   },
   {
@@ -16350,7 +16350,7 @@
     "HighestPrice": "475.00",
     "LowestPrice": "463.50",
     "ClosingPrice": "464.00",
-    "Change": "14.00",
+    "Change": "+14.00",
     "Transaction": "3168"
   },
   {
@@ -16363,7 +16363,7 @@
     "HighestPrice": "359.50",
     "LowestPrice": "327.50",
     "ClosingPrice": "356.50",
-    "Change": "29.50",
+    "Change": "+29.50",
     "Transaction": "13972"
   },
   {
@@ -16402,7 +16402,7 @@
     "HighestPrice": "71.70",
     "LowestPrice": "64.90",
     "ClosingPrice": "71.30",
-    "Change": "5.30",
+    "Change": "+5.30",
     "Transaction": "589"
   },
   {
@@ -16415,7 +16415,7 @@
     "HighestPrice": "923.00",
     "LowestPrice": "838.00",
     "ClosingPrice": "905.00",
-    "Change": "57.00",
+    "Change": "+57.00",
     "Transaction": "34812"
   },
   {
@@ -16428,7 +16428,7 @@
     "HighestPrice": "54.70",
     "LowestPrice": "52.50",
     "ClosingPrice": "52.80",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "5211"
   },
   {
@@ -16441,7 +16441,7 @@
     "HighestPrice": "28.75",
     "LowestPrice": "27.50",
     "ClosingPrice": "28.40",
-    "Change": "1.05",
+    "Change": "+1.05",
     "Transaction": "396"
   },
   {
@@ -16454,7 +16454,7 @@
     "HighestPrice": "290.00",
     "LowestPrice": "280.50",
     "ClosingPrice": "290.00",
-    "Change": "7.00",
+    "Change": "+7.00",
     "Transaction": "1631"
   },
   {
@@ -16467,7 +16467,7 @@
     "HighestPrice": "14.55",
     "LowestPrice": "13.25",
     "ClosingPrice": "14.55",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "82"
   },
   {
@@ -16480,7 +16480,7 @@
     "HighestPrice": "119.50",
     "LowestPrice": "111.50",
     "ClosingPrice": "113.50",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "4309"
   },
   {
@@ -16493,7 +16493,7 @@
     "HighestPrice": "43.00",
     "LowestPrice": "40.05",
     "ClosingPrice": "41.50",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "4642"
   },
   {
@@ -16506,7 +16506,7 @@
     "HighestPrice": "19.30",
     "LowestPrice": "17.40",
     "ClosingPrice": "19.30",
-    "Change": "1.75",
+    "Change": "+1.75",
     "Transaction": "5446"
   },
   {
@@ -16519,7 +16519,7 @@
     "HighestPrice": "69.50",
     "LowestPrice": "64.00",
     "ClosingPrice": "65.20",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "37471"
   },
   {
@@ -16532,7 +16532,7 @@
     "HighestPrice": "92.70",
     "LowestPrice": "88.30",
     "ClosingPrice": "91.40",
-    "Change": "2.80",
+    "Change": "+2.80",
     "Transaction": "32606"
   },
   {
@@ -16558,7 +16558,7 @@
     "HighestPrice": "264.00",
     "LowestPrice": "238.50",
     "ClosingPrice": "259.50",
-    "Change": "13.50",
+    "Change": "+13.50",
     "Transaction": "3228"
   },
   {
@@ -16571,7 +16571,7 @@
     "HighestPrice": "79.20",
     "LowestPrice": "73.50",
     "ClosingPrice": "75.50",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "15179"
   },
   {
@@ -16597,7 +16597,7 @@
     "HighestPrice": "80.80",
     "LowestPrice": "73.50",
     "ClosingPrice": "80.80",
-    "Change": "7.30",
+    "Change": "+7.30",
     "Transaction": "532"
   },
   {
@@ -16610,7 +16610,7 @@
     "HighestPrice": "42.90",
     "LowestPrice": "39.00",
     "ClosingPrice": "41.80",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "5791"
   },
   {
@@ -16623,7 +16623,7 @@
     "HighestPrice": "13.70",
     "LowestPrice": "13.10",
     "ClosingPrice": "13.70",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "138"
   },
   {
@@ -16636,7 +16636,7 @@
     "HighestPrice": "1450.00",
     "LowestPrice": "1375.00",
     "ClosingPrice": "1400.00",
-    "Change": "35.00",
+    "Change": "+35.00",
     "Transaction": "3433"
   },
   {
@@ -16662,7 +16662,7 @@
     "HighestPrice": "32.35",
     "LowestPrice": "29.20",
     "ClosingPrice": "32.35",
-    "Change": "2.90",
+    "Change": "+2.90",
     "Transaction": "9023"
   },
   {
@@ -16675,7 +16675,7 @@
     "HighestPrice": "38.95",
     "LowestPrice": "36.65",
     "ClosingPrice": "38.25",
-    "Change": "1.90",
+    "Change": "+1.90",
     "Transaction": "1228"
   },
   {
@@ -16714,7 +16714,7 @@
     "HighestPrice": "256.00",
     "LowestPrice": "245.50",
     "ClosingPrice": "248.50",
-    "Change": "3.00",
+    "Change": "+3.00",
     "Transaction": "6247"
   },
   {
@@ -16727,7 +16727,7 @@
     "HighestPrice": "76.60",
     "LowestPrice": "74.90",
     "ClosingPrice": "76.60",
-    "Change": "1.40",
+    "Change": "+1.40",
     "Transaction": "544"
   },
   {
@@ -16740,7 +16740,7 @@
     "HighestPrice": "41.30",
     "LowestPrice": "40.50",
     "ClosingPrice": "41.20",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "49"
   },
   {
@@ -16753,7 +16753,7 @@
     "HighestPrice": "114.00",
     "LowestPrice": "106.00",
     "ClosingPrice": "112.00",
-    "Change": "6.00",
+    "Change": "+6.00",
     "Transaction": "3865"
   },
   {
@@ -16766,7 +16766,7 @@
     "HighestPrice": "16.75",
     "LowestPrice": "16.35",
     "ClosingPrice": "16.70",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "370"
   },
   {
@@ -16792,7 +16792,7 @@
     "HighestPrice": "28.40",
     "LowestPrice": "27.00",
     "ClosingPrice": "27.70",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "8182"
   },
   {
@@ -16818,7 +16818,7 @@
     "HighestPrice": "88.20",
     "LowestPrice": "85.40",
     "ClosingPrice": "87.00",
-    "Change": "0.80",
+    "Change": "+0.80",
     "Transaction": "359"
   },
   {
@@ -16844,7 +16844,7 @@
     "HighestPrice": "11.25",
     "LowestPrice": "11.15",
     "ClosingPrice": "11.25",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "112"
   },
   {
@@ -16857,7 +16857,7 @@
     "HighestPrice": "254.00",
     "LowestPrice": "236.50",
     "ClosingPrice": "241.50",
-    "Change": "10.50",
+    "Change": "+10.50",
     "Transaction": "50848"
   },
   {
@@ -16870,7 +16870,7 @@
     "HighestPrice": "142.00",
     "LowestPrice": "138.50",
     "ClosingPrice": "141.50",
-    "Change": "2.00",
+    "Change": "+2.00",
     "Transaction": "228"
   },
   {
@@ -16896,7 +16896,7 @@
     "HighestPrice": "325.50",
     "LowestPrice": "318.00",
     "ClosingPrice": "324.00",
-    "Change": "6.50",
+    "Change": "+6.50",
     "Transaction": "1006"
   },
   {
@@ -16922,7 +16922,7 @@
     "HighestPrice": "132.00",
     "LowestPrice": "127.00",
     "ClosingPrice": "131.50",
-    "Change": "3.50",
+    "Change": "+3.50",
     "Transaction": "60"
   },
   {
@@ -16935,7 +16935,7 @@
     "HighestPrice": "55.40",
     "LowestPrice": "50.80",
     "ClosingPrice": "55.40",
-    "Change": "5.00",
+    "Change": "+5.00",
     "Transaction": "5003"
   },
   {
@@ -16948,7 +16948,7 @@
     "HighestPrice": "15.85",
     "LowestPrice": "15.30",
     "ClosingPrice": "15.60",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "250"
   },
   {
@@ -16961,7 +16961,7 @@
     "HighestPrice": "159.00",
     "LowestPrice": "151.50",
     "ClosingPrice": "155.50",
-    "Change": "2.50",
+    "Change": "+2.50",
     "Transaction": "510"
   },
   {
@@ -16987,7 +16987,7 @@
     "HighestPrice": "49.55",
     "LowestPrice": "48.65",
     "ClosingPrice": "49.00",
-    "Change": "0.70",
+    "Change": "+0.70",
     "Transaction": "15"
   },
   {
@@ -17000,7 +17000,7 @@
     "HighestPrice": "82.20",
     "LowestPrice": "81.10",
     "ClosingPrice": "82.00",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "142"
   },
   {
@@ -17013,7 +17013,7 @@
     "HighestPrice": "10.15",
     "LowestPrice": "9.90",
     "ClosingPrice": "10.15",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "22"
   },
   {
@@ -17039,7 +17039,7 @@
     "HighestPrice": "69.90",
     "LowestPrice": "66.00",
     "ClosingPrice": "67.20",
-    "Change": "0.60",
+    "Change": "+0.60",
     "Transaction": "9190"
   },
   {
@@ -17091,7 +17091,7 @@
     "HighestPrice": "24.70",
     "LowestPrice": "24.00",
     "ClosingPrice": "24.45",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "52"
   },
   {
@@ -17104,7 +17104,7 @@
     "HighestPrice": "9.68",
     "LowestPrice": "9.00",
     "ClosingPrice": "9.68",
-    "Change": "0.88",
+    "Change": "+0.88",
     "Transaction": "35337"
   },
   {
@@ -17117,7 +17117,7 @@
     "HighestPrice": "4.75",
     "LowestPrice": "4.57",
     "ClosingPrice": "4.66",
-    "Change": "0.08",
+    "Change": "+0.08",
     "Transaction": "57"
   },
   {
@@ -17130,7 +17130,7 @@
     "HighestPrice": "3.04",
     "LowestPrice": "2.99",
     "ClosingPrice": "3.04",
-    "Change": "0.24",
+    "Change": "+0.24",
     "Transaction": "23"
   },
   {
@@ -17143,7 +17143,7 @@
     "HighestPrice": "2.82",
     "LowestPrice": "2.66",
     "ClosingPrice": "2.82",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "157"
   },
   {
@@ -17169,7 +17169,7 @@
     "HighestPrice": "1.35",
     "LowestPrice": "1.29",
     "ClosingPrice": "1.31",
-    "Change": "0.01",
+    "Change": "+0.01",
     "Transaction": "180"
   },
   {
@@ -17182,7 +17182,7 @@
     "HighestPrice": "2.64",
     "LowestPrice": "2.39",
     "ClosingPrice": "2.64",
-    "Change": "0.24",
+    "Change": "+0.24",
     "Transaction": "308"
   },
   {
@@ -17195,7 +17195,7 @@
     "HighestPrice": "12.20",
     "LowestPrice": "10.85",
     "ClosingPrice": "12.15",
-    "Change": "1.05",
+    "Change": "+1.05",
     "Transaction": "595"
   },
   {
@@ -17208,7 +17208,7 @@
     "HighestPrice": "77.80",
     "LowestPrice": "73.70",
     "ClosingPrice": "77.70",
-    "Change": "4.10",
+    "Change": "+4.10",
     "Transaction": "1347"
   },
   {
@@ -17221,7 +17221,7 @@
     "HighestPrice": "13.90",
     "LowestPrice": "13.75",
     "ClosingPrice": "13.80",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "172"
   },
   {
@@ -17234,7 +17234,7 @@
     "HighestPrice": "25.80",
     "LowestPrice": "25.40",
     "ClosingPrice": "25.80",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "7992"
   },
   {
@@ -17247,7 +17247,7 @@
     "HighestPrice": "20.90",
     "LowestPrice": "20.65",
     "ClosingPrice": "20.85",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "112"
   },
   {
@@ -17260,7 +17260,7 @@
     "HighestPrice": "36.15",
     "LowestPrice": "33.60",
     "ClosingPrice": "35.90",
-    "Change": "1.55",
+    "Change": "+1.55",
     "Transaction": "291"
   },
   {
@@ -17273,7 +17273,7 @@
     "HighestPrice": "16.25",
     "LowestPrice": "16.05",
     "ClosingPrice": "16.20",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "2518"
   },
   {
@@ -17286,7 +17286,7 @@
     "HighestPrice": "29.40",
     "LowestPrice": "29.10",
     "ClosingPrice": "29.30",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "250"
   },
   {
@@ -17299,7 +17299,7 @@
     "HighestPrice": "72.00",
     "LowestPrice": "69.30",
     "ClosingPrice": "71.90",
-    "Change": "1.70",
+    "Change": "+1.70",
     "Transaction": "2596"
   },
   {
@@ -17338,7 +17338,7 @@
     "HighestPrice": "68.00",
     "LowestPrice": "66.00",
     "ClosingPrice": "68.00",
-    "Change": "1.30",
+    "Change": "+1.30",
     "Transaction": "1070"
   },
   {
@@ -17351,7 +17351,7 @@
     "HighestPrice": "115.00",
     "LowestPrice": "113.50",
     "ClosingPrice": "115.00",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "877"
   },
   {
@@ -17364,7 +17364,7 @@
     "HighestPrice": "44.20",
     "LowestPrice": "43.05",
     "ClosingPrice": "43.50",
-    "Change": "0.35",
+    "Change": "+0.35",
     "Transaction": "100"
   },
   {
@@ -17377,7 +17377,7 @@
     "HighestPrice": "14.30",
     "LowestPrice": "14.00",
     "ClosingPrice": "14.15",
-    "Change": "0.05",
+    "Change": "+0.05",
     "Transaction": "436"
   },
   {
@@ -17390,7 +17390,7 @@
     "HighestPrice": "70.50",
     "LowestPrice": "68.20",
     "ClosingPrice": "69.80",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "2743"
   },
   {
@@ -17403,7 +17403,7 @@
     "HighestPrice": "42.80",
     "LowestPrice": "42.25",
     "ClosingPrice": "42.65",
-    "Change": "0.15",
+    "Change": "+0.15",
     "Transaction": "277"
   },
   {
@@ -17442,7 +17442,7 @@
     "HighestPrice": "68.70",
     "LowestPrice": "67.80",
     "ClosingPrice": "68.30",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "229"
   },
   {
@@ -17468,7 +17468,7 @@
     "HighestPrice": "11.80",
     "LowestPrice": "11.45",
     "ClosingPrice": "11.60",
-    "Change": "0.30",
+    "Change": "+0.30",
     "Transaction": "24"
   },
   {
@@ -17481,7 +17481,7 @@
     "HighestPrice": "69.20",
     "LowestPrice": "68.70",
     "ClosingPrice": "69.00",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "108"
   },
   {
@@ -17494,7 +17494,7 @@
     "HighestPrice": "34.95",
     "LowestPrice": "34.05",
     "ClosingPrice": "34.75",
-    "Change": "0.75",
+    "Change": "+0.75",
     "Transaction": "56"
   },
   {
@@ -17520,7 +17520,7 @@
     "HighestPrice": "9.97",
     "LowestPrice": "9.70",
     "ClosingPrice": "9.96",
-    "Change": "0.25",
+    "Change": "+0.25",
     "Transaction": "691"
   },
   {
@@ -17546,7 +17546,7 @@
     "HighestPrice": "55.70",
     "LowestPrice": "55.10",
     "ClosingPrice": "55.70",
-    "Change": "0.20",
+    "Change": "+0.20",
     "Transaction": "63"
   },
   {
@@ -17559,7 +17559,7 @@
     "HighestPrice": "44.30",
     "LowestPrice": "43.05",
     "ClosingPrice": "44.05",
-    "Change": "1.10",
+    "Change": "+1.10",
     "Transaction": "1963"
   },
   {
@@ -17572,7 +17572,7 @@
     "HighestPrice": "124.50",
     "LowestPrice": "122.00",
     "ClosingPrice": "124.50",
-    "Change": "1.00",
+    "Change": "+1.00",
     "Transaction": "1109"
   },
   {
@@ -17585,7 +17585,7 @@
     "HighestPrice": "19.15",
     "LowestPrice": "18.55",
     "ClosingPrice": "19.10",
-    "Change": "0.45",
+    "Change": "+0.45",
     "Transaction": "555"
   },
   {
@@ -17598,7 +17598,7 @@
     "HighestPrice": "73.80",
     "LowestPrice": "72.50",
     "ClosingPrice": "73.60",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "2329"
   },
   {
@@ -17611,7 +17611,7 @@
     "HighestPrice": "50.40",
     "LowestPrice": "50.30",
     "ClosingPrice": "50.40",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "16"
   },
   {
@@ -17624,7 +17624,7 @@
     "HighestPrice": "120.50",
     "LowestPrice": "118.50",
     "ClosingPrice": "120.00",
-    "Change": "0.50",
+    "Change": "+0.50",
     "Transaction": "175"
   },
   {
@@ -17663,7 +17663,7 @@
     "HighestPrice": "23.80",
     "LowestPrice": "23.15",
     "ClosingPrice": "23.70",
-    "Change": "0.40",
+    "Change": "+0.40",
     "Transaction": "3553"
   },
   {
@@ -17676,7 +17676,7 @@
     "HighestPrice": "16.55",
     "LowestPrice": "16.20",
     "ClosingPrice": "16.55",
-    "Change": "0.10",
+    "Change": "+0.10",
     "Transaction": "306"
   },
   {
@@ -17689,7 +17689,7 @@
     "HighestPrice": "29.10",
     "LowestPrice": "27.85",
     "ClosingPrice": "28.85",
-    "Change": "0.90",
+    "Change": "+0.90",
     "Transaction": "501"
   },
   {
@@ -17702,7 +17702,7 @@
     "HighestPrice": "107.00",
     "LowestPrice": "104.00",
     "ClosingPrice": "105.00",
-    "Change": "1.50",
+    "Change": "+1.50",
     "Transaction": "1915"
   }
 ]
