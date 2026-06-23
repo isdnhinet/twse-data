@@ -1,4 +1,4 @@
-name: Convert TWSE data Transform
+name: Convert TWSE data
 
 on:
   workflow_dispatch: 
