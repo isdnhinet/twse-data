@@ -27,12 +27,13 @@ def clean_value(field, value):
 
     if field == "Change":
         try: 
-            return f"{float(value):.4f}"
-        except: 
-            pass
+            return f"{float(value.replace('+', '')):.4f}"
+        except Exception as e: 
+            print("FAIL VALUE:", repr(value), type(value), e)
+            return value
         
     if isinstance(value, str):
-        return value.replace(",", "").replace("+", "")
+        return value.replace(",", "")
         
     return value
 
