@@ -27,7 +27,7 @@ def convert_old_to_new(old):
         new_data.append(item)
     return new_data
 
-output_dir = Path("dayall")
+output_dir = Path("data/dayall")
 output_dir.mkdir(exist_ok=True)
 
 for file in Path("data").glob("*.json"):
