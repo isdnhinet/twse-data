@@ -25,7 +25,7 @@ def clean_value(field, value):
     if value in (None, ""):
         return value
 
-    if field == "Change":
+    if field  == "Change":
         try: 
             return f"{float(value.replace('+', '')):.4f}"
         except Exception as e: 
@@ -46,7 +46,8 @@ def convert_old_to_new(old):
 
         for field, value in zip(old["fields"], row):
             if field in FIELD_MAP:
-                item[FIELD_MAP[field]] = clean_value(field, value)
+                new_field = FIELD_MAP[field]
+                item[new_field] = clean_value(new_field, value)
         
         new_data.append(item)
     return new_data
