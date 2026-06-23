@@ -14,6 +14,11 @@ FIELD_MAP = {
     "成交筆數": "Transaction",
 }
 
+def clean_value(value):
+    if isinstance(value, str):
+        return value.replace(",", "").replace("+", "")
+    return value
+
 def convert_old_to_new(old):
     date = old["date"]
     new_data = []
@@ -22,7 +27,7 @@ def convert_old_to_new(old):
 
         for field, value in zip(old["fields"], row):
             if field in FIELD_MAP:
-                item[FIELD_MAP[field]] = value
+                item[FIELD_MAP[field]] = clean_value(value)
         
         new_data.append(item)
     return new_data
