@@ -26,19 +26,19 @@ jobs:
         run: pip install requests
 
       - name: Run fetch script
-        run: python fetch_twse_daily.py
+        run: python fetch_twse_daily_v1.py
         
       - name: Commit & push data
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-          # 先 commit，確保工作目錄乾淨
-          git add -A
-          git diff --cached --quiet || git commit -m "Add TWSE data for $(date +'%Y-%m-%d')"
-
-          # 再同步遠端，避免 push 被拒絕
+          # 同步遠端，避免 push 被拒絕
           git pull origin main --rebase
+          
+          # 先 commit，確保工作目錄乾淨
+          git add data/dayall/
+          git diff --cached --quiet || git commit -m "Add TWSE data for $(date +'%Y-%m-%d')"
 
           # 最後推送
           git push origin main
