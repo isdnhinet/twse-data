@@ -52,9 +52,9 @@ for file in Path("data").glob("*.json"):
     with open(file, encoding="utf-8") as f:
         data = json.load(f)
 
-    if isinstance(data, list):
-        print("Already new format")
-        continue
+    #if isinstance(data, list):
+     #   print("Already new format")
+      #  continue
 
     new_data = convert_old_to_new(data)
 
