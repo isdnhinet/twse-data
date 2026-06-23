@@ -1,2 +1,4 @@
 # twse-data
-Fetch tw stock day form "https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=json"
+Fetch twse data form 
+"https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=json"
+"https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
