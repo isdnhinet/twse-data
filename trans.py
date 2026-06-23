@@ -45,8 +45,8 @@ def convert_old_to_new(old):
         new_data.append(item)
     return new_data
 
-output_dir = Path("dayall")
-output_dir.mkdir(exist_ok=True)
+output_dir = Path("data/dayall")
+output_dir.mkdir(parents=True, exist_ok=True)
 
 for file in Path("data").glob("*.json"):
     with open(file, encoding="utf-8") as f:
@@ -63,4 +63,4 @@ for file in Path("data").glob("*.json"):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(new_data, f, ensure_ascii=False, indent=2)
 
-    print("converted -> {output_path}")
+    print(f"converted -> {output_path}")
