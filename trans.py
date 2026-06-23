@@ -22,13 +22,18 @@ def convert_date_to_roc(d):
     return f"{year}{rest}"
 
 def clean_value(field, value):
-    if isinstance(value, str):
-        return value.replace(",", "").replace("+", "")
-    if field == "Change" and value not in (None, ""):
+    if value in (None, ""):
+        return value
+
+    if field == "Change":
         try: 
             return f"{float(value):.4f}"
         except: 
-            return value
+            pass
+        
+    if isinstance(value, str):
+        return value.replace(",", "").replace("+", "")
+        
     return value
 
 def convert_old_to_new(old):
