@@ -2,6 +2,7 @@ name: Run TWSE Transform
 
 on:
   push:
+    workflow_dispatch: 
     paths:
       - "data/**"
       - "trans.py"
