@@ -3,8 +3,8 @@ Fetch twse data form
 
 Old daily - "https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=json"  
 ```ts
-interface TwseStockDayAllOld {  
-  stat: string;  
+{  
+  stat: string;
   date: string;  
   title: string;  
   fields: string[];  
@@ -13,18 +13,19 @@ interface TwseStockDayAllOld {
 ```
 New daily "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
 ```ts
-interface TwseStockDayAllNew {  
-  Date: string;  
-  Code: string;  
-  Name: string;  
-  TradeVolume: string;  
-  TradeValue: string;  
-  Transaction: string;  
-  OpeningPrice: string;  
-  HighestPrice: string;  
-  LowestPrice: string;  
-  ClosingPrice: string;  
-  Change: string;  
-}  
-type TwseResponseNew = TwseStockDayAllNew[];
+[
+  {  
+    Date: string;  
+    Code: string;  
+    Name: string;  
+    TradeVolume: string;  
+    TradeValue: string;  
+    Transaction: string;  
+    OpeningPrice: string;  
+    HighestPrice: string;  
+    LowestPrice: string;  
+    ClosingPrice: string;  
+    Change: string;  
+  },
+]
 ```
