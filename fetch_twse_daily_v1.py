@@ -2,7 +2,7 @@ import requests, datetime, json, os, time
 
 url = "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
 
-headers = { "User-Agent": "Mozilla/5.0 }
+headers = { "User-Agent": "Mozilla/5.0" }
 
 r = requests.get(url, headers=headers, timeout=30)
 r.raise_for_status()
