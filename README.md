@@ -10,7 +10,7 @@ interface TwseStockDayAllOld {
   fields: string[];  
   data: string[][];  
 }
-
+```
 new daily "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
 ```ts
 interface TwseStockDayAllNew {  
@@ -27,4 +27,4 @@ interface TwseStockDayAllNew {
   Change: string;  
 }  
 type TwseResponseNew = TwseStockDayAllNew[];
-
+```
