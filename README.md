@@ -1,6 +1,7 @@
 # twse-data
-fetch twse data form 
-old daily - "https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=json"
+fetch twse data form
+
+old daily - "https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=json"  
 interface TwseStockDayAllOld {
   stat: string;
   date: string;
@@ -9,7 +10,7 @@ interface TwseStockDayAllOld {
   data: string[][];
 }
 
-new daily "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
+new daily "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"  
 interface TwseStockDayAllNew {
   Date: string;
   Code: string;
@@ -22,6 +23,5 @@ interface TwseStockDayAllNew {
   ClosingPrice: string;
   Change: string;
   Transaction: string;
-}
-
+}  
 type TwseResponseNew = TwseStockDayAllNew[];
