@@ -1,7 +1,7 @@
 # twse-data
-fetch twse data form
+Fetch twse data form
 
-old daily - "https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=json"  
+Old daily - "https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=json"  
 ```ts
 interface TwseStockDayAllOld {  
   stat: string;  
@@ -11,7 +11,7 @@ interface TwseStockDayAllOld {
   data: string[][];  
 }
 ```
-new daily "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
+New daily "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
 ```ts
 interface TwseStockDayAllNew {  
   Date: string;  
