@@ -8,14 +8,25 @@ async def fetch_wantgoo():
     browser = await p.chromium.launch(headless=True)
     page = await browser.new_page()
 
-    await page.goto("https://www.wantgoo.com/investrue") # 開網頁，通過 Cloudflare 驗證並取得 Cookie
-    await page.wait_for_timeout(5000) # 等待頁面載入與驗證
 
-    # 用 page.request.get 取得 API JSON
+    # 1. 先進入主頁，讓 Cloudflare 驗證
+    await page.goto("https://www.wantgoo.com/index/listed/industry")
+    await page.wait_for_timeout(5000)  # 等待驗證完成
+
+    # 2. 取得 cookie
+    cookies = await page.context.cookies()
+    cookie_header = "; ".join([f"{c['name']}={c['value']}" for c in cookies])
+
+    # 3. 用帶 cookie 的 request 打 API
     response = await page.request.get(
-      "https://www.wantgoo.com/investrue/all-alive",
-      headers={"Referer": "https://www.wantgoo.com/investrue"}
+        "https://www.wantgoo.com/investrue/all-alive",
+        headers={
+            "Referer": "https://www.wantgoo.com/index/listed/industry",
+            "Cookie": cookie_header
+        }
     )
+    
+    # 4. 解析 JSON
     data = await response.json()
 
     await browser.close()
