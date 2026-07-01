@@ -1,5 +1,4 @@
-import asyncio
-import json
+import asyncio, json, os
 from playwright.async_api import async_playwright
 
 async def fetch_wantgoo():
@@ -29,3 +28,16 @@ async def fetch_wantgoo():
 
     await browser.close()
     return data
+    
+if __name__ == "__main__":
+  result = asyncio.run(fetch_wantgoo())
+  
+  # 存成檔案
+  os.makedirs("data/wantgoo", exist_ok=True)
+  
+  path = f"data/wantgoo/wantgoo.json"
+  
+  with open(path, "w", encoding="utf-8") as f:
+    json.dump(result, f, ensure_ascii=False, indent=2)
+
+  print(f"saved: data/wantgoo/wantgoo.json")
