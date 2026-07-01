@@ -10,11 +10,12 @@ async def fetch_wantgoo():
 
     # 1. 先進入主頁，讓 Cloudflare 驗證
     await page.goto("https://www.wantgoo.com/index/listed/industry")
-    await page.wait_for_load_state("networkidle") # 等待驗證完成
+    await page.wait_for_load_state("load") # 等待驗證完成
 
     # 2. 取得 cookie
     cookies = await page.context.cookies()
     cookie_header = "; ".join([f"{c['name']}={c['value']}" for c in cookies])
+    print("Cookies:", cookies)
 
     # 3. 用帶 cookie 的 request 打 API
     response = await page.request.get(
