@@ -8,10 +8,9 @@ async def fetch_wantgoo():
     browser = await p.chromium.launch(headless=True)
     page = await browser.new_page()
 
-
     # 1. 先進入主頁，讓 Cloudflare 驗證
     await page.goto("https://www.wantgoo.com/index/listed/industry")
-    await page.wait_for_timeout(5000)  # 等待驗證完成
+    await page.wait_for_load_state("networkidle") # 等待驗證完成
 
     # 2. 取得 cookie
     cookies = await page.context.cookies()
@@ -27,6 +26,8 @@ async def fetch_wantgoo():
     )
     
     # 4. 解析 JSON
+    content = await response.text()
+    print("DEBUG:", content[:200])
     data = await response.json()
 
     await browser.close()
