@@ -8,23 +8,15 @@ async def fetch_wantgoo():
     browser = await p.chromium.launch(headless=True)
     page = await browser.new_page()
 
-    # 開網頁，通過 Cloudflare 驗證並取得 Cookie
-    await page.goto("https://www.wantgoo.com/investrue")
-    # 等待頁面載入與驗證
-    await page.wait_for_timeout(5000)
+    await page.goto("https://www.wantgoo.com/investrue") # 開網頁，通過 Cloudflare 驗證並取得 Cookie
+    await page.wait_for_timeout(5000) # 等待頁面載入與驗證
 
-    # 在瀏覽器環境呼叫 API
-    data = await page.evaluate("""
-        async () => {
-            const res = await fetch("https://www.wantgoo.com/investrue/all-alive", {
-                method: "GET",
-                headers: {
-                    "Referer": "https://www.wantgoo.com/investrue"
-                }
-            });
-            return await res.json();
-        }
-    """)
+    # 用 page.request.get 取得 API JSON
+    response = await page.request.get(
+      "https://www.wantgoo.com/investrue/all-alive",
+      headers={"Referer": "https://www.wantgoo.com/investrue"}
+    )
+    data = await response.json()
 
     await browser.close()
     return data
@@ -34,10 +26,9 @@ if __name__ == "__main__":
   
   # 存成檔案
   os.makedirs("data/wantgoo", exist_ok=True)
-  
-  path = f"data/wantgoo/wantgoo.json"
+  path = "data/wantgoo/wantgoo.json"
   
   with open(path, "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
-  print(f"saved: data/wantgoo/wantgoo.json")
+  print(f"saved: {path}")
