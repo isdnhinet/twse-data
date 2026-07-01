@@ -1,0 +1,32 @@
+name: Fetch Wantgoo all-alive
+
+on: 
+  schedule:
+    - cron: "0 2 5 * *" # 台灣時間 10:00 (UTC+8 → UTC 2)
+  workflow_dispatch: # 允許手動觸發
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # 強制使用 Node.js 24
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run fetch script
+        run: python fetch_wantgoo_all-alive.py
+
+      - name: Show output
+        run: cat data/wantgoo/wantgoo.json
