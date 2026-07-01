@@ -9,9 +9,10 @@ async def fetch_wantgoo():
     # 1. 先進入主頁，讓 Cloudflare 驗證
     await page.goto(
       "https://www.wantgoo.com/index/listed/industry",
-      wait_until="networkidle",
+      wait_until="load",
       timeout=60000
     )
+    await page.wait_for_timeout(5000)
 
     # ===== 診斷 Cloudflare 狀態 =====
     print("Current URL:", page.url)
