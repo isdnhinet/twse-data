@@ -31,13 +31,3 @@ jobs:
       - name: Run fetch script
         # run: python fetch_wantgoo_all-alive.py
         run: python test_wantgoo.py
-
-      - name: Show output
-        run: cat data/wantgoo/wantgoo.json
-        
-      - name: Upload debug files
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: wantgoo-debug
-          path: data/wantgoo/
