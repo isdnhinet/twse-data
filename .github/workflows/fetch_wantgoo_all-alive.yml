@@ -29,7 +29,8 @@ jobs:
           playwright install chromium
 
       - name: Run fetch script
-        run: python fetch_wantgoo_all-alive.py
+        # run: python fetch_wantgoo_all-alive.py
+        run: python test_wantgoo.py
 
       - name: Show output
         run: cat data/wantgoo/wantgoo.json
