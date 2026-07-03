@@ -2,7 +2,7 @@ name: Fetch TWSE Data
 
 on:
   schedule:
-    - cron: "0 10 * * 1-5"   # 每天台灣時間 18:00 (UTC+8 → UTC 10)
+    - cron: "0 12 * * 1-5"   # 每天台灣時間 18:00 (UTC+8 → UTC 10)
   workflow_dispatch:        # 手動觸發
 
 permissions:
