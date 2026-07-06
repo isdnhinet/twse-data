@@ -2,8 +2,11 @@ name: Fetch TWSE Data
 
 on:
   schedule:
-    - cron: "0 12 * * 1-5"   # 每天台灣時間 18:00 (UTC+8 → UTC 10)
-  workflow_dispatch:        # 手動觸發
+    # 台灣時間 18:00 (UTC+8 → UTC 12)
+    - cron: "0 12 * * 1-5"  
+    # 台灣時間 18:00 (UTC+8 → UTC 12)
+    - cron: "0 3 * * 1-5"  
+  workflow_dispatch: # 手動觸發
 
 permissions:
   contents: write
@@ -12,7 +15,7 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # 強制使用 Node.js 24
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # 強制使用 Node.js 24
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
