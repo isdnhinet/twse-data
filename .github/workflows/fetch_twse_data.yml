@@ -4,8 +4,6 @@ on:
   schedule:
     # 台灣時間 18:00 (UTC+8 → UTC 12)
     - cron: "0 12 * * 1-5"  
-    # 台灣時間 18:00 (UTC+8 → UTC 12)
-    - cron: "0 3 * * 1-5"  
   workflow_dispatch: # 手動觸發
 
 permissions:
