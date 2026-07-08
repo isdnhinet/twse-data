@@ -1,4 +1,4 @@
-name: Fetch TWSE Data
+name: Fetch TWSE Industry
 
 on:
   workflow_dispatch:
